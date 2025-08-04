@@ -2,3 +2,4 @@
 .env
 /src/.ipynb_checkpoints
 /.virtual_documents
+/anaconda_projects
