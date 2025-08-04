@@ -1,0 +1,2060 @@
+Abil/Name/AMSSystems=反导系统
+Abil/Name/ActivateAMS=激活反导系统
+Abil/Name/ActivateFlamer=激活火焰喷射器
+Abil/Name/Afterburners=后燃推进
+Abil/Name/AlphaStrike=阿尔法打击
+Abil/Name/AntiPersonnelPods=反步兵弹荚
+Abil/Name/ArmorLock=装甲锁定
+Abil/Name/ArmoredCoreLeveling=装甲核心等级
+Abil/Name/ArtilleryBarrage=火炮弹幕
+Abil/Name/AssaultMode2=机甲模式
+Abil/Name/AssaultModeHeimdall=海姆达尔机甲模式
+Abil/Name/BacktoHyperionGateway=返回休伯利安号折跃门
+Abil/Name/BarrelONapalm=桶装凝固汽油
+Abil/Name/Bifrost=彩虹之桥
+Abil/Name/BrigandAssaultMode=强盗 - 机甲模式
+Abil/Name/BrigandFighterMode=强盗 - 战机模式
+Abil/Name/Build=建造
+Abil/Name/BuildMjolnir=建造雷神之锤
+Abil/Name/BuildNuke=建造核弹
+Abil/Name/Burrow=潜地
+Abil/Name/BurrowFenris=潜地
+Abil/Name/CallinFleetDummy=呼叫舰队(虚拟)
+Abil/Name/CallintheFleet=呼叫舰队
+Abil/Name/ChaosArchonMerge=混沌执政官合体
+Abil/Name/ChargedDash=充能冲刺
+Abil/Name/CloakingField=隐形力场
+Abil/Name/CombatMedicHeal=战地医疗兵治疗
+Abil/Name/ConcussiveShot=震荡射击
+Abil/Name/CrusaderLearn=十字军学习
+Abil/Name/CrusaderSiegeMode=十字军攻城模式
+Abil/Name/DebilitatingGrenadesLeveling=削弱手雷等级
+Abil/Name/DefenseMatrix=防御矩阵
+Abil/Name/DeploySpiderMines=部署蜘蛛雷
+Abil/Name/DireWolfLearn=恐狼学习
+Abil/Name/Displacement=位移
+Abil/Name/EMP2=电磁脉冲
+Abil/Name/EngineBoost=引擎助推
+Abil/Name/FOBBuild=前线基地 - 建造
+Abil/Name/FOBBuildAddons=前线基地 - 建造附属建筑
+Abil/Name/FOBLand=前线基地 - 着陆
+Abil/Name/FOBLiftoff=前线基地 - 升空
+Abil/Name/FacilityLiftOff=设施 - 升空
+Abil/Name/FactoryLand2=设施 - 着陆
+Abil/Name/FactoryLandHyperion=工厂着陆
+Abil/Name/FatManLearn=胖子学习
+Abil/Name/FenrisCloak=芬里尔隐形
+Abil/Name/FenrisSnipe=芬里尔狙击
+Abil/Name/FighterMode2=战机模式
+Abil/Name/FighterModeHeimdall=海姆达尔战机模式
+Abil/Name/FireWave=火焰波
+Abil/Name/Fireball=火球术
+Abil/Name/FlameOn=烈焰风暴
+Abil/Name/FlamingThornsLeveling=烈焰荆棘等级
+Abil/Name/Flightpack=飞行背包
+Abil/Name/FragGrenade=破片手雷
+Abil/Name/FusionBomb=聚变炸弹
+Abil/Name/Gjallarhorn=加拉尔号角
+Abil/Name/HarvesterAfterburners=收割者后燃推进
+Abil/Name/HarvesterLand=收割者着陆
+Abil/Name/HeimdallLearn=海姆达尔学习
+Abil/Name/HybridBlasterMaelstrom=混合体冲击波 - 大漩涡
+Abil/Name/HyperionBuild=休伯利安号 - 建造
+Abil/Name/HyperionLand=休伯利安号着陆
+Abil/Name/HyperionLiftoff=休伯利安号升空
+Abil/Name/HyperionMercTrain=休伯利安号佣兵训练
+Abil/Name/HyperionTrainAir=休伯利安号 - 训练空中单位
+Abil/Name/HyperionTrainBarracks=休伯利安号 - 训练地面单位
+Abil/Name/HyperionTrainVehicles=休伯利安号 - 训练载具
+Abil/Name/JackFrostLearn=冰霜杰克学习
+Abil/Name/JumpBeacon=跳跃信标 - 升空
+Abil/Name/JumpJets=跳跃喷射器
+Abil/Name/JumpJetsLeveling=跳跃喷射器等级
+Abil/Name/LoadUnloadUnits=装载/卸载单位
+Abil/Name/LockdownMissile=锁定导弹
+Abil/Name/MAC=电磁加速炮
+Abil/Name/ManufacturingFacilityBuild=生产设施建造
+Abil/Name/MechWarriorLearn=机甲战士学习
+Abil/Name/MercHeroRevive=佣兵英雄复活
+Abil/Name/MiniNuke=小型核弹
+Abil/Name/MiniNukeCalldown=小型核弹空投
+Abil/Name/Mining=采矿
+Abil/Name/MissilePods2=导弹荚舱
+Abil/Name/MissilePodsMech=导弹荚舱(机甲)
+Abil/Name/MjolnirNormal=雷神之锤普通模式
+Abil/Name/MjolnirSiegeMode=雷神之锤攻城模式
+Abil/Name/MultiShotLauncher=多重射击发射器
+Abil/Name/NanoMachineHealing=纳米机器人治疗
+Abil/Name/NeosteelArmorLeveling=新式钢甲等级
+Abil/Name/NightHowl=暗夜嚎叫
+Abil/Name/NuclearRadiation=核辐射
+Abil/Name/OilDrop=油料泄漏
+Abil/Name/OverchargedCannons=过载火炮
+Abil/Name/PackLeader=狼群领袖
+Abil/Name/PhalanxShield=方阵护盾
+Abil/Name/PhoenixReviveRebuild=凤凰重生
+Abil/Name/PlaceMine=布设地雷
+Abil/Name/PredatorGrapple=掠食者抓钩
+Abil/Name/RaiderStimpack=游骑兵强化剂
+Abil/Name/RailgunSnipe=磁轨狙击
+Abil/Name/RepairBayRepairDroneHanger=维修站 - 维修无人机机库
+Abil/Name/RescueFoam=急救泡沫
+Abil/Name/SergeantLearn=中士学习
+Abil/Name/SetaCourse=设定航线
+Abil/Name/ShadowRavenRepairDroneHanger=暗影渡鸦 - 维修无人机机库
+Abil/Name/ShadowRavenSentryBotHanger=暗影渡鸦 - 哨兵机器人机库
+Abil/Name/ShieldsUp=举盾
+Abil/Name/ShieldsUpLeveling=举盾等级
+Abil/Name/SiegeMode2=攻城模式
+Abil/Name/SiegeMode3=攻城模式
+Abil/Name/SiegeModeEarthbreaker=裂地者攻城模式
+Abil/Name/StarportLand2=跳跃信标 - 着陆
+Abil/Name/Stop=停止
+Abil/Name/StopFenris=停止
+Abil/Name/StrikerBomb=打击者炸弹
+Abil/Name/SuperStimpack=超级强化剂
+Abil/Name/SupplyDepotLower2=补给站 - 降下
+Abil/Name/SupplyDepotLowerHyperion=休伯利安号补给站降下
+Abil/Name/SupplyDepotRaise2=补给站 - 升起
+Abil/Name/SupplyDepotRaiseHyperion=休伯利安号补给站升起
+Abil/Name/SupplyDepotSalvage=回收
+Abil/Name/SupplySalvage=回收
+Abil/Name/SwaptoAntiArmor=切换至反装甲武器
+Abil/Name/SwaptoAntiPersonnel=切换至反步兵武器
+Abil/Name/Train=训练
+Abil/Name/TrainBunkerBots=训练地堡机器人
+Abil/Name/TransformBuilding=建筑变形
+Abil/Name/TwilightCharge=暮光冲锋
+Abil/Name/Unburrow=出地
+Abil/Name/UnburrowFenris=出地
+Abil/Name/Unsiege2=解除攻城模式
+Abil/Name/Unsiege3=解除攻城模式
+Abil/Name/UnsiegeCrusader=十字军解除攻城模式
+Abil/Name/UnsiegeEarthbreaker=裂地者解除攻城模式
+Abil/Name/UnstableCloak=不稳定隐形
+Abil/Name/VengeanceLearn=复仇学习
+Abil/Name/VoidStalkerBlink=虚空追猎者闪现
+Abil/Name/WarpDash=折跃冲刺
+Abil/Name/WarpJump=折跃
+Abil/Name/WaveMotionGun=波动炮
+Abil/Name/WaxThemCritters=等离子球
+Abil/Name/WeaponSwap=武器切换
+Abil/Name/WeaponsOnline=武器上线
+Behavior/Name/AMSActive=反导系统激活
+Behavior/Name/AMSDisabled=反导系统禁用
+Behavior/Name/AMSReady=反导系统就绪
+Behavior/Name/AMSReady2=反导系统就绪
+Behavior/Name/AMSReady3=反导系统就绪
+Behavior/Name/AfterburnersActive=后燃推进激活
+Behavior/Name/AlphaStrike=阿尔法打击
+Behavior/Name/AmmoPrinting=弹药打印
+Behavior/Name/AmmoPrinting2=弹药打印
+Behavior/Name/AmmoPrintingBuff=弹药打印增益
+Behavior/Name/AmmoPrintingSearch=弹药打印搜索
+Behavior/Name/AntiAirWeapon=防空武器
+Behavior/Name/AntiArmorRifle=反装甲步枪
+Behavior/Name/AntiPersonnelDefault=反步兵(默认)
+Behavior/Name/AntiPersonnelPodsStunHeight=反步兵弹荚(眩晕/高度)
+Behavior/Name/AntiPersonnelPodsStunHeightLevel2=反步兵弹荚(眩晕/高度 等级2)
+Behavior/Name/AntiPersonnelPodsStunHeightLevel3=反步兵弹荚(眩晕/高度 等级3)
+Behavior/Name/AntiPersonnelRifle=反步兵步枪
+Behavior/Name/ArmorLock=装甲锁定
+Behavior/Name/ArmoredCoreAir=装甲核心 - 空中
+Behavior/Name/ArmoredCoreAir2=装甲核心 - 空中
+Behavior/Name/ArmoredCoreAir3=装甲核心 - 空中
+Behavior/Name/ArmoredCoreAutoApply=装甲核心自动应用
+Behavior/Name/ArmoredCoreGround=装甲核心 - 地面
+Behavior/Name/ArmoredCoreGround2=装甲核心 - 地面
+Behavior/Name/ArmoredCoreGround3=装甲核心 - 地面
+Behavior/Name/BifrostStun=彩虹之桥眩晕
+Behavior/Name/BifrostStun2=彩虹之桥眩晕
+Behavior/Name/BlackShield=黑色护盾
+Behavior/Name/BroodWarVeteran=母巢之战老兵
+Behavior/Name/Building=建造中
+Behavior/Name/ChaosAura=混沌光环
+Behavior/Name/ChaoticEnergy=混沌能量
+Behavior/Name/Cloaked=已隐形
+Behavior/Name/Cloaked2=已隐形
+Behavior/Name/Cloaked3=已隐形
+Behavior/Name/CloakingField=隐形力场
+Behavior/Name/CloakingField2=隐形力场
+Behavior/Name/CloakingField3=隐形力场
+Behavior/Name/CrusaderSpawnDummySuicide=十字军生成虚拟体(自毁)
+Behavior/Name/CrusaderVeterancy=十字军老兵
+Behavior/Name/DebilitatingAutoApply=削弱自动应用
+Behavior/Name/DebilitatingDummyLevel1=削弱虚拟体 等级1
+Behavior/Name/DebilitatingDummyLevel2=削弱虚拟体 等级2
+Behavior/Name/DebilitatingDummyLevel3=削弱虚拟体 等级3
+Behavior/Name/DebilitatingGrenadesLevel1=削弱手雷 等级1
+Behavior/Name/DebilitatingGrenadesLevel2=削弱手雷 等级2
+Behavior/Name/DebilitatingGrenadesLevel3=削弱手雷 等级3
+Behavior/Name/DefenseMatrix=防御矩阵
+Behavior/Name/DireWolfPermacloak=恐狼永久隐形
+Behavior/Name/DireWolfVeterancy=恐狼老兵
+Behavior/Name/DisplacementCloakandRestore=位移隐形与恢复
+Behavior/Name/DragonGrenadeSlow=龙息手雷减速
+Behavior/Name/DullahanCloakDodge=无头骑士隐形闪避
+Behavior/Name/DullahanRange2=无头骑士射程 2
+Behavior/Name/DullahanRange3=无头骑士射程 3
+Behavior/Name/EMPMissileSlow=电磁脉冲导弹减速
+Behavior/Name/EnableAttack=启用攻击
+Behavior/Name/EngineBoostStun=引擎助推眩晕
+Behavior/Name/FatManVeterancy=胖子老兵
+Behavior/Name/FireyThorns=炽热荆棘
+Behavior/Name/FlakCannons=高射炮
+Behavior/Name/FlameOn=烈焰风暴
+Behavior/Name/FlamingThorns=烈焰荆棘
+Behavior/Name/FlamingThornsAutoApply=烈焰荆棘自动应用
+Behavior/Name/FlamingThornsLevel2=烈焰荆棘 等级2
+Behavior/Name/FlamingThornsLevel3=烈焰荆棘 等级3
+Behavior/Name/FocusBeam=聚焦光束
+Behavior/Name/FromTheAshes=浴火重生
+Behavior/Name/FullofSpiders=蜘蛛虫群
+Behavior/Name/GreekfireDOT=希腊火持续伤害
+Behavior/Name/HealingStasis=治疗停滞
+Behavior/Name/HeimdallVeterancy=海姆达尔老兵
+Behavior/Name/HybridMaelstromSlow=混合体大漩涡减速
+Behavior/Name/ImpactMissileBlind=冲击导弹致盲
+Behavior/Name/ImprovedLogistics=改良后勤
+Behavior/Name/ImprovedLogistics2=改良后勤
+Behavior/Name/ImprovedLogisticsBuff=改良后勤增益
+Behavior/Name/JackFrostVeterancy=冰霜杰克老兵
+Behavior/Name/JumpJetsLevel1=跳跃喷射器 等级1
+Behavior/Name/JumpJetsLevel2=跳跃喷射器 等级2
+Behavior/Name/JumpJetsLevel3=跳跃喷射器 等级3
+Behavior/Name/LockdownMissile=锁定导弹
+Behavior/Name/LockdownMissleonUltra=对雷兽的锁定导弹
+Behavior/Name/MechWarriorAutoApplyJumpJets=机甲战士自动应用跳跃喷射器
+Behavior/Name/MechWarriorVeterancy=机甲战士老兵
+Behavior/Name/NapalmGroundBurning=凝固汽油地面燃烧
+Behavior/Name/NeosteelArmorAutoApply=新式钢甲自动应用
+Behavior/Name/NeosteelArmorLevel1=新式钢甲 等级1
+Behavior/Name/NeosteelArmorLevel1Sieged=新式钢甲 等级1 (攻城)
+Behavior/Name/NeosteelArmorLevel2=新式钢甲 等级2
+Behavior/Name/NeosteelArmorLevel2Sieged=新式钢甲 等级2 (攻城)
+Behavior/Name/NeosteelArmorLevel3=新式钢甲 等级3
+Behavior/Name/NeosteelArmorLevel3Sieged=新式钢甲 等级3 (攻城)
+Behavior/Name/NightHowlDecloakandStun=暗夜嚎叫(反隐与眩晕)
+Behavior/Name/OilSlow=油料减速
+Behavior/Name/OverchargedCannons=过载火炮
+Behavior/Name/PackLeader=狼群领袖
+Behavior/Name/PackLeader2=狼群领袖
+Behavior/Name/PackLeader3=狼群领袖
+Behavior/Name/PackLeaderAutoApply=狼群领袖自动应用
+Behavior/Name/Phalanx=方阵
+Behavior/Name/PhalanxShield=方阵护盾
+Behavior/Name/PhoenixReviving=凤凰复活中
+Behavior/Name/PlasmaTorpedoes=等离子鱼雷
+Behavior/Name/PredatorCloak=掠食者隐形
+Behavior/Name/PredatorDashCloak=掠食者冲刺隐形
+Behavior/Name/PredatorDodge=掠食者闪避
+Behavior/Name/PsiEmitterDebuff=灵能发射器减益
+Behavior/Name/PsiEmitterDebuffSearch=灵能发射器减益搜索
+Behavior/Name/PsiEmitterGenerateThreat=灵能发射器产生威胁
+Behavior/Name/RadarSupport=雷达支援
+Behavior/Name/RadarSupported=受到雷达支援
+Behavior/Name/Radiation=辐射
+Behavior/Name/RaiderStimpack=游骑兵强化剂
+Behavior/Name/RaiseShields=升起护盾
+Behavior/Name/RaiseShields2=升起护盾
+Behavior/Name/RaiseShields3=升起护盾
+Behavior/Name/RecentlyRevived=近期已复活
+Behavior/Name/ReinforcedStructure=强化结构
+Behavior/Name/RescueFoam=急救泡沫
+Behavior/Name/SelfDefenseProtocols=自卫协议
+Behavior/Name/SergeantVeterancy=中士老兵
+Behavior/Name/ShieldGenerator=护盾生成器
+Behavior/Name/ShieldsUp=举盾
+Behavior/Name/ShieldsUp2=举盾
+Behavior/Name/ShieldsUp3=举盾
+Behavior/Name/ShieldsUpAutoApply=举盾自动应用
+Behavior/Name/ShieldsUpWall=护盾墙 [等级 1]
+Behavior/Name/ShieldsUpWall2=护盾墙 [等级 2]
+Behavior/Name/ShieldsUpWall3=护盾墙 [等级 3]
+Behavior/Name/SpacedArmor=间隔装甲
+Behavior/Name/TimedFlight=限时飞行
+Behavior/Name/TwilightCharging=暮光冲锋中
+Behavior/Name/UnknownBehavior=反导系统禁用
+Behavior/Name/VengeanceAutoApply=复仇自动应用
+Behavior/Name/VengeanceVeterancy=复仇老兵
+Behavior/Name/Windup1=上弦
+Behavior/Name/Windup2=上弦
+Behavior/Name/Windup3=上弦
+Behavior/Name/Windup4=上弦
+Behavior/Name/Windup5=上弦
+Behavior/Tooltip/AfterburnersActive=该单位的移动速度提升70%。
+Behavior/Tooltip/Cloaked=被附近的先知隐形。
+Behavior/Tooltip/Cloaked2=被附近的先知隐形。
+Behavior/Tooltip/Cloaked3=被附近的先知隐形。
+Behavior/Tooltip/CloakingField=正在为附近单位提供隐形。
+Behavior/Tooltip/CloakingField2=正在为附近单位提供隐形。
+Behavior/Tooltip/CloakingField3=正在为附近单位提供隐形。
+Behavior/Tooltip/DebilitatingGrenadesLevel1=目标的移动速度在短时间内降低。
+Behavior/Tooltip/DebilitatingGrenadesLevel2=目标的移动速度在短时间内降低。
+Behavior/Tooltip/DebilitatingGrenadesLevel3=目标的移动速度在短时间内降低。
+Behavior/Tooltip/DireWolfPermacloak=该单位永久隐形，只能被侦测单位或效果发现。
+Behavior/Tooltip/DisplacementCloakandRestore=该单位正在恢复护盾。
+Behavior/Tooltip/DragonGrenadeSlow=目标的移动速度在短时间内降低。
+Behavior/Tooltip/EMPMissileSlow=攻击和移动速度被减缓。
+Behavior/Tooltip/FromTheAshes=该单位在死亡时会复活。
+Behavior/Tooltip/NapalmGroundBurning=该单位正在持续受到额外伤害。
+Behavior/Tooltip/NightHowlDecloakandStun=目标近期被电磁脉冲弹击中，短时间内无法隐形。
+Behavior/Tooltip/OilSlow=该单位的移动速度降低。
+Behavior/Tooltip/PhalanxShield=受到的攻击伤害降低5点。
+Behavior/Tooltip/PredatorCloak=该单位已隐形，只能被侦测单位或效果发现。
+Behavior/Tooltip/PredatorDashCloak=该单位已隐形，只能被侦测单位或效果发现。
+Behavior/Tooltip/RaiderStimpack=该单位在强化剂效果下攻击速度更快。
+Behavior/Tooltip/RecentlyRevived=该单位近期已被重建，无法再次复活。
+Behavior/Tooltip/RescueFoam=该单位在死亡时会复活。
+Behavior/Tooltip/TwilightCharging=该狂热者正在冲锋，使其能快速接近目标。
+Button/Name/3DBombPrinter=3D炸弹打印机
+Button/Name/AMSAntiMissileSystem=反导系统
+Button/Name/AMSRecalibrations=反导系统再校准
+Button/Name/AMSSystems=反导系统
+Button/Name/AcceleratorCircuitry=加速电路
+Button/Name/ActivateFlamer=激活火焰喷射器
+Button/Name/AdvancedTacticalMissile=先进战术导弹
+Button/Name/AlphaStrike=阿尔法打击
+Button/Name/AmmoPrinting=弹药打印
+Button/Name/AmmoRefit=弹药改装
+Button/Name/AntiPersonnelPods=反步兵弹荚
+Button/Name/ArmorLock=装甲锁定
+Button/Name/ArmoredCore=装甲核心
+Button/Name/ArmoredCore2=装甲核心
+Button/Name/ArtemisSystems=阿尔忒弥斯系统
+Button/Name/ArtilleryBarrage=火炮弹幕
+Button/Name/AssaultMode2=机甲模式
+Button/Name/AssaultModeBrigand=机甲模式
+Button/Name/BarrelONapalm=桶装凝固汽油
+Button/Name/Bifrost=彩虹之桥
+Button/Name/BigShot=大家伙
+Button/Name/BlackShield=黑色护盾
+Button/Name/BodyArmorOptimization=防弹衣优化
+Button/Name/BuildAX95Predator=建造AX-95掠食者
+Button/Name/BuildAir=建造空中单位
+Button/Name/BuildAutomatedRefinery=建造自动化精炼厂
+Button/Name/BuildBrigand=建造强盗(战机模式)
+Button/Name/BuildBrynhildr=建造布伦希尔德
+Button/Name/BuildBunkerBot=建造地堡机器人
+Button/Name/BuildChimera=建造奇美拉
+Button/Name/BuildDullahan=建造无头骑士
+Button/Name/BuildForwardOperatingBase=建造前线作战基地
+Button/Name/BuildGryphonBattlecruiser=建造狮鹫战列巡航舰
+Button/Name/BuildGunwalker=建造炮行者
+Button/Name/BuildHades=建造哈迪斯
+Button/Name/BuildJumpBeacon=建造跳跃信标
+Button/Name/BuildLeonTank=建造莱昂坦克
+Button/Name/BuildManufacturingFacility=建造生产设施
+Button/Name/BuildMjolnir=建造雷神之锤
+Button/Name/BuildNuclearVessel=建造核能科学船
+Button/Name/BuildPegasusDropship=建造天马运输机
+Button/Name/BuildPsiDisruptor=建造灵能干扰器
+Button/Name/BuildPsiEmitter=建造灵能发射器
+Button/Name/BuildRX100Predator=建造RX-100掠食者
+Button/Name/BuildRepairBay=建造维修站
+Button/Name/BuildSentryDrones=建造哨兵无人机
+Button/Name/BuildShadowRaven=建造暗影渡鸦
+Button/Name/BuildShotgunTurret=建造霰弹炮塔
+Button/Name/BuildSiegeTower=建造攻城塔
+Button/Name/BuildTechLab=建造科技实验室
+Button/Name/BuildUEDGoliath=建造UED歌利亚
+Button/Name/BuildVehicles=建造载具
+Button/Name/CallInFleet=呼叫舰队
+Button/Name/CallInTheFleet=呼叫舰队
+Button/Name/ChaosArchonMerge=混沌执政官合体
+Button/Name/ChaoticEnergy=混沌能量
+Button/Name/ChargedDash=充能冲刺
+Button/Name/CloakField2=隐形力场
+Button/Name/CloakFieldDireWolf=隐形力场
+Button/Name/CombatFrame=战斗骨架
+Button/Name/CombatSerums=战斗血清
+Button/Name/ConcussiveMissile=震荡导弹
+Button/Name/CrisisSuit=危机战斗服
+Button/Name/Crusader=十字军
+Button/Name/DeactivateAfterburners=停用后燃推进
+Button/Name/DebilitatingGrenades=削弱手雷
+Button/Name/DeploySpiderMines=部署蜘蛛雷
+Button/Name/DireWolf=恐狼
+Button/Name/DireWolfPermaCloak=恐狼永久隐形
+Button/Name/DisplacedReaction=位移反应
+Button/Name/Displacement=位移
+Button/Name/DualDispensers=双联喷射器
+Button/Name/DualMagneticChamber=双联磁力仓
+Button/Name/DullahanRange=无头骑士射程
+Button/Name/EMPMissiles=电磁脉冲导弹
+Button/Name/EMPRound=电磁脉冲弹
+Button/Name/EndoSteelStructure=内构钢结构
+Button/Name/EngineBoost=引擎助推
+Button/Name/EnhancedGreekFire=强化希腊火
+Button/Name/ExplosiveShrapnelShells=打击者炸弹
+Button/Name/FatMan=胖子
+Button/Name/FatMan2=胖子 副本
+Button/Name/FenixThorns=地狱火护甲
+Button/Name/FerroFibrousArmor=铁纤维装甲
+Button/Name/FighterMode2=战机模式
+Button/Name/FireWave=火焰波
+Button/Name/Fireball=火球术
+Button/Name/FlameOn=烈焰风暴！
+Button/Name/FlamingThorns=烈焰荆棘
+Button/Name/FracturedBeam=折射光束
+Button/Name/FragGrenade=破片手雷
+Button/Name/FromTheAshes=浴火重生
+Button/Name/FuelInjectors=燃料喷射器
+Button/Name/FusionBomb=聚变炸弹
+Button/Name/Gjallarhorn=加拉尔号角
+Button/Name/HardenedArmor=铁人装甲
+Button/Name/Heimdall=海姆达尔
+Button/Name/IFFShells=敌我识别弹
+Button/Name/IgniteAfterburners=点燃后燃推进器
+Button/Name/ImmortalOverload=锁定
+Button/Name/ImpactGel=冲击凝胶
+Button/Name/ImpactMissiles=冲击导弹
+Button/Name/ImprovedLogistics=改良后勤
+Button/Name/Irradiation=辐射
+Button/Name/JackFrost=冰霜杰克
+Button/Name/JumpJets=跳跃喷射器
+Button/Name/KerriganVoidFury=上弦
+Button/Name/Land2=着陆
+Button/Name/LandHyperion=着陆
+Button/Name/LearnFragGrenadeLevel1=学习破片手雷[等级1]
+Button/Name/LearnNewAbility=学习新能力
+Button/Name/LearnSuperStim=学习超级强化剂
+Button/Name/Liftoff=升空
+Button/Name/LoadHades=装载
+Button/Name/LockdownMissile=锁定导弹
+Button/Name/MACCannonStrike=电磁加速炮打击
+Button/Name/Maelstrom=大漩涡
+Button/Name/MagRailProjectiles=磁轨射弹
+Button/Name/MechWarrior=机甲战士
+Button/Name/MedicRegen=医疗兵再生
+Button/Name/MiniNuke=小型核弹
+Button/Name/MiningEfficiency=采矿效率
+Button/Name/MjolnirNormalMode=雷神之锤普通模式
+Button/Name/MjolnirSiegeMode=雷神之锤攻城模式
+Button/Name/MobileDetection=机动侦测
+Button/Name/MultiShotLauncher=多重射击发射器
+Button/Name/MultiThreadTreads=多线程履带
+Button/Name/NecrodermisArmor=活体金属装甲
+Button/Name/NeosteelArmor=新式钢甲
+Button/Name/NightHowl=暗夜嚎叫
+Button/Name/NovaWeaponHellfireShotgunBlast=切换至反步兵武器
+Button/Name/NukeOptimization=核弹优化
+Button/Name/OilDrop=油料泄漏
+Button/Name/OverchargedCannons=过载火炮
+Button/Name/PackLeader=狼群领袖
+Button/Name/PermaCloak=永久隐形
+Button/Name/PhalanxShield=方阵护盾
+Button/Name/PhaseArmorPlating=相位装甲板
+Button/Name/PiercingRounds=穿甲弹
+Button/Name/PlaceMine=布设地雷
+Button/Name/PredatorGrapple=掠食者抓钩
+Button/Name/PrepareMiniNuke=准备小型核弹
+Button/Name/PsionicLure=灵能诱饵
+Button/Name/PsionicRebound=灵能回弹
+Button/Name/PsionicReboundImproved=灵能回弹
+Button/Name/QuickSiege=快速架起
+Button/Name/RadarSupport=雷达支援
+Button/Name/RaiderStimpack=游骑兵强化剂
+Button/Name/RailgunSnipe=磁轨狙击
+Button/Name/RaiseShields=升起护盾
+Button/Name/RapidDeployment2=快速部署
+Button/Name/ReaperAfterburners=收割者后燃推进
+Button/Name/ReinforcedStructure=强化结构
+Button/Name/RepairDrone=维修无人机
+Button/Name/RescueFoam=急救泡沫
+Button/Name/ResearchNeosteelFrame=间隔装甲
+Button/Name/ReviveCrusader=复活十字军
+Button/Name/ReviveDireWolf=复活恐狼
+Button/Name/ReviveFatMan=复活胖子
+Button/Name/ReviveHeimdall=复活海姆达尔
+Button/Name/ReviveHero=复活英雄
+Button/Name/ReviveJackFrost=复活冰霜杰克
+Button/Name/ReviveMechWarrior=复活机甲战士
+Button/Name/ReviveSergeant=复活中士
+Button/Name/ReviveVengeance=复活复仇
+Button/Name/SelfDefenseProtocols=自卫协议
+Button/Name/Sergeant=中士
+Button/Name/ShieldsUp=举盾
+Button/Name/ShortenedFuses=一触即发
+Button/Name/SiesmicSensors=地震传感器
+Button/Name/StasisMissile=静滞导弹
+Button/Name/Stop2=停止
+Button/Name/SuperStimpack=超级强化剂
+Button/Name/TacticalJump=战术折跃
+Button/Name/TargetingComputer=目标锁定计算机 -
+Button/Name/TerrazineInjections=地嗪注射
+Button/Name/TrainGround=训练地面单位
+Button/Name/TrainHarvester=训练收割者
+Button/Name/TrainInferno=训练地狱火
+Button/Name/TrainMercHeros=训练佣兵英雄
+Button/Name/TrainRaider=训练游骑兵
+Button/Name/TrainRescueMedic=训练急救兵
+Button/Name/TrainStriker=训练打击者
+Button/Name/TrainViper=训练蝰蛇
+Button/Name/TrainVizard=训练暗影之面
+Button/Name/TransportAttack=战门要塞
+Button/Name/TwilightCharge=暮光冲锋
+Button/Name/U438Shells=U-438炮弹
+Button/Name/UnloadAll=全部卸载
+Button/Name/UnstableCloak=不稳定隐形
+Button/Name/UpgradeHyperionAirArmorLevel1=升级休伯利安号空军护甲 等级1
+Button/Name/UpgradeHyperionAirArmorLevel12=升级休伯利安号空军护甲 等级2
+Button/Name/UpgradeHyperionAirArmorLevel13=升级休伯利安号空军护甲 等级3
+Button/Name/UpgradeHyperionAirWeaponsLevel1=升级休伯利安号空军武器 等级1
+Button/Name/UpgradeHyperionAirWeaponsLevel12=升级休伯利安号空军武器 等级2
+Button/Name/UpgradeHyperionAirWeaponsLevel13=升级休伯利安号空军武器 等级3
+Button/Name/UpgradeHyperionGroundArmorLevel1=升级休伯利安号地面单位护甲 等级1
+Button/Name/UpgradeHyperionGroundArmorLevel12=升级休伯利安号地面单位护甲 等级2
+Button/Name/UpgradeHyperionGroundArmorLevel13=升级休伯利安号地面单位护甲 等级3
+Button/Name/UpgradeHyperionGroundWeaponsLevel1=升级休伯利安号地面单位武器 等级1
+Button/Name/UpgradeHyperionGroundWeaponsLevel12=升级休伯利安号地面单位武器 等级2
+Button/Name/UpgradeHyperionGroundWeaponsLevel13=升级休伯利安号地面单位武器 等级3
+Button/Name/UpgradeHyperionInfantryArmorLevel1=升级休伯利安号步兵护甲 等级1
+Button/Name/UpgradeHyperionInfantryArmorLevel12=升级休伯利安号步兵护甲 等级2
+Button/Name/UpgradeHyperionInfantryArmorLevel13=升级休伯利安号步兵护甲 等级3
+Button/Name/UpgradeHyperionInfantryArmorLevel2=升级休伯利安号步兵护甲 等级2
+Button/Name/UpgradeHyperionInfantryArmorLevel3=升级休伯利安号步兵护甲 等级3
+Button/Name/UpgradeHyperionInfantryWeaponsLevel1=升级休伯利安号步兵武器 等级1
+Button/Name/UpgradeHyperionInfantryWeaponsLevel12=升级休伯利安号步兵武器 等级2
+Button/Name/UpgradeHyperionInfantryWeaponsLevel13=升级休伯利安号步兵武器 等级3
+Button/Name/UpgradeHyperionShieldsLevel1=升级休伯利安号护盾 等级1
+Button/Name/UpgradeHyperionShieldsLevel12=升级休伯利安号护盾 等级2
+Button/Name/UpgradeHyperionShieldsLevel13=升级休伯利安号护盾 等级3
+Button/Name/UpgradeHyperionShipPlatingLevel1=升级休伯利安号舰船装甲 等级1
+Button/Name/UpgradeHyperionShipPlatingLevel12=升级休伯利安号舰船装甲 等级2
+Button/Name/UpgradeHyperionShipPlatingLevel13=升级休伯利安号舰船装甲 等级3
+Button/Name/UpgradeHyperionShipWeaponsLevel1=升级休伯利安号舰船武器 等级1
+Button/Name/UpgradeHyperionShipWeaponsLevel12=升级休伯利安号舰船武器 等级2
+Button/Name/UpgradeHyperionShipWeaponsLevel13=升级休伯利安号舰船武器 等级3
+Button/Name/UpgradeHyperionVehiclePlatingLevel1=升级休伯利安号载具装甲 等级1
+Button/Name/UpgradeHyperionVehiclePlatingLevel12=升级休伯利安号载具装甲 等级2
+Button/Name/UpgradeHyperionVehiclePlatingLevel13=升级休伯利安号载具装甲 等级3
+Button/Name/UpgradeHyperionVehicleWeaponsLevel1=升级休伯利安号载具武器 等级1
+Button/Name/UpgradeHyperionVehicleWeaponsLevel12=升级休伯利安号载具武器 等级2
+Button/Name/UpgradeHyperionVehicleWeaponsLevel13=升级休伯利安号载具武器 等级3
+Button/Name/Vengeance=复仇
+Button/Name/VoidBlink=虚空闪烁
+Button/Name/WarpDash=折跃冲刺
+Button/Name/WarpInChaosTemplar=折跃混沌圣堂武士
+Button/Name/WarpInCyberneticsCore=折跃控制核心
+Button/Name/WarpInDisplacer=折跃位移者
+Button/Name/WarpInForge=折跃冶炼厂
+Button/Name/WarpInFractalMonolith=折跃分形巨石
+Button/Name/WarpInGateway=折跃传送门
+Button/Name/WarpInHighTemplar=折跃高阶圣堂武士
+Button/Name/WarpInPhalanxImmortal=折跃方阵不朽者
+Button/Name/WarpInPhoenix=折跃凤凰
+Button/Name/WarpInProbe=折跃探机
+Button/Name/WarpInRoboticsFacility=折跃机械台
+Button/Name/WarpInStargate=折跃星门
+Button/Name/WarpInTwilightZealot=折跃暮光狂热者
+Button/Name/WarpInVoidStalker=折跃虚空追猎者
+Button/Name/WarpInWarColossus=折跃战争巨像
+Button/Name/WarpJump=折跃
+Button/Name/WaveMotionGun=波动炮
+Button/Name/WaxThemCritters=等离子球
+Button/Name/WeaponsOnline=武器上线
+Button/Name/WhitePhosperousFlamers=白磷火焰喷射器
+Button/Name/YamatoCannonImprovements=大和炮改良
+Button/Tooltip/3DBombPrinter=蜘蛛雷每30秒补充一次。
+Button/Tooltip/AMSAntiMissileSystem=启用炮行者的反导系统，使其能够在10秒内击落来袭的射弹。
+Button/Tooltip/AMSRecalibrations=反导系统激活持续时间增加到20秒。
+Button/Tooltip/AMSSystems=激活恐狼的点防御系统，击落射程内的任何射弹。</n>等级2：反导系统持续时间延长至10秒。</n>等级3：持续时间延长至15秒。
+Button/Tooltip/AX95Predator=反装甲专家。拥有折跃冲刺能力和相位装甲。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c> </n> </n> - 限制1
+Button/Tooltip/AblativeScales=使掠夺者的生命值增加35点。
+Button/Tooltip/AcceleratorCircuitry=移动速度提升25%。
+Button/Tooltip/ActivateFlamer=激活火焰喷射器附件，可在移动中攻击地面单位。 </n>等级2：火焰喷射器射程+1，火焰半径+25%，伤害+5。 </n>等级3：火焰喷射器射程再+1，火焰半径+50%，伤害+5。
+Button/Tooltip/AdvancedTacticalMissile=导弹塔武器射程增加2，导弹对重甲单位伤害+10。
+Button/Tooltip/AlphaStrike=超频机甲战士的武器系统，在<d ref = "Behavior,AlphaStrike,Duration"/>秒内使伤害和攻击速度提升<d ref = "100 *(Behavior,AlphaStrike,Modification.AttackSpeedMultiplier)"/>%。
+Button/Tooltip/AmmoPrinting=生产设施可以为附近的防御建筑和载具快速打印特种弹药，使其射程增加2，伤害增加3。
+Button/Tooltip/AmmoRefit=每次齐射额外获得2枚导弹。
+Button/Tooltip/AntiPersonnelPods=产生爆炸力，击退附近的敌方单位，造成30点伤害。 </n>等级2：击退距离更远，造成40点伤害。 </n>等级3：击退效果增强，造成50点伤害。
+Button/Tooltip/ArmorLock=受到的伤害降低<d ref="100 * Behavior,ArmorLock,DamageResponse.ModifyFraction"/>%，移动速度降低<d ref=" Behavior,ArmorLock,Modification.MoveSpeedMultiplier * 100 -80"/>%。持续<d ref="Behavior,ArmorLock,Duration"/>秒。
+Button/Tooltip/ArmoredCore=优化海姆达尔的武器系统，使其在地面和空中都更有效率。</n>机甲模式：对轻甲单位伤害+10，攻击速度+15%。</n>战机模式：对重甲单位伤害+10，武器射程+1。</n>等级2：机甲模式：对轻甲+15，攻击速度20%。战机模式：对重甲+15，射程+2。</n>等级3：机甲模式：对轻甲+20，攻击速度25%。战机模式：对重甲+20，射程+3。
+Button/Tooltip/ArmoredCore2=使强盗的护甲增加2，变形速度加快50%。
+Button/Tooltip/ArmoryHyperion=包含重工厂和星港单位的武器和护甲升级。 <n/><n/><c val="ffff8a">解锁：</c><n/>- 重工厂的恶蝠<n/>- 重工厂的雷神
+Button/Tooltip/ArtemisSystems=强盗火炮射程增加1，导弹射程增加3。
+Button/Tooltip/ArtilleryBarrage=在目标区域内随机选择5个位置，对这些位置的敌方单位造成125点伤害。 </n>等级2：目标数量增加到7个，冷却时间减少30秒。
+Button/Tooltip/AssaultMode2=将强盗变形为机甲模式。在此模式下，强盗可以在地面移动，且只能攻击地面目标。
+Button/Tooltip/BarrelONapalm=几秒后，向目标位置投掷一个装满凝固汽油的桶，随后引爆。区域内的单位受到50点伤害，之后每秒受到10点伤害。
+Button/Tooltip/BeguilerQueen=飞行支援单位。可使用寄生、诱捕、产生巢虫和产生菌毯肿瘤。
+Button/Tooltip/Bifrost=将海姆达尔前方一条直线上的所有敌人冻结3秒。被冻结的单位会持续受到伤害。</n>等级2：眩晕持续时间加倍，冷却时间减少15秒。</n></n><c val="#ColorAttackInfo">只能以地面单位为目标。巨型和英雄单位免疫。</c>
+Button/Tooltip/BigShot=使雷神之锤在攻城模式下可以攻击空中单位。此攻击只能以巨型单位为目标。
+Button/Tooltip/BlackShield=受到的远程攻击伤害降低35%。
+Button/Tooltip/BodyArmorOptimization=使游骑兵的生命值增加35点。
+Button/Tooltip/Brigand=耐用的支援单位。可切换至战机模式攻击空中单位。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c>
+Button/Tooltip/Brigand2=耐用的支援飞行器。装备了强大的反主力舰空对空导弹。可切换至机甲模式攻击地面单位。<n/><n/><c val="#ColorAttackInfo">可以攻击空中单位。</c>
+Button/Tooltip/Brynhildr=高机动性飞行单位。米拉·汉强大的远程轰炸机。<n/><n/><c val="ffff8a">可以攻击空中单位。</c>
+Button/Tooltip/BuildAX95Predator=反装甲专家，拥有折跃冲刺和相位装甲能力。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c> </n> </n> - 限制1
+Button/Tooltip/BuildAir=显示可用的空中单位列表。
+Button/Tooltip/BuildAutomatedRefinery=改良型精炼厂，通过短程折跃力场将精炼的高能瓦斯直接送往休伯利安号。无需SCV进行高能瓦斯生产。
+Button/Tooltip/BuildBrigand=耐用的支援飞行器。装备了强大的反主力舰空对空导弹。可切换至机甲模式攻击地面单位。<n/><n/><c val="#ColorAttackInfo">可以攻击空中单位。</c><n/><n/>- 限制4
+Button/Tooltip/BuildBrynhildr=反集群飞行单位，发射一连串对非重甲单位有效的导弹。<n/><n/><c val="ffff8a">可以攻击空中单位。</c><n/><n/>-限制2
+Button/Tooltip/BuildBunkerBot=廉价、脆弱的机械单位，可放置在地堡内进行防御。 </n></n>- 限制24
+Button/Tooltip/BuildChimera=快速侦察单位。其火焰攻击能伤害一条直线上的所有敌方单位。可变形为近战单位。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c><n/><n/>- 限制4
+Button/Tooltip/BuildDullahan=战术打击飞行器。可升级以使用隐形。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c><n/><n/>-限制4
+Button/Tooltip/BuildForwardOperatingBase=生产设施，可建造基础防御建筑并强化附近的步兵单位。<n/><n/><c val="ffff8a">解锁：</c><n/>- 地堡<n/>- 导弹塔<n/>- 霰弹炮塔<n/>- 所有步兵单位
+Button/Tooltip/BuildGryphonBattlecruiser=强大的战舰。可使用大和炮和战术折跃，并为核打击建造核弹。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c><n/>- 限制1
+Button/Tooltip/BuildGunwalker=重型支援机甲。拥有反导系统能力并能提高附近单位的射程。 <n/><n/>- 限制2 <n/></n><c val="#ColorAttackInfo">可以攻击地面单位。</c>
+Button/Tooltip/BuildHades=高机动性装甲运输车。能够布设蜘蛛雷。<n/><n/>- 限制2
+Button/Tooltip/BuildJumpBeacon=能够从休伯利安号生产空中单位的建筑。 <n/><n/><c val="ffff8a">解锁：</c><n/>- 强盗<n/>- 天马运输机<n/>- 无头骑士<n/>- 布伦希尔德<n/>- 暗影渡鸦或核能科学船<n/>- 狮鹫战列巡航舰
+Button/Tooltip/BuildLeonTank=重型前线坦克。拥有锁定能力并可在移动中开火。<n/><n/><c val="FFFF8A">可以攻击地面单位。</c> <n/><n/>- 限制4
+Button/Tooltip/BuildManufacturingFacility=生产建筑，可建造高级防御建筑。 <n/><n/><c val="ffff8a">解锁：</c><n/>- 攻城塔<n/>- 灵能干扰器或灵能发射器<n/>- 所有地面载具单位
+Button/Tooltip/BuildMjolnir=重型攻城机甲。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c><n/><n/>- 限制2
+Button/Tooltip/BuildNuclearVessel=建造核能科学船。可使用辐射、锁定和纳米修复能力。 <n/><n/>- 限制1
+Button/Tooltip/BuildPegasusDropship=可搭载大量单位的空中运输机。可使用后燃推进。<n/><n/>- 限制2
+Button/Tooltip/BuildPsiDisruptor=防御建筑。拥有混乱能力。<n/><n/><c val="#ColorAttackInfo">英雄单位免疫。</c><n/><n/>- 限制2
+Button/Tooltip/BuildPsiEmitter=专门设计用于引诱异虫单位攻击的建筑。会削弱附近的异虫单位。</n><n/>- 限制2
+Button/Tooltip/BuildRX100Predator=反步兵专家，每次攻击都能造成范围伤害。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c><n/><n/>- 限制1
+Button/Tooltip/BuildRepairBay=维修设施，包含三架无人机，可修理附近受损的建筑和机械单位。 </n></n>每架无人机一次只能修理一个单位或建筑。<n/><n/>- 限制4
+Button/Tooltip/BuildSentryDrones=建造哨兵无人机，自动攻击渡鸦的目标。没有哨兵无人机的渡鸦无法攻击。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c>
+Button/Tooltip/BuildShadowRaven=空中支援单位。可建造无人机进行攻击，使用追踪导弹，并配有一对维修无人机。<n/><n/><c val="FFE303">侦测单位</c><n/><n/>- 限制1
+Button/Tooltip/BuildShotgunTurret=自动防御炮塔。 <c val="#ColorAttackInfo">可以攻击地面单位。</c><n/><n/>- 限制6
+Button/Tooltip/BuildSiegeTower=高级防御建筑，可远距离轰炸敌人。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c><n/><n/>- 限制6
+Button/Tooltip/BuildTechLab=步兵研究建筑。科技实验室可以附加在任何生产建筑上。<n/><n/><c val="ffff8a">解锁：</c><n/>- 掠夺者<n/>- 幽灵(需要幽灵军校)
+Button/Tooltip/BuildUEDGoliath=重火力支援单位。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c><n/><n/>- 限制4
+Button/Tooltip/BuildVehicles=显示可用的载具单位列表。
+Button/Tooltip/Bunker2=防御建筑。最多可保护<d ref="Abil,BunkerTransport,TotalCargoSpace"/>个步兵单位栏位。地堡内的单位攻击射程+1。地堡可以回收。
+Button/Tooltip/CallInFleet=呼叫一队6架战斗机，它们会停留60秒后跳跃离开。</n>等级2：战斗机数量增加到8架。</n>等级3：战斗机数量增加到10架。
+Button/Tooltip/CallInTheFleet=呼叫一队6架战斗机，它们会停留60秒后跳跃离开。</n>等级2：战斗机数量增加到8架。</n>等级3：战斗机数量增加到10架。
+Button/Tooltip/CarrierRepairDroneHeal=治疗一个友方机械单位。<n/><n/><c val="f078ff">每秒治疗2点生命值。</c>
+Button/Tooltip/ChaosArchon=强大的灵能攻击者。<n/><n/><c val="ffff8a">可以攻击地面和空中单位。</c>
+Button/Tooltip/ChaosArchonMerge=牺牲2个高阶圣堂武士、2个混沌圣堂武士，或1个高阶圣堂武士和1个混沌圣堂武士，来创造一个混沌执政官。<n/><n/><c val="ffff8a">可以攻击地面和空中单位。</c>
+Button/Tooltip/ChaosTemplar=奈拉齐姆派系<n/>致命的战士刺客。永久隐形。可使用暗影之怒。<n/><n/><c val="ffff8a">可以攻击地面单位。</c>
+Button/Tooltip/ChaoticEnergy=混沌执政官无束的能量鼓舞着附近的盟友，使其能量和护盾恢复速度提高50%。
+Button/Tooltip/ChargedDash=掠食者向前冲锋，释放出一股能量冲击波，对附近敌人造成50点伤害并使其眩晕0.5秒。
+Button/Tooltip/Chimera=快速侦察单位。其火焰攻击能伤害一条直线上的所有敌方单位。可变形为近战单位。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c>
+Button/Tooltip/CloakField2=隐形力场被动地为附近的友方单位和建筑提供隐形。力场内的单位移动速度与恐狼相同。</n>等级2：持续时间延长至45秒。 </n>等级3：力场持续时间延长至60秒。
+Button/Tooltip/CloakFieldDireWolf=在短时间内为附近单位提供隐形。被隐形的单位移动速度将与恐狼相同。
+Button/Tooltip/CombatFrame=SCV装备了战斗骨架，生命值+100，护甲+2，武器伤害+10。
+Button/Tooltip/CombatMedicSierra=支援部队。治疗附近的生物单位。隶属蒙斯克的精英卫队。<n/><n/><c val="ffff8a">无法攻击。</c>
+Button/Tooltip/CombatSerums=脱离战斗后快速恢复生命值。
+Button/Tooltip/ConcussiveMissile=向目标单位发射一枚导弹，对主目标造成100点伤害，并在小范围内造成溅射和击退效果。 </n>等级2：对主目标造成150点伤害，冷却时间更快。
+Button/Tooltip/CrisisSuit=蝰蛇生命值+50，护甲+2，能量恢复速度提高50%。
+Button/Tooltip/Crusader=请求攻城坦克佣兵英雄。<n/><n/>装备重度改装攻城坦克的联邦老兵。
+Button/Tooltip/CrusaderDummy=蜘蛛雷会追击进入范围的敌方单位，并引爆造成大量范围伤害。埋地的蜘蛛雷只能被敌方的侦测单位看到。
+Button/Tooltip/CyberneticsCoreHyperion=包含星灵空军单位的武器和护甲升级。
+Button/Tooltip/DeactivateAfterburners=关闭收割者的后燃推进并使其着陆，让它可以攻击地面单位。
+Button/Tooltip/DebilitatingGrenades=胖子的手雷被替换为实验版本，被此手雷击中的敌人及小范围内的敌人会被减速，并在减速期间额外承受10%的伤害。 <n/>等级2：承受伤害增加到15%，持续时间增加25%。<n>等级3：伤害进一步增加到20%，持续时间增加50%。<n/><n/><c val="#ColorAttackInfo">对巨型单位无效。</c>
+Button/Tooltip/DefensiveMatrix=用一个能吸收<d ref="Behavior,DefensiveMatrix,Modification.VitalMaxArray[1]"/>点伤害的护盾包围目标单位。技能每<d ref="Abil,DefensiveMatrix,Cost[0].Cooldown.TimeUse"/>秒只能使用一次。
+Button/Tooltip/DeploySpiderMines=在目标位置布设一条由三枚蜘蛛雷组成的雷区。蜘蛛雷会随时间补充。 </n>等级2：额外获得一次使用次数。 </n>等级3：获得两次额外使用次数。
+Button/Tooltip/DireWolf=请求女妖佣兵英雄。<n/><n/>驾驶原型女妖的前帝国飞行员。
+Button/Tooltip/DireWolfPermaCloak=恐狼永久隐形。
+Button/Tooltip/DisplacedReaction=任何被位移者主攻击击中的目标会产生最多3个弹射，攻击附近的敌人，对每个目标造成<d ref="Effect,PhasingSecondaryDamage,Amount"/>点伤害。
+Button/Tooltip/Displacer=奈拉齐姆派系<n/>远程攻击步行机。使用闪现后护盾会恢复。<n/><n/><c val="ffff8a">可以攻击地面和空中单位。</c>
+Button/Tooltip/DualDispensers=医疗兵可以同时治疗两个目标，且治疗消耗的能量减少35%。
+Button/Tooltip/DualMagneticChamber=使游骑兵的攻击速度提高10%，武器射程增加1。
+Button/Tooltip/Dullahan=战术打击飞行器。可升级以使用隐形。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c>
+Button/Tooltip/DullahanRange=无头骑士每次攻击武器射程+1，最多+3。
+Button/Tooltip/EMPMissiles=被强盗导弹击中的机械单位移动和攻击速度降低50%，持续5秒。
+Button/Tooltip/EMPRound=产生一个电磁脉冲，对目标区域内所有单位的护盾和能量造成100点伤害。被电磁脉冲击中的隐形单位会短暂显形。
+Button/Tooltip/Earthbreaker=重型坦克。可切换至攻城模式提供远程火炮支援。隶属蒙斯克的精英卫队。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c>
+Button/Tooltip/EndoSteelStructure=哈迪斯的生命值增加50，护甲增加1。
+Button/Tooltip/EngineBoost=向前冲向目标位置，对所有附近单位造成50点伤害，并使其暂时眩晕。 </n>等级2：额外获得一次使用次数，允许连续多次冲锋。</n>等级3：总共获得3次使用次数。
+Button/Tooltip/EngineeringBayHyperion=包含人类步兵单位的升级。解锁人类防御建筑的建造。
+Button/Tooltip/EnhancedGreekFire=使奇美拉的攻击范围扩大10%，并对生物单位额外造成10点伤害。
+Button/Tooltip/ExplosiveShrapnelShells=被打击者手雷击中的单位会被植入炸药，1.5秒后引爆，对主目标造成35(对重甲50)点伤害，对周围单位造成一半伤害。
+Button/Tooltip/FatMan=请求胖子英雄佣兵。<n/><n/>精英掠夺者单位。
+Button/Tooltip/FatMan2=请求胖子英雄佣兵。<n/><n/>精英掠夺者单位。
+Button/Tooltip/FatManMine=沿直线行进，击中时对附近单位造成范围伤害。<n/><n/><c val="ffff8a">可以攻击空中单位。</c>
+Button/Tooltip/FerroFibrousArmor=UED歌利亚护甲增加2，晶体矿消耗减少50。
+Button/Tooltip/FighterMode2=将强盗变形为战机模式。在此模式下，强盗可以飞行，但只能攻击空中目标。
+Button/Tooltip/FireWave=以不断扩大的锥形发射多条火焰线，每条线对目标区域内的单位造成10点伤害。 </n>等级2：每条线对单位造成20点伤害。 </n>等级3：每条线对单位造成30点伤害。
+Button/Tooltip/Fireball=向目标发射一个火球，造成25点伤害。 </n>等级2：对主目标造成50点伤害，并在小范围内产生溅射伤害。 </n>等级3：对主目标造成75点伤害，溅射伤害范围更大。
+Button/Tooltip/FlagshipTimeBomb=在母舰周围生成一个时间力场，使所有单位减速75%，并停止来袭的射弹。效果结束后，力场中捕获的所有射弹将被摧毁。
+Button/Tooltip/FlameOn=超频奇美拉的火焰喷射器，使其射程、范围加倍，伤害提高25%，持续10秒。
+Button/Tooltip/FlamingThorns=杰克的护甲涂有超热材料，对攻击他的近战单位造成10点伤害。 </n>等级2：伤害减免10%，对近战单位造成15点伤害。 </n>等级3：伤害减免20%，对近战单位造成20点伤害。
+Button/Tooltip/ForgeHyperion=包含星灵地面单位的武器和护甲升级，以及所有星灵单位和建筑的护盾升级。<n/><n/><c val="ffff8a">解锁：</c><n/>- 探机可建造光子炮台
+Button/Tooltip/ForwardOperatingBase=步兵生产设施。<n/><n/><c val="ffff8a">解锁：</c><n/>- 陆战队员<n/>- 收割者<n/>- SCV可建造地堡<n/>- 指挥中心可升级为轨道指挥部
+Button/Tooltip/ForwardOperatingBase2=兵营必须着陆才能开始生产单位。
+Button/Tooltip/FractalMonolith=极其强大的防御建筑。射程和伤害超群，但非常昂贵且攻击缓慢。<n/><n/><c val="ffff8a">可以攻击地面和空中单位。
+Button/Tooltip/FracturedBeam=击中主目标后，光束会分裂成数道光束，弹射到另外两个目标，每次弹射伤害降低。
+Button/Tooltip/FragGrenade=投掷一枚手雷，在小范围内爆炸造成50点伤害。 </n>等级2：手雷造成100点伤害，有2次使用次数。 </n>等级3：手雷造成150点伤害，有3次使用次数。 <n/><n/><c val="ffff8a">不会伤害友方单位。</c>
+Button/Tooltip/FromTheAshes=凤凰在被击杀时会复活。此效果每<d ref="Behavior,RecentlyRevived,Cost.Cooldown.TimeStart"/>秒只能触发一次。
+Button/Tooltip/FuelInjectors=移动速度提升25%。
+Button/Tooltip/FusionBomb=投掷一枚强力炸弹，对建筑造成150点伤害。 <n/><n/> <c val="#ColorAttackInfo">只能用于建筑。 </c>
+Button/Tooltip/GatewayHyperion=折跃星灵地面单位。
+Button/Tooltip/Gjallarhorn=将海姆达尔的武器变形为一对强大的热能长矛，使其能在短时间内移动攻击多个空中单位。 </n>等级2：伤害增加，冷却时间减少15秒。</n></n><c val="#ColorAttackInfo">只能以空中单位为目标。
+Button/Tooltip/GryphonBattlecruiser=强大的战舰。可使用大和炮和战术折跃。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c>
+Button/Tooltip/Hades=APC 300。安心前行。
+Button/Tooltip/HardenedArmor=使地狱火的生命值增加75，护甲增加1。
+Button/Tooltip/Harvester=
+Button/Tooltip/HarvesterFlightMode=
+Button/Tooltip/Heimdall=请求维京佣兵英雄。<n/><n/>拥有卓越空战专长的海盗维京。
+Button/Tooltip/Heimdall2=耐用的支援飞行器。装备了强大的反主力舰空对空导弹。可切换至机甲模式攻击地面单位。隶属蒙斯克的精英卫队。<n/><n/><c val="#ColorAttackInfo">可以攻击空中单位。</c>
+Button/Tooltip/HighTemplar2=强大的灵能大师，可使用反馈和灵能风暴。可合体为执政官。<n/><n/><c val="ffff8a">可以攻击地面单位。</c>
+Button/Tooltip/HunterRoach=突击单位，潜地时快速恢复生命值，可变形为破坏者。<n/><n/><c val="ffff8a">可以攻击地面单位。</c>
+Button/Tooltip/HybridBlaster=强大的灵能攻击者。<n/><n/><c val="ffff8a">可以攻击地面和空中单位。</c>
+Button/Tooltip/HybridReaverV2=巨大的生物。拥有毁灭性的近战攻击。<n/><n/><c val="ffff8a">可以攻击地面单位。</c>
+Button/Tooltip/Hyperion2=
+Button/Tooltip/Hyperion3=
+Button/Tooltip/IFFShells=友方单位和建筑受到的伤害降低80%。
+Button/Tooltip/IgniteAfterburners=使医疗运输机的移动速度提高100%，并获得40%的闪避几率，持续<d time="8"/>。
+Button/Tooltip/ImmortalOverload=最多吸收<d ref="Behavior,Lockdown,DamageResponse.ModifyFraction"/>%的伤害。持续<d ref="Behavior,ImmortalOverload,Duration"/>秒。
+Button/Tooltip/ImpactGel=使莱昂坦克的伤害减免提高10% (总共20%伤害减免)。
+Button/Tooltip/ImpactMissiles=击中时，短时间内使敌方武器射程降低4。 </n><n/><c val="FFFF00">对英雄或巨型单位无效。</c>
+Button/Tooltip/ImprovedLogistics=前线作战基地储备了充足的弹药和其他必要设备，使步兵作战效率大大提高。基地附近的步兵获得25%的攻击速度和50%的能量恢复速度。
+Button/Tooltip/Inferno=专门的反步兵攻击单位。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c>
+Button/Tooltip/Irradiation=辐射单个目标，在<d ref="Behavior,Irradiate,Duration"/>秒内对目标及附近任何单位造成持续伤害。辐射不会伤害机械单位，但附近的生物单位会受到被辐射的机械单位的伤害。
+Button/Tooltip/JackFrost=请求冰霜杰克英雄佣兵。<n/><n/>前联邦火焰兵的精英单位。
+Button/Tooltip/JumpBeacon=空军生产设施。 <n/><n/><c val="ffff8a">解锁：</c><n/>- 维京<n/>- 医疗运输机
+Button/Tooltip/JumpBeacon2=星港必须着陆才能开始生产单位。
+Button/Tooltip/JumpJets=移动速度提高25%，护甲+1。 </n>等级2：移动速度提高至50%，护甲加成增至+2。</n>等级3：移动速度提高至75%，护甲加成增至+3。
+Button/Tooltip/KaraxEmergencyShield=为友方单位提供护盾，在<d ref="Behavior,KaraxEmergencyShield,Duration"/>秒内额外提供<d ref="Behavior,KaraxEmergencyShield,Modification.VitalMaxArray[Shields]"/>点护盾。
+Button/Tooltip/KerriganVoidFury=每次攻击暂时使歌利亚的攻击速度提高<d ref="(Behavior,Windup1,Modification.AttackSpeedMultiplier - 1) * 100"/>%。最多可叠加至<d ref="(Behavior,Windup5,Modification.AttackSpeedMultiplier - 1) * 100"/>%的攻击速度提升。
+Button/Tooltip/Land2=在目标位置着陆建筑，使其能够再次生产单位、研究升级和使用技能。
+Button/Tooltip/LearnFragGrenadeLevel1=解锁破片手雷能力，使中士能够对小范围内的单位造成伤害。每级伤害增加，使用次数增加。
+Button/Tooltip/LearnNewAbility=使用点数学习佣兵的新能力。
+Button/Tooltip/LearnSuperStim=解锁超级强化剂能力。提高中士的攻击和移动速度，并随时间恢复生命值。
+Button/Tooltip/Legionnaire=通用步兵。隶属蒙斯克的精英卫队。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c>
+Button/Tooltip/Leon998xT8AssaultTank=重型坦克。可切换至攻城模式提供远程火炮支援。<n/><n/><c val="FFFF8A">可以攻击地面单位。</c>
+Button/Tooltip/Liftoff=将建筑变形为缓慢的空中单位以便重新部署。在着陆前无法生产单位、研究升级或使用技能。
+Button/Tooltip/LoadHades=将步兵装入哈迪斯。
+Button/Tooltip/LockdownMissile=发射一枚导弹，使目标单位陷入静滞状态，在30秒内无法移动或攻击。如果目标是雷兽，则移动和攻击速度降低50%。<n/><n/><c val="FFFF00">对英雄单位无效。</c>
+Button/Tooltip/MACCannonStrike=从轨道发射一枚金属射弹，对目标位置内的敌方单位造成500点伤害。 <n/><n/>目标位置必须可见才能瞄准。
+Button/Tooltip/MCV=基础部队运输车。
+Button/Tooltip/MX08Gunwalker=反载具机甲。电波导弹对机械单位造成额外伤害。 <n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c>
+Button/Tooltip/Maelstrom=产生一道集中的灵能能量冲击波，使目标区域内所有非英雄单位的移动和攻击速度降低50%，持续3秒。
+Button/Tooltip/MagRailProjectiles=武器射程增加1。
+Button/Tooltip/ManufacturingFacility=载具生产设施。 <n/><n/><c val="ffff8a">解锁：</c><n/>- 秃鹫<n/>- 恶蝠
+Button/Tooltip/ManufacturingFacility2=工厂必须着陆才能开始生产单位。
+Button/Tooltip/Marauder=重型突击步兵。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c>
+Button/Tooltip/Marine=通用步兵。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c>
+Button/Tooltip/MechWarrior=请求歌利亚佣兵英雄。<n/><n/>使用实验性歌利亚原型的UED老兵。
+Button/Tooltip/MedicRegen=医疗兵获得每秒2点生命恢复。
+Button/Tooltip/MiniNuke=向目标位置发射一枚装有核弹头的手雷，需要5秒才能落地。小型核弹无需在发射井建造，但伤害和半径只有普通核弹的一半(150点伤害，对建筑+100)。
+Button/Tooltip/MiningEfficiency=SCV采集晶体矿速度加快33%。
+Button/Tooltip/MissilePods=导弹荚舱对目标区域的敌方单位造成<d ref="Effect,HurricaneMissileDamage,Amount * Effect,HurricaneMissileDamagePersistent,PeriodCount"/> (对轻甲+<d ref="Effect,HurricaneMissileDamage,AttributeBonus[0] * Effect,HurricaneMissileDamagePersistent,PeriodCount"/>)点伤害。</n>等级2：导弹荚舱对目标区域的敌方单位造成<d ref="Effect,MissilePodsDamageLevel2,Amount * Effect,MissilePodsDamagePersistentLevel2,PeriodCount"/> (对轻甲+<d ref="Effect,MissilePodsDamageLevel2,AttributeBonus[0] * Effect,HurricaneMissileDamagePersistent,PeriodCount"/>)点伤害。</n>等级3：导弹荚舱对目标区域的敌方单位造成<d ref="Effect,MissilePodsDamageLevel3,Amount * Effect,MissilePodsDamagePersistentLevel3,PeriodCount"/> (对轻甲+<d ref="Effect,MissilePodsDamageLevel3,AttributeBonus[0] * Effect,HurricaneMissileDamagePersistent,PeriodCount"/>)点伤害。
+Button/Tooltip/MissileTurret=主要防空防御建筑。 <n/><n/><c val="#ColorAttackInfo">可以攻击空中单位。</c><n/><c val="FFE303">侦测单位</c><n/><n/>- 限制8
+Button/Tooltip/MissileTurretHyperion=主要防空防御建筑。 <n/><n/><c val="#ColorAttackInfo">可以攻击空中单位。</c><n/><c val="FFE303">侦测单位</c>
+Button/Tooltip/Mjolnir=重型突击机甲。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c>
+Button/Tooltip/MjolnirNormalMode=恢复正常模式，使雷神之锤能以正常速度移动并使用其反轻甲臂炮。
+Button/Tooltip/MjolnirSiegeMode=激活雷神之锤的攻城模式，将其变为一个缓慢移动的炮台，对地面造成重创。
+Button/Tooltip/MobileDetection=炮行者现在可以侦测隐形单位。
+Button/Tooltip/MultiShotLauncher=在20秒内最多可同时攻击三个不同的目标。 </n>等级2：可同时攻击4个目标。</n>等级3：可攻击5个目标，并提高武器攻击速度。
+Button/Tooltip/MultiThreadTreads=使莱昂坦克的移动速度提高25%。
+Button/Tooltip/NecrodermisArmor=地堡的栏位增加2个。地堡还获得每秒2点生命恢复。
+Button/Tooltip/NeosteelArmor=十字军在坦克模式下护甲增加1。攻城模式下护甲加成加倍。</n>等级2：护甲加成+2，攻城时+4。</n>等级3：护甲加成+3，攻城时+6。
+Button/Tooltip/NightHowl=发射一枚改良型电磁脉冲导弹，对目标区域内所有单位的护盾和能量造成200点伤害。被击中的单位无法隐形并被眩晕5秒。 </n></n><c val ="#ColorAttackInfo">不影响友方单位。</c>
+Button/Tooltip/NukeOptimization=核弹建造时间减少90秒。
+Button/Tooltip/Obliterate=对单个目标造成200点伤害。
+Button/Tooltip/OilDrop=制造一滩黏性油料，减速穿过的敌人。如果奇美拉受到攻击，会自动使用。 </n></n><c val="#ColorAttackInfo">对巨型和英雄单位无效。
+Button/Tooltip/OverchargedCannons=在5秒内增加武器射程、攻击速度，并为攻击附加少量溅射伤害。
+Button/Tooltip/PackLeader=附近的空中单位获得25%的攻击速度，离开范围后效果持续数秒。</n>等级2：攻击速度提高至50%。</n>等级3：攻击速度提高至75%。
+Button/Tooltip/PegasusDropship=空中运输机。治疗附近的生物单位。可使用后燃推进。
+Button/Tooltip/PermaCloak=隐形不再消耗能量激活，维持消耗的能量也更少。
+Button/Tooltip/PhalanxImmortal=突击步行机。可使用屏障吸收伤害。<n/><n/><c val="ffff8a">可以攻击地面单位。</c>
+Button/Tooltip/PhalanxShield=当附近有另一台方阵不朽者时，两者会生成一个大范围护盾，保护范围内的单位，所有伤害降低5点。
+Button/Tooltip/PhaseArmorPlating= RX-100的相位装甲使其始终保持半固态，可抵消<d ref="100 * Behavior,PredatorDodge,DamageResponse.Chance[0]" value=".3"/>%的所有来袭攻击。
+Button/Tooltip/PhoenixResurrect=制空星际战机。可使用引力光束。<n/><n/><c val="ffff8a">可以攻击空中单位。</c>
+Button/Tooltip/PiercingRounds=强盗的地面攻击会伤害一条直线上的单位。
+Button/Tooltip/PlaceMine=布设一枚磁性地雷。激活后，地雷会直线前进，并在撞击点周围造成范围伤害。 </n>等级2：额外获得一次使用次数。 </n>等级3：获得第三次使用次数，并减少冷却时间。
+Button/Tooltip/PredatorGrapple=将HERC拉向目标位置。
+Button/Tooltip/PrepareMiniNuke=胖子准备一枚装有核弹头的手雷，其伤害和半径只有常规核弹的一半。
+Button/Tooltip/ProbeHyperion=基础工作单位。可采集资源并折跃星灵建筑。<n/><n/><c val="ffff8a">可以攻击地面单位。</c>
+Button/Tooltip/PsiConfusion=防御建筑。减缓附近所有异虫单位的攻击和移动速度。<n/><n/><c val="#ColorAttackInfo">英雄单位免疫。</c>
+Button/Tooltip/PsiEmitter=防御建筑。可永久性精神控制异虫单位。
+Button/Tooltip/PsionicLure=该建筑可作为异虫单位的诱饵，使其总是优先攻击此建筑。在灵能发射器附近，异虫单位的移动速度提高50%，但所有攻击都变为近战范围。
+Button/Tooltip/PsionicRebound=暗影之面的攻击最多可弹射4个额外的敌人，每击中一个敌人获得5点能量。
+Button/Tooltip/PsionicReboundImproved=暗影之面的攻击最多可弹射4个额外的敌人，每击中一个敌人获得10点能量。
+Button/Tooltip/QuickSiege=普通模式和攻城模式之间的变形时间减少50%。
+Button/Tooltip/RX100Predator=反步兵专家，每次攻击都能造成范围伤害。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c>
+Button/Tooltip/RadarSupport=使附近单位的攻击射程增加1。对近战单位无效。
+Button/Tooltip/Raider=来自母巢之战的老兵，现为雷诺效力。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c>
+Button/Tooltip/RaiderStimpack=改良型强化剂包，不会对使用者造成伤害，但冷却时间更长，且不再增加移动速度。在15秒内射速提高100%。
+Button/Tooltip/RailgunSnipe=在仔细瞄准后，蝰蛇发射一枚磁轨弹，沿路径攻击敌人，造成<d ref="Effect,RaynorSnipeDamage,Amount"/>点伤害。
+Button/Tooltip/RaiseShields=暂时将更多能量输送至复仇的护盾生成器，在15秒内使其最大护盾提高100%，护盾护甲+1。</n>等级2：最大护盾提高200%，护盾护甲+2。</n>等级3：最大护盾提高300%，护盾护甲+3。
+Button/Tooltip/RapidDeployment2=允许从休伯利安号在任何可见位置部署空中单位。
+Button/Tooltip/RapidDeploymentTubes=天马运输机几乎可以瞬间部署装载的部队。
+Button/Tooltip/ReaperAfterburners=激活收割者喷气背包的后燃推进器，使其能够飞行并攻击空中单位。30秒冷却时间。
+Button/Tooltip/ReinforcedStructure=地堡被加固，受到的伤害降低25%。
+Button/Tooltip/RepairBay=包含人类步兵单位的升级。解锁人类防御建筑的建造。
+Button/Tooltip/RepairBayDrone=飞行间谍。隐形使敌人无法察觉，除非有侦测单位。<n/><n/><c val="FFE303">侦测单位</c>
+Button/Tooltip/RepairDrone=治疗一个友方机械单位。<n/><n/><c val="f078ff">每秒治疗2点生命值。</c>
+Button/Tooltip/RescueFoam=生成一个修复纳米机器人力场，在几秒后将受到致命伤害的单位治疗至半血。力场持续5秒。
+Button/Tooltip/RescueMedic=
+Button/Tooltip/ResearchDisplacement=允许位移者的闪现能力使其在短时间内隐形且无法被侦测，并在隐形期间快速恢复护盾。
+Button/Tooltip/ResearchNeosteelFrame=受到的伤害降低10%。
+Button/Tooltip/RetributionField=掠食者每次攻击都会释放出一片致命的电场，造成30点伤害。
+Button/Tooltip/ReviveCrusader=将十字军带回战场。
+Button/Tooltip/ReviveDireWolf=将恐狼带回战场。
+Button/Tooltip/ReviveFatMan=将胖子带回战场。
+Button/Tooltip/ReviveHeimdall=将海姆达尔带回战场。
+Button/Tooltip/ReviveHero=复活选定的佣兵。
+Button/Tooltip/ReviveJackFrost=将冰霜杰克带回战场。
+Button/Tooltip/ReviveMechWarrior=将机甲战士带回战场。
+Button/Tooltip/ReviveSergeant=将中士带回战场。
+Button/Tooltip/ReviveVengeance=将复仇带回战场。
+Button/Tooltip/RoboticsFacilityHyperion=折跃星灵机械单位。
+Button/Tooltip/SCV2=基础工作单位。可采集资源、建造人类建筑并进行修理。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c>
+Button/Tooltip/SelfDefenseProtocols=天马现在可以攻击敌方单位，护甲增加1。
+Button/Tooltip/Sergeant=呼叫中士，一位陆战队员佣兵英雄。
+Button/Tooltip/ShadowRaven=空中支援单位。可使用自动炮塔、点防御无人机和追踪导弹。<n/><n/><c val="FFE303">侦测单位</c>
+Button/Tooltip/ShadowRavenRepairDrone=飞行间谍。隐形使敌人无法察觉，除非有侦测单位。<n/><n/><c val="FFE303">侦测单位</c>
+Button/Tooltip/ShadowRavenSentryBotUnit=自动攻击其母舰目标的战斗无人机。没有拦截机的航母无法攻击。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c>
+Button/Tooltip/ShieldsUp=增加中士及附近轻型生物单位的护甲。
+Button/Tooltip/ShortenedFuses=粘性炸弹的引信时间减少0.5秒。
+Button/Tooltip/ShotgunTurret=自动防御炮塔。 <n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c>
+Button/Tooltip/SiegeTower=极其强大的炮塔，无法被攻击。摧毁宫殿大门是胜利的唯一途径。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c>
+Button/Tooltip/SiesmicSensors=导弹塔视野和侦测范围增加3。
+Button/Tooltip/StalkerShade=奈拉齐姆派系<n/>远程攻击步行机。使用闪现后护盾会恢复。<n/><n/><c val="ffff8a">可以攻击地面和空中单位。</c>
+Button/Tooltip/StargateHyperion=折跃星灵空中单位。
+Button/Tooltip/StasisMissile=将目标敌人置于静滞状态30秒，但使其易受伤害。 <n/><n/><c val="#ColorAttackInfo">对英雄或巨型单位无效。
+Button/Tooltip/Stop2=命令选定的单位取消所有命令并停止移动。
+Button/Tooltip/Striker=重型突击步兵。<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c>
+Button/Tooltip/SuperStimpack=提高中士的攻击和移动速度，并随时间恢复生命值。
+Button/Tooltip/SupplyDepot2=提供补给。<n/>补给允许你制造更多单位。<n/>补给站可以降下，让单位可以从上面走过。
+Button/Tooltip/SupplyDepot3=提供补给。<n/>补给允许你制造更多单位。<n/>补给站可以降下，让单位可以从上面走过。
+Button/Tooltip/TacticalJump=休伯利安号获得战术折跃能力。
+Button/Tooltip/TargetLock=使对目标敌方单位造成的伤害提高<d ref="Behavior,ObserverTargetLock,Modification.DamageTakenFraction[Splash]*100"/>%。效果持续至蝰蛇锁定目标为止。
+Button/Tooltip/TargetingComputer=武器射程增加2。
+Button/Tooltip/TechLab2=解锁额外的单位建造选项。
+Button/Tooltip/TerrazineInjections=暗影之面最大能量+100，起始能量+50，生命值+25。
+Button/Tooltip/TrainGround=显示可用的地面单位列表。
+Button/Tooltip/TrainHarvester=游骑兵。可跳上跳下悬崖，并使用后燃推进飞行。使用聚变炸弹。</n><n/>- 限制6 <n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c>
+Button/Tooltip/TrainInferno=专门的反步兵攻击单位。 <n/> <n/> - 限制4 <n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c>
+Button/Tooltip/TrainMercHeros=购买强大的佣兵英雄来协助你的军队作战。
+Button/Tooltip/TrainRaider=通用步兵。<n/><n/> - 限制12 <n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c>
+Button/Tooltip/TrainRescueMedic=支援部队。治疗附近的生物单位并拥有支援能力。 <n/><n/> - 限制4
+Button/Tooltip/TrainStriker=装备有延迟引信粘性炸弹的重型突击步兵。<n/> <n/> - 限制4<n/><n/><c val="#ColorAttackInfo">可以攻击地面单位。</c>
+Button/Tooltip/TrainViper=渗透单位。可使用隐形、静滞导弹和磁轨狙击。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c><n/><n/>- 限制2
+Button/Tooltip/TrainVizard=强大的施法单位。可使用灵能风暴、灵能鞭笞和紧急护盾。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c><n/><n/>- 限制2
+Button/Tooltip/TransportAttack=装载在哈迪斯内的单位可以攻击敌方单位。
+Button/Tooltip/TwilightCharge=拦截敌方地面单位并提高移动速度。暮光狂热者在冲锋时免疫伤害和碰撞。
+Button/Tooltip/TwilightZealot=强大的近战战士。可使用冲锋。<n/><n/><c val="ffff8a">可以攻击地面单位。</c>
+Button/Tooltip/U438Shells=使收割者射程增加2。对轻甲单位额外造成+5伤害。
+Button/Tooltip/UEDGoliath=重火力支援单位。隶属蒙斯克的精英卫队。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c>
+Button/Tooltip/UnloadAll=全部卸载。
+Button/Tooltip/UnstableCloak=使掠食者隐形<d ref="Behavior,PredatorCloak,Duration"/>秒，防止敌方单位看见或攻击它。隐形时无法被侦测。
+Button/Tooltip/UpgradeHyperionAirArmorLevel1=升级星灵空军单位的护甲。
+Button/Tooltip/UpgradeHyperionAirArmorLevel12=进一步升级星灵空军单位的护甲。
+Button/Tooltip/UpgradeHyperionAirArmorLevel13=最大化星灵空军单位的护甲。
+Button/Tooltip/UpgradeHyperionAirWeaponsLevel1=升级星灵空军单位造成的伤害。
+Button/Tooltip/UpgradeHyperionAirWeaponsLevel12=进一步升级星灵空军单位造成的伤害。
+Button/Tooltip/UpgradeHyperionAirWeaponsLevel13=最大化星灵空军单位造成的伤害。
+Button/Tooltip/UpgradeHyperionGroundArmorLevel1=升级星灵地面单位的护甲。
+Button/Tooltip/UpgradeHyperionGroundArmorLevel12=进一步升级星灵地面单位的护甲。
+Button/Tooltip/UpgradeHyperionGroundArmorLevel13=最大化星灵地面单位的护甲。
+Button/Tooltip/UpgradeHyperionGroundWeaponsLevel1=升级星灵地面单位造成的伤害。
+Button/Tooltip/UpgradeHyperionGroundWeaponsLevel12=进一步升级星灵地面单位造成的伤害。
+Button/Tooltip/UpgradeHyperionGroundWeaponsLevel13=最大化星灵地面单位造成的伤害。
+Button/Tooltip/UpgradeHyperionInfantryArmorLevel1=升级步兵单位的护甲。
+Button/Tooltip/UpgradeHyperionInfantryArmorLevel12=升级步兵单位的护甲。
+Button/Tooltip/UpgradeHyperionInfantryArmorLevel13=升级步兵单位的护甲。
+Button/Tooltip/UpgradeHyperionInfantryWeaponsLevel1=升级步兵单位造成的伤害。
+Button/Tooltip/UpgradeHyperionInfantryWeaponsLevel12=升级步兵单位造成的伤害。
+Button/Tooltip/UpgradeHyperionInfantryWeaponsLevel13=升级步兵单位造成的伤害。
+Button/Tooltip/UpgradeHyperionShieldsLevel1=升级所有星灵单位和建筑的护盾。
+Button/Tooltip/UpgradeHyperionShieldsLevel12=进一步升级所有星灵单位和建筑的护盾。
+Button/Tooltip/UpgradeHyperionShieldsLevel13=最大化所有星灵单位和建筑的护盾。
+Button/Tooltip/UpgradeHyperionShipPlatingLevel1=升级星港建造单位的护甲。
+Button/Tooltip/UpgradeHyperionShipPlatingLevel12=升级星港建造单位的护甲。
+Button/Tooltip/UpgradeHyperionShipPlatingLevel13=升级星港建造单位的护甲。
+Button/Tooltip/UpgradeHyperionShipWeaponsLevel1=升级星港建造单位造成的伤害。
+Button/Tooltip/UpgradeHyperionShipWeaponsLevel12=升级星港建造单位造成的伤害。
+Button/Tooltip/UpgradeHyperionShipWeaponsLevel13=升级星港建造单位造成的伤害。
+Button/Tooltip/UpgradeHyperionVehiclePlatingLevel1=升级地面载具的护甲。
+Button/Tooltip/UpgradeHyperionVehiclePlatingLevel12=进一步升级地面载具的护甲。
+Button/Tooltip/UpgradeHyperionVehiclePlatingLevel13=最大化地面载具的护甲。
+Button/Tooltip/UpgradeHyperionVehicleWeaponsLevel1=升级地面载具造成的伤害。
+Button/Tooltip/UpgradeHyperionVehicleWeaponsLevel12=进一步升级地面载具造成的伤害。
+Button/Tooltip/UpgradeHyperionVehicleWeaponsLevel13=最大化地面载具造成的伤害。
+Button/Tooltip/Vengeance=请求战列巡航舰佣兵英雄。<n/><n/>一位指挥官听起来异常熟悉的战列巡航舰。
+Button/Tooltip/VengeanceFighter=高机动性飞行单位。擅长外科手术式打击。<n/><n/><c val="ffff8a">可以攻击地面和空中单位。</c>
+Button/Tooltip/ViperConsume=附着在目标建筑上，造成<d ref="-1 * (Effect,ViperConsumeStructureModifyTarget,VitalArray[0].Change * Effect,ViperConsumeStructureCreatePersistent,PeriodCount)"/>点伤害，并每秒为蝰蛇恢复<d ref="(Effect,ViperConsumeStructureModifyCaster,VitalArray[2].Change / Behavior,TimeScaleConversionBehavior,Duration)" precision="1"/>点能量。<n/><n/><c val="#ColorAttackInfo">不能以友方或敌方建筑为目标。</c>
+Button/Tooltip/Vizard=渗透单位。可使用超声波脉冲和隐形。还可呼叫在幽灵军校建造的战术核弹。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c>
+Button/Tooltip/VoidBlink=将追猎者传送至附近的目标位置。技能每<d ref="Abil,Blink,Cost[0].Cooldown.TimeUse"/>秒只能使用一次。
+Button/Tooltip/VoidHunter=塔达林派系<n/>致命的战士刺客。永久隐形。可使用虚空静滞。<n/><n/><c val="ffff8a">可以攻击地面单位。</c>
+Button/Tooltip/VoidStalker=奈拉齐姆派系<n/>远程攻击步行机。使用闪现后护盾会恢复。<n/><n/><c val="ffff8a">可以攻击地面和空中单位。</c>
+Button/Tooltip/WarColossus=净化者派系<n/>拥有强大范围攻击的战斗步行机。可上下悬崖。攻击会点燃地面，对敌人造成额外的持续伤害。<n/><n/><c val="ffff8a">可以攻击地面单位。</c>
+Button/Tooltip/WarpDash=将掠食者传送至附近的目标位置。技能每<d ref="Abil,WarpDash,Cost[0].Cooldown[0].TimeUse"/>秒只能使用一次。
+Button/Tooltip/WarpGateHyperion=允许折跃星灵地面单位。
+Button/Tooltip/WarpInChaosTemplar=致命的战士刺客。永久隐形。 <n/><n/><c val="ffff8a">可以攻击地面单位。</c>
+Button/Tooltip/WarpInCyberneticsCore=包含星灵空军单位的武器和护甲升级。
+Button/Tooltip/WarpInDisplacer=远程攻击步行机。可使用闪现。<n/><n/><c val="ffff8a">可以攻击地面和空中单位。</c>
+Button/Tooltip/WarpInForge=包含星灵地面单位的武器和护甲升级，以及所有星灵单位和建筑的护盾升级。<n/><n/><c val="ffff8a">解锁：</c><n/>- 探机可建造光子炮台
+Button/Tooltip/WarpInFractalMonolith=极其强大的防御建筑。射程和伤害超群，但非常昂贵且攻击缓慢。<n/><n/><c val="ffff8a">可以攻击地面和空中单位。
+Button/Tooltip/WarpInGateway=折跃星灵地面单位。
+Button/Tooltip/WarpInHighTemplar=强大的灵能大师。可使用反馈和灵能风暴。可合体为执政官。<n/><n/><c val="ffff8a">可以攻击地面单位。</c>
+Button/Tooltip/WarpInPhalanxImmortal=突击步行机。拥有过载火炮能力和方阵护盾。<n/><n/><c val="ffff8a">可以攻击地面单位。</c>
+Button/Tooltip/WarpInPhoenix=制空星际战机。可使用引力光束。死亡后可复活。<n/><n/><c val="ffff8a">可以攻击空中单位。</c>
+Button/Tooltip/WarpInProbe=基础工作单位。可采集资源并折跃星灵建筑。<n/><n/><c val="ffff8a">可以攻击地面单位。</c>
+Button/Tooltip/WarpInRoboticsFacility=折跃星灵机械单位。
+Button/Tooltip/WarpInStargate=折跃星灵空中单位。
+Button/Tooltip/WarpInTwilightZealot=强大的近战战士。可使用冲锋。<n/><n/><c val="ffff8a">可以攻击地面单位。</c>
+Button/Tooltip/WarpInVoidStalker=远程攻击步行机。可使用闪现。<n/><n/><c val="ffff8a">可以攻击地面和空中单位。</c>
+Button/Tooltip/WarpInWarColossus=强大的战斗步行机。可上下悬崖。攻击能同时焚烧多个敌人。<n/><n/><c val="ffff8a">可以攻击地面单位。</c>
+Button/Tooltip/WarpJump=<d time="6"/>后，折跃至目标位置。战列巡航舰在折跃时无敌。<n/><n/><c val="#ColorAttackInfo">不需要视野。</c>
+Button/Tooltip/WaveMotionGun=向目标单位发射一道强力光束，在<d ref="Effect,MotionWaveGunBlastCP,PeriodicPeriodArray[0] * Effect,MotionWaveGunBlastCP,PeriodCount"/>秒内造成超过<d ref="Effect,MotionWaveGunDamage,Amount * Effect,MotionWaveGunBlastCP,PeriodCount"/>点伤害，并对目标单位周围造成巨大的溅射伤害。
+Button/Tooltip/WaxThemCritters=发射一个缓慢移动的等离子球，对其路径上的敌人造成<d ref="Effect,NovaWeaponPlasmaBlastNewImpactDamage,Amount"/>点伤害，并留下一道等离子轨迹，对范围内的敌人造成伤害。
+Button/Tooltip/WeaponsOnline=为复仇的武器系统改装各种新型武器，以提高其作战能力。 </n>等级1：空对地火炮被替换为等离子鱼雷，可对一个区域内的多个地面单位进行攻击。</n>等级2：空对空火炮被替换为高射炮，可对空中单位造成范围伤害。 </n>等级3：两种武器的攻击速度和伤害均进一步提高25%。
+Button/Tooltip/WhitePhosperousFlamers=使地狱火的武器攻击范围扩大50%，被点燃的敌人护甲降低2。
+Button/Tooltip/YamatoCannonImprovements=大和炮的能量消耗降低50%。
+ConversationState/ABChoice/ABChoiceTosh03A/Info/Description=帮助托什闯入新福尔松监狱，解救被关押在里面的暗影之面。托什将在战役的剩余时间里与你同在，为你训练暗影之面。
+ConversationState/ABChoice/ABChoiceTosh03A/Info/Rewards=<s val="ABChoiceRewards">暗影之面</s>
+ConversationState/ABChoice/ABChoiceTosh03A/Info/Tooltip=<s val="TooltipTitle_Tech">暗影之面</s><n/><s val="TooltipDescription_Tech">强大的施法单位。可使用灵能风暴、灵能鞭笞和紧急护盾。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c><n/><n/>- 限制2</s>
+ConversationState/ABChoice/ABChoiceTosh03B/Info/Rewards=<s val="ABChoiceRewards">蝰蛇</s>
+ConversationState/ABChoice/ABChoiceTosh03B/Info/Tooltip=<s val="TooltipTitle_Tech">蝰蛇</s><n/><s val="TooltipDescription_Tech">渗透单位。可使用隐形、静滞导弹和磁轨狙击。<n/><n/><c val="#ColorAttackInfo">可以攻击地面和空中单位。</c><n/><n/>- 限制2</s>
+ConversationState/LabResearch/ResearchP1_1=等离子电容器
+ConversationState/LabResearch/ResearchP1_1/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">等离子电容器</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">护盾生成器。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchP1_1/Info/Description=<s val="ResearchDescSummary_Protoss">- 武器攻击速度提高5%。<n/>-每完成一个泽拉图任务，攻击速度将额外提高5%，总计25%。</s><n/><n/><s val="ResearchDescription_Protoss">利用星灵使用的一些材料和能源，可以减少我们所有武器和武器系统的装填时间。 <n/><n/></s>
+ConversationState/LabResearch/ResearchP1_1/Info/Tooltip=<s val="TooltipTitle_Protoss">等离子电容器</s><n/><s val="TooltipDescription_Protoss">所有单位的攻击速度提高5%。</s>
+ConversationState/LabResearch/ResearchP1_2=护盾生成器
+ConversationState/LabResearch/ResearchP1_2/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">护盾生成器</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">等离子电容器。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchP1_2/Info/Description=<s val="ResearchDescSummary_Protoss">- 所有单位(休伯利安号除外)获得相当于其生命值15%的护盾。<n/>-完成此研究后，完成泽拉图任务将进一步提升此研究效果。每完成一个任务，护盾护甲+1，护盾值+5%。</s><n/><n/><s val="ResearchDescription_Protoss">我们成功地找到了一种在士兵的护甲和载具中安装护盾生成器的方法。虽然它们不如星灵的护盾强大，但随着时间的推移可以进行进一步的改进。</s>
+ConversationState/LabResearch/ResearchP1_2/Info/Tooltip=<s val="TooltipTitle_Protoss">护盾生成器</s><n/><s val="TooltipDescription_Protoss">所有单位获得相当于其生命值15%的护盾。</s>
+ConversationState/LabResearch/ResearchP2_1=晶体矿消耗降低
+ConversationState/LabResearch/ResearchP2_1/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">晶体矿消耗降低</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">微型过滤。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchP2_1/Info/Description=<s val="ResearchDescSummary_Protoss">- 所有地面单位的晶体矿消耗降低25点。<n/><n/></s><s val="ResearchDescription_Protoss">我们可以利用我们对星灵折跃技术和材料的研究，更快地装备我们的地面部队，从而降低整体成本。</s>
+ConversationState/LabResearch/ResearchP2_1/Info/Tooltip=<s val="TooltipTitle_Protoss">晶体矿消耗降低</s><n/><s val="TooltipDescription_Protoss">所有地面单位的晶体矿消耗降低25点。</s>
+ConversationState/LabResearch/ResearchP2_2/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">微型过滤</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">晶体矿消耗降低。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchP2_2/Info/Description=<s val="ResearchDescSummary_Protoss">- 自动化精炼厂生产高能瓦斯的速度加快50%。</s><n/><n/><s val="ResearchDescription_Protoss">结合人类和星灵的过滤技术，我们的自动化精炼厂能够以更纯粹的形式回收更多的高能瓦斯。</s>
+ConversationState/LabResearch/ResearchP2_2/Info/Tooltip=<s val="TooltipTitle_Protoss">微型过滤</s><n/><s val="TooltipDescription_Protoss">精炼厂和自动化精炼厂生产高能瓦斯的速度加快50%。</s>
+ConversationState/LabResearch/ResearchP3_1=启动型战地基地套件
+ConversationState/LabResearch/ResearchP3_1/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">启动型战地基地套件</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">快速建造。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchP3_1/Info/Description=<s val="ResearchDescSummary_Protoss">- 前线作战基地和生产设施的建造时间减少50%。</s><n/><n/><s val="ResearchDescription_Protoss">折跃技术被集成到我们移动设施的建造模块中，极大地减少了在战场任何地方建立防御所需的时间。</s>
+ConversationState/LabResearch/ResearchP3_1/Info/Tooltip=<s val="TooltipTitle_Protoss">启动型战地基地套件</s><n/><s val="TooltipDescription_Protoss">前线作战基地和生产设施的建造时间减少50%。</s>
+ConversationState/LabResearch/ResearchP3_2=快速建造
+ConversationState/LabResearch/ResearchP3_2/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">快速建造</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">启动型战地基地套件。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchP3_2/Info/Description=<s val="ResearchDescSummary_Protoss">- 休伯利安号的建造时间减少50%。</s><n/><n/><s val="ResearchDescription_Protoss">鉴于建立初始基地和资源采集的重要性，我们集中精力改进休伯利安号的建造设计，结合折跃技术放置外部框架，以便实际的建造机器人可以放置内部结构。</s>
+ConversationState/LabResearch/ResearchP3_2/Info/Tooltip=<s val="TooltipTitle_Protoss">快速建造</s><n/><s val="TooltipDescription_Protoss">休伯利安号的建造时间减少50%。</s>
+ConversationState/LabResearch/ResearchP4_1=暗影渡鸦
+ConversationState/LabResearch/ResearchP4_1/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">暗影渡鸦</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">核能科学船。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchP4_1/Info/Description=<s val="ResearchDescSummary_Protoss">- 侦测隐形和潜地敌人。<n/>- 可生产飞行的哨兵机器人攻击单位。<n/>- 可放置点防御无人机。<n/>- 可部署追踪导弹。<n/>- 在休伯利安号建造。</s><n/><n/><s val="ResearchDescription_Protoss">暗影渡鸦是一种无人侦察机，可以侦测隐形和潜地的敌方单位。利用与星灵航母相同的技术，渡鸦还可以制造哨兵机器人协助其作战。</s>
+ConversationState/LabResearch/ResearchP4_1/Info/Tooltip=<s val="TooltipTitle_Protoss">暗影渡鸦</s><n/><s val="TooltipDescription_Protoss">支援单位。可侦测隐形和潜地敌方单位。</s>
+ConversationState/LabResearch/ResearchP4_2=核能科学船
+ConversationState/LabResearch/ResearchP4_2/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">核能科学船</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">暗影渡鸦。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchP4_2/Info/Description=<s val="ResearchDescSummary_Protoss">- 侦测隐形和潜地敌人。<n/>- 可辐射敌方单位。<n/>- 修理附近的机械单位。<n/>- 可使用锁定在一段时间内眩晕单位，包括雷兽。 <n/>- 在休伯利安号建造。</s><n/><n/><s val="ResearchDescription_Protoss">我们创造了一种独特的科学船版本，可以对友方机械单位进行船体修复。这个版本的科学船还可以辐射单个目标，并侦测隐形和潜地的敌方单位，同时配备了已停用的锁定导弹的改良版，不再仅限于机械单位。<n/></s>
+ConversationState/LabResearch/ResearchP4_2/Info/Tooltip=<s val="TooltipTitle_Protoss">核能科学船</s><n/><s val="TooltipDescription_Protoss">支援单位。可侦测隐形和潜地敌方单位。</s>
+ConversationState/LabResearch/ResearchP5_1=电磁加速炮
+ConversationState/LabResearch/ResearchP5_1/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">电磁加速炮</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">佣兵折跃。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchP5_1/Info/Description=<s val="ResearchDescSummary_Protoss">- 赋予休伯利安号电磁加速炮打击能力。<n/><n/><s val="ResearchDescription_Protoss">凭借我们所有关于自主机械和折跃技术的研究，我们成功开发了一个轨道武器平台，可以在休伯利安号执行任务时进行部署和支援。接到命令后，它将使用磁线圈系统发射一枚巨大的金属射弹，极大地提高其速度和破坏力，直到以与我们一颗核弹相当的威力击中目标。<n/>然而，由于计算每次射击的难度，射击之间需要一些时间。 </s>
+ConversationState/LabResearch/ResearchP5_1/Info/Tooltip=<s val="TooltipTitle_Protoss">电磁加速炮</s><n/><s val="TooltipDescription_Protoss">赋予休伯利安号电磁加速炮打击能力。</s>
+ConversationState/LabResearch/ResearchP5_2=佣兵折跃
+ConversationState/LabResearch/ResearchP5_2/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">佣兵折跃</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">电磁加速炮。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchP5_2/Info/Description=<s val="ResearchDescSummary_Protoss">- 呼叫佣兵的等待时间减少到30秒。</s><n/><n/><s val="ResearchDescription_Protoss">我们雇佣的任何佣兵都会得到一个传送信标，使他们能够迅速被召入战斗，而无需花时间在附近部署。</s>
+ConversationState/LabResearch/ResearchP5_2/Info/Tooltip=<s val="TooltipTitle_Protoss">佣兵折跃</s><n/><s val="TooltipDescription_Protoss">呼叫佣兵的等待时间减少到30秒。</s>
+ConversationState/LabResearch/ResearchZ1_1=鳞状甲壳
+ConversationState/LabResearch/ResearchZ1_1/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">鳞状甲壳</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">再生结构。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchZ1_1/Info/Description=<s val="ResearchDescSummary_Zerg">- 所有基地和防御建筑获得+2护甲。<n/>- 此研究可通过完成泽拉图任务进一步提升，每完成一个任务额外获得+1护甲<n/></s><s val="ResearchDescription_Zerg">借鉴异虫如何强化自身护甲，我们为自己的建筑实施了一种护甲方法，采用多层结构而非以往的单层。目前只有几层，但我们相信进一步的研究将允许以后应用额外的保护。</s>
+ConversationState/LabResearch/ResearchZ1_1/Info/Tooltip=<s val="TooltipTitle_Zerg">鳞状甲壳</s><n/><s val="TooltipDescription_Zerg"> 所有基地和防御建筑获得+2护甲。</s>
+ConversationState/LabResearch/ResearchZ1_2=再生结构
+ConversationState/LabResearch/ResearchZ1_2/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">再生结构</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">鳞状甲壳。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchZ1_2/Info/Description=<s val="ResearchDescSummary_Zerg">- 所有建筑和防御建筑获得每秒1点生命恢复。 <n/>-此研究可通过完成泽拉图任务进一步提升，每完成一个任务额外获得每秒1点生命恢复。 </s><n/><n/><s val="ResearchDescription_Zerg">我们开发了一种再生生物钢的早期原型，尽管取得了成功，但无法与我们车辆或舰船等复杂机械集成。然而，我们建筑的外部护甲已被证明是兼容的。<n/> 虽然我们相信以后可以将其扩展到我们军队的其他部分，但我们需要更多材料来改进我们现有的技术。</s>
+ConversationState/LabResearch/ResearchZ1_2/Info/Tooltip=<s val="TooltipTitle_Zerg">再生结构</s><n/><s val="TooltipDescription_Zerg">所有建筑和防御建筑获得每秒1点生命恢复。</s>
+ConversationState/LabResearch/ResearchZ2_1=坑道虫仿生学
+ConversationState/LabResearch/ResearchZ2_1/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">坑道虫仿生学</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">科学捐赠。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchZ2_1/Info/Description=<s val="ResearchDescSummary_Zerg">- 运输船容量增加8，并可搭载更大型的单位。</s><n/><n/><s val="ResearchDescription_Zerg">有人曾说，你可以把整个人类装进一条蠕虫里。嗯，研究团队里有人当真了，我们开发了一种方法来增加我们可能使用的任何运输工具的容量。</s>
+ConversationState/LabResearch/ResearchZ2_1/Info/Tooltip=<s val="TooltipTitle_Zerg">坑道虫仿生学</s><n/><s val="TooltipDescription_Zerg">运输船容量增加8，并可搭载更大型的单位。</s>
+ConversationState/LabResearch/ResearchZ2_2=蜘蛛虫群
+ConversationState/LabResearch/ResearchZ2_2/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">蜘蛛虫群</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">坑道虫仿生学。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchZ2_2/Info/Description=<s val="ResearchDescSummary_Zerg">- 除霰弹炮塔、自动化精炼厂和维修站外的所有建筑在被摧毁时会释放蜘蛛雷。不适用于飞行建筑。<n/><n/><s val="ResearchDescription_Zerg">我们从异虫建筑内部储存巢虫，并在建筑被摧毁时爆出攻击的方式中获得了一些灵感。作为建造过程的一部分，蜘蛛雷被放置在内部的一个特殊隔间里。当建筑被摧毁时，地雷将被释放并迅速潜地，给摧毁它的敌人一个大大的惊喜。</s>
+ConversationState/LabResearch/ResearchZ2_2/Info/Tooltip=<s val="TooltipTitle_Zerg">蜘蛛虫群</s><n/><s val="TooltipDescription_Zerg"> 所有建筑在被摧毁时会释放蜘蛛雷。</s>
+ConversationState/LabResearch/ResearchZ3_1=RX-100掠食者
+ConversationState/LabResearch/ResearchZ3_1/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">RX-100掠食者</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">AX-95掠食者。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchZ3_1/Info/Description=<s val="ResearchDescSummary_Zerg">- 高机动性散兵。<n/>- 周期性地释放强大的范围冲击攻击。<n/>- 拥有抓钩能力和充能冲刺能力。<n/>- 在休伯利安号建造。</s><n/><n/><s val="ResearchDescription_Zerg">掠食者设计的改良版。最初的掠食者被认为在大型战斗部队中效果不佳，因此对设计进行了修改，增大了尺寸和护甲，使其更适合前线角色。</s>
+ConversationState/LabResearch/ResearchZ3_1/Info/Tooltip=<s val="TooltipTitle_Zerg">RX-100掠食者</s><n/><s val="TooltipDescription_Zerg">高机动性散兵。拥有强大的范围攻击、充能冲刺和抓钩。</s>
+ConversationState/LabResearch/ResearchZ3_2=AX-95掠食者
+ConversationState/LabResearch/ResearchZ3_2/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">AX-95</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">RX-100掠食者。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchZ3_2/Info/Description=<s val="ResearchDescSummary_Zerg">- 反装甲刺杀单位。<n/>-拥有折跃冲刺能力，使用后使掠食者在几秒内无法被侦测。<n/>- 在休伯利安号建造。</s><n/><n/><s val="ResearchDescription_Zerg">目前正在开发的另一款掠食者变体。<n/><n/>AX-95掠食者遵循与RX-100相似的设计理念，但旨在绕过敌人防御，摧毁高优先级目标。通过对异虫生物学的研究，AX的武器专门设计用于对抗硬化的甲壳护甲，以更好地适应其设计。</s>
+ConversationState/LabResearch/ResearchZ3_2/Info/Tooltip=<s val="TooltipTitle_Zerg">AX-95</s><n/><s val="TooltipDescription_Zerg">反装甲刺杀单位。</s>
+ConversationState/LabResearch/ResearchZ4_1/Info/Description=<s val="ResearchDescSummary_Zerg">- 专家单位起始能量+100。<n/>- 专家单位能量恢复速度加倍。</s><n/><n/><s val="ResearchDescription_Zerg">该反应堆在启动时拥有更大的能量储备，并能储存更大的电荷。现在我们的专家单位一到战场就能使用他们的能力，并且在长时间闲置时可以储存更多能量。<n/><n/>专家单位是指使用能量的单位，如医疗兵、幽灵和怨灵战机。</s>
+ConversationState/LabResearch/ResearchZ4_1/Info/Tooltip=<s val="TooltipTitle_Zerg">细胞反应堆</s><n/><s val="TooltipDescription_Zerg">专家单位获得+100起始能量和双倍能量恢复。</s>
+ConversationState/LabResearch/ResearchZ4_2/Info/Description=<s val="ResearchDescSummary_Zerg">- 舰船和载具获得每秒5点生命恢复。</s><n/><n/><s val="ResearchDescription_Zerg">生物钢原型已经完善，现在可以用于我们的舰船和载具。这种材料使用内部纳米机器人来修复船体受到的任何损伤。</s>
+ConversationState/LabResearch/ResearchZ4_2/Info/Tooltip=<s val="TooltipTitle_Zerg">再生生物钢</s><n/><s val="TooltipDescription_Zerg">舰船和载具获得每秒5点生命恢复。</s>
+ConversationState/LabResearch/ResearchZ5_1=灵能发射器
+ConversationState/LabResearch/ResearchZ5_1/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">灵能发射器</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">灵能干扰器。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchZ5_1/Info/Description=<s val="ResearchDescSummary_Zerg">- 防御建筑。<n/>- 可引诱异虫单位优先攻击它，降低附近任何异虫的攻击范围。<n/><n/></s><s val="ResearchDescription_Zerg">在与雷诺指挥官就建造新版灵能发射器争论了数小时后，这个设计被接受了。虽然其范围大幅缩小，但效果依然，能驱使附近的异虫陷入狂暴，并迫使它们攻击发射器而不是我们的部队。<n/><n/>虽然这些效果确实使异虫速度加快，但也让他们对摧毁发射器产生了严重的隧道视野，不再从远处攻击，而是直接冲入近战。有点风险，但似乎很值得。</s>
+ConversationState/LabResearch/ResearchZ5_1/Info/Tooltip=<s val="TooltipTitle_Zerg">灵能发射器</s><n/><s val="TooltipDescription_Zerg">防御建筑。可引诱异虫单位优先攻击它，降低附近任何异虫的攻击范围。</s>
+ConversationState/LabResearch/ResearchZ5_2/Info/Confirmation=<s val="WarningText"><n/>研究</s><s val="WarningHighlight">灵能干扰器</s><s val="WarningText">将使你无法研究</s><s val="WarningHighlight">灵能发射器。</s><s val="WarningText">一旦做出选择，将不可逆转。<n/><n/>是否确认此研究决定？<n/><n/></s>
+ConversationState/LabResearch/ResearchZ5_2/Info/Description=<s val="ResearchDescSummary_Zerg">- 防御建筑。<n/>-拥有混乱能力，可对附近的异虫单位施放。</s><n/><n/><s val="ResearchDescription_Zerg">地球联合理事会对塔桑尼斯灵能干扰器的研究表明，如果一群异虫被集中能量轰击，会暂时切断它们与异虫主巢的连接，使它们变得野性，从而互相攻击而不是攻击原来的目标。</s>
+ConversationState/LabResearch/ResearchZ5_2/Info/Tooltip=<s val="TooltipTitle_Zerg">灵能干扰器</s><n/><s val="TooltipDescription_Zerg">防御建筑。拥有混乱能力，可对附近的异虫单位施放。</s>
+ConversationState/Tech/Tech_Banshee_1=潜行装甲板
+ConversationState/Tech/Tech_Banshee_1/Info/Description=<s val="TechSummary">- 获得电磁脉冲能力。</s><n/><n/><s val="TechDescription">由于无头骑士专注于远程轰炸，其武器库中增加了一套电磁脉冲导弹，以便干扰敌人对其攻击的防御。</s>
+ConversationState/Tech/Tech_Banshee_1/Info/Tooltip=<s val="TooltipTitle_Tech">电磁脉冲导弹电池</s><n/><s val="TooltipDescription_Tech">获得电磁脉冲能力。</s>
+ConversationState/Tech/Tech_Banshee_2=电磁脉冲导弹电池
+ConversationState/Tech/Tech_Banshee_2/Info/Description=<s val="TechSummary">- 隐形激活不消耗能量，并且可以维持隐形状态长约66%。</s><n/><n/><s val="TechDescription">沃尔夫工业提供了一种新型女妖，将光衰减材料嵌入船体。这种新船体材料需要更少的能量来隐藏，使得女妖一旦启动隐形就更容易维持。</s>
+ConversationState/Tech/Tech_Banshee_2/Info/Tooltip=<s val="TooltipTitle_Tech">潜行装甲板</s><n/><s val="TooltipDescription_Tech">隐形激活不消耗能量，并且可以维持隐形状态长约66%。</s>
+ConversationState/Tech/Tech_Battlecruiser_1=核弹优化
+ConversationState/Tech/Tech_Battlecruiser_1/Info/Description=<s val="TechSummary">- 核弹建造时间减少90秒。</s><n/><n/><s val="TechDescription">狮鹫战列巡航舰的更多空间被用于生产核导弹，使其能够及时生产。</s>
+ConversationState/Tech/Tech_Battlecruiser_1/Info/Tooltip=<s val="TooltipTitle_Tech">核弹优化</s><n/><s val="TooltipDescription_Tech">核弹建造时间减少90秒。</s>
+ConversationState/Tech/Tech_Battlecruiser_2=折跃
+ConversationState/Tech/Tech_Battlecruiser_2/Info/Description=<s val="TechSummary">- 获得折跃能力</s><n/><n/><s val="TechDescription">对狮鹫的导航计算机进行了调整，允许在 атмосферe内进行短距离跳跃。 </s>
+ConversationState/Tech/Tech_Battlecruiser_2/Info/Tooltip=<s val="TooltipTitle_Tech">折跃</s><n/><s val="TooltipDescription_Tech">获得折跃能力</s>
+ConversationState/Tech/Tech_Bunker_1=强化结构
+ConversationState/Tech/Tech_Bunker_1/Info/Description=<s val="TechSummary">- 地堡受到的来袭攻击伤害降低25%。</s><n/><n/><s val="TechDescription">该地堡的大部分内部结构已被新式钢材取代，外部装甲也经过调整，以更好地减轻来袭伤害。</s>
+ConversationState/Tech/Tech_Bunker_1/Info/Tooltip=<s val="TooltipTitle_Tech">强化结构</s><n/><s val="TooltipDescription_Tech">地堡受到的来袭攻击伤害降低25%。</s>
+ConversationState/Tech/Tech_Bunker_2=活体金属装甲
+ConversationState/Tech/Tech_Bunker_2/Info/Description=<s val="TechSummary">- 地堡栏位增加2，并获得每秒2点生命恢复。</s><n/><n/><s val="TechDescription"> 地堡涂有一种实验性金属，能够自我修复并产生局部折跃效应，以容纳更多士兵。</s>
+ConversationState/Tech/Tech_Bunker_2/Info/Tooltip=<s val="TooltipTitle_Tech">活体金属装甲</s><n/><s val="TooltipDescription_Tech">地堡栏位增加2，并获得每秒2点生命恢复。</s>
+ConversationState/Tech/Tech_CommandCenter_1=大和炮改良
+ConversationState/Tech/Tech_CommandCenter_1/Info/Description=<s val="TechSummary">-休伯利安号大和炮的能量消耗降低50%。</s><n/><n/><s val="TechDescription">斯旺发现休伯利安号的武器系统存在一个故障，导致大和炮消耗过多能量。经过一番努力，我们现在可以更可靠地使用它，而不会让灯光闪烁。</s>
+ConversationState/Tech/Tech_CommandCenter_1/Info/Tooltip=<s val="TooltipTitle_Tech">大和炮改良</s><n/><s val="TooltipDescription_Tech">休伯利安号大和炮的能量消耗降低50%。</s>
+ConversationState/Tech/Tech_CommandCenter_2=战术折跃
+ConversationState/Tech/Tech_CommandCenter_2/Info/Description=<s val="TechSummary">- 赋予休伯利安号战术折跃能力。</s><n/><n/><s val="TechDescription">导航计算机经过重新校准，允许在大气层内进行短距离跳跃，使我们能够逃离危险情况，或迅速跳回基地协助防御。</s>
+ConversationState/Tech/Tech_CommandCenter_2/Info/Tooltip=<s val="TooltipTitle_Tech">战术折跃</s><n/><s val="TooltipDescription_Tech">赋予休伯利安号战术折跃能力。</s>
+ConversationState/Tech/Tech_Diamondback_1=多线程履带
+ConversationState/Tech/Tech_Diamondback_1/Info/Description=<s val="TechSummary">- 莱昂坦克的移动速度提高25%。</s><n/><n/><s val="TechDescription">对莱昂的引擎和履带进行了重大改造，并安装了优化的计算机系统，使驾驶员能够让莱昂以更高的速度穿越各种环境。</s>
+ConversationState/Tech/Tech_Diamondback_1/Info/Tooltip=<s val="TooltipTitle_Tech">多线程履带</s><n/><s val="TooltipDescription_Tech">莱昂坦克的移动速度提高25%。</s>
+ConversationState/Tech/Tech_Diamondback_2=冲击凝胶
+ConversationState/Tech/Tech_Diamondback_2/Info/Description=<s val="TechSummary">- 莱昂坦克额外获得10%的伤害减免。</s><n/><n/><s val="TechDescription">贝内特工业最近开发了一种新型材料，旨在通过涂上一层凝胶状物质来保护其货物。虽然这本身可能没什么用，但与莱昂的隔舱式装甲结合使用，将进一步提高其战斗耐久性。</s>
+ConversationState/Tech/Tech_Diamondback_2/Info/Tooltip=<s val="TooltipTitle_Tech">冲击凝胶</s><n/><s val="TooltipDescription_Tech">莱昂坦克额外获得10%的伤害减免。</s>
+ConversationState/Tech/Tech_Firebat_1=白磷火焰喷射器
+ConversationState/Tech/Tech_Firebat_1/Info/Description=<s val="TechSummary">- 地狱火获得50%更大的攻击范围，并降低被点燃敌人的护甲。</s><n/><n/><s val="TechDescription"> 在燃料箱里加点白磷，看着那些异虫被烧焦！这东西其实很棒，对付重甲目标也有效。不知道为什么现在不用了。 </s>
+ConversationState/Tech/Tech_Firebat_1/Info/Tooltip=<s val="TooltipTitle_Tech">白磷火焰喷射器</s><n/><s val="TooltipDescription_Tech">地狱火获得50%更大的攻击范围，并降低被点燃敌人的护甲。</s>
+ConversationState/Tech/Tech_Firebat_2=铁人装甲
+ConversationState/Tech/Tech_Firebat_2/Info/Description=<s val="TechSummary">- 地狱火获得+75生命值和+1护甲。</s><n/><n/><s val="TechDescription"> 说实话，这只是在战斗服上加了一堆装甲板。反正这些家伙也胖不到哪儿去。</s>
+ConversationState/Tech/Tech_Firebat_2/Info/Tooltip=<s val="TooltipTitle_Tech">铁人装甲</s><n/><s val="TooltipDescription_Tech">地狱火获得+75生命值和+1护甲。</s>
+ConversationState/Tech/Tech_Ghost_1=多光谱扫描仪
+ConversationState/Tech/Tech_Ghost_1/Info/Description=<s val="TechSummary">- 蝰蛇获得目标锁定能力。</s><n/><n/><s val="TechDescription">对蝰蛇的头盔进行了改进，使其能够确定敌方战斗人员的弱点，然后将这些信息分享给附近的盟友。<n/><n/>.
+ConversationState/Tech/Tech_Ghost_1/Info/Tooltip=<s val="TooltipTitle_Tech">多光谱扫描仪</s><n/><s val="TooltipDescription_Tech">蝰蛇获得目标锁定能力。</s>
+ConversationState/Tech/Tech_Ghost_2=危机战斗服
+ConversationState/Tech/Tech_Ghost_2/Info/Description=<s val="TechSummary">- 蝰蛇获得+50生命值、+2护甲和50%的能量恢复速度提升。</s><n/><n/><s val="TechDescription">一套重新设计的战斗服，以提高蝰蛇在战场上的生存能力，并配备了新的反应堆以适应新设备，使其能够更快地充电。</s>
+ConversationState/Tech/Tech_Ghost_2/Info/Tooltip=<s val="TooltipTitle_Tech">危机战斗服</s><n/><s val="TooltipDescription_Tech">蝰蛇获得+50生命值、+2护甲和50%的能量恢复速度提升。</s>
+ConversationState/Tech/Tech_Goliath_1=铁纤维装甲
+ConversationState/Tech/Tech_Goliath_1/Info/Description=<s val="TechSummary">- UED歌利亚获得+2护甲，晶体矿消耗减少50。</s><n/><n/><s val="TechDescription"> 利用各种金属和矿物纤维的编织，歌利亚的护甲强度得到了提高，并用更少的材料提供了更多的保护。这还有一个额外的好处，就是使这个单位的生产成本大大降低。</s>
+ConversationState/Tech/Tech_Goliath_1/Info/Tooltip=<s val="TooltipTitle_Tech">铁纤维装甲</s><n/><s val="TooltipDescription_Tech">UED歌利亚获得+2护甲，晶体矿消耗减少50。</s>
+ConversationState/Tech/Tech_Goliath_2=目标锁定计算机
+ConversationState/Tech/Tech_Goliath_2/Info/Description=<s val="TechSummary">- UED歌利亚武器射程+2。</s><n/><n/><s val="TechDescription">这些歌利亚使用的计算机系统相当过时，以至于飞行员通常用他们的“肉眼I型”来瞄准。改装它们会有点贵，但好处是值得的。</s>
+ConversationState/Tech/Tech_Goliath_2/Info/Tooltip=<s val="TooltipTitle_Tech">目标锁定计算机</s><n/><s val="TooltipDescription_Tech">UED歌利亚武器射程+2。</s>
+ConversationState/Tech/Tech_Hellion_1=强化希腊火
+ConversationState/Tech/Tech_Hellion_1/Info/Description=<s val="TechSummary">- 赋予奇美拉烈焰风暴能力</s><n/><n/><s val="TechDescription"> 奇美拉火焰喷射器的武器系统上附加了额外的燃料箱。激活后，燃料箱会向炮塔泵送额外的燃料，以在短时间内提高其攻击能力。虽然这非常危险，但其在战斗中的有效性是毋庸置疑的。  </s>
+ConversationState/Tech/Tech_Hellion_1/Info/Tooltip=<s val="TooltipTitle_Tech">过载火焰喷射器</s><n/><s val="TooltipDescription_Tech">为奇美拉解锁烈焰风暴能力。</s>
+ConversationState/Tech/Tech_Hellion_2=过载火焰喷射器
+ConversationState/Tech/Tech_Hellion_2/Info/Description=<s val="TechSummary">- 攻击范围扩大10%，对生物单位伤害+10。</s><n/><n/><s val="TechDescription">奇美拉燃料箱的化学成分被改变，增加了火焰覆盖的范围，以及其强度。它还把它们变成了漂亮的绿色。</s>
+ConversationState/Tech/Tech_Hellion_2/Info/Tooltip=<s val="TooltipTitle_Tech">强化希腊火</s><n/><s val="TooltipDescription_Tech">攻击范围扩大10%，对生物单位伤害+10。</s>
+ConversationState/Tech/Tech_Marauder_1=一触即发
+ConversationState/Tech/Tech_Marauder_1/Info/Description=<s val="TechSummary">- 打击者获得+1武器射程。</s><n/><n/><s val="TechDescription">在“粘人”的枪管内放置了磁轨，使其能将炸弹发射得更远。</s>
+ConversationState/Tech/Tech_Marauder_1/Info/Tooltip=<s val="TooltipTitle_Tech">磁轨射弹</s><n/><s val="TooltipDescription_Tech">打击者获得+1武器射程。</s>
+ConversationState/Tech/Tech_Marauder_2=磁轨射弹
+ConversationState/Tech/Tech_Marauder_2/Info/Description=<s val="TechSummary">- 打击者炸弹引信时间减少0.5秒。</s><n/><n/><s val="TechDescription">经过一些精心的校准和切掉一些特定的部件，打击者炸弹现在会更快爆炸。这使得等待它在冲锋的雷兽身上爆炸不再那么令人紧张了。</s>
+ConversationState/Tech/Tech_Marauder_2/Info/Tooltip=<s val="TooltipTitle_Tech">一触即发</s><n/><s val="TooltipDescription_Tech">打击者炸弹引信时间减少0.5秒。</s>
+ConversationState/Tech/Tech_Marine_1=双联磁力仓
+ConversationState/Tech/Tech_Marine_1/Info/Description=<s val="TechSummary">-游骑兵攻击速度提高10%，射程增加1。</s><n/><n/><n/><s val="TechDescription"> 游骑兵的C-15高斯步枪升级了新的发射机制，提高了射速，并稳定了子弹的弹道，增加了有效射程。当然，更多的“达卡”总是好的。 </s>
+ConversationState/Tech/Tech_Marine_1/Info/Tooltip=<s val="TooltipTitle_Tech">双联磁力仓</s><n/><s val="TooltipDescription_Tech">游骑兵攻击速度提高10%，射程增加1。</s>
+ConversationState/Tech/Tech_Marine_2=防弹衣优化
+ConversationState/Tech/Tech_Marine_2/Info/Description=<s val="TechSummary">- 游骑兵获得+<d ref="Upgrade,BodyArmorOptimization,EffectArray[0].Value"/>生命值。</s><n/><n/><s val="TechDescription">M98游骑兵战斗服的各种缺陷和弱点得到了修复或加固，极大地提高了他们在战斗中的生存能力。只是别理会关于战斗服现在有多紧的抱怨。</s>
+ConversationState/Tech/Tech_Marine_2/Info/Tooltip=<s val="TooltipTitle_Tech">防弹衣优化</s><n/><s val="TooltipDescription_Tech">使陆战队员生命值增加35点。</s>
+ConversationState/Tech/Tech_Medic_1=双联喷射器
+ConversationState/Tech/Tech_Medic_1/Info/Description=<s val="TechSummary">- 医疗兵获得每秒2点生命恢复。</s><n/><n/><s val="TechDescription">让医疗兵活下来可能很困难，更不用说当你需要浪费能量治疗他们时。不过，斯泰特曼的一个老熟人可能有个解决办法。他们有一种实验性血清，混合了异虫DNA，能给予使用者轻微的再生能力。他们保证没有感染的风险，只有轻微的突变。</s>
+ConversationState/Tech/Tech_Medic_1/Info/Tooltip=<s val="TooltipTitle_Tech">医疗再生血清</s><n/><s val="TooltipDescription_Tech">医疗兵获得生命恢复。</s>
+ConversationState/Tech/Tech_Medic_2=医疗再生血清
+ConversationState/Tech/Tech_Medic_2/Info/Description=<s val="TechSummary">- 医疗兵同时治疗两个目标。</s><n/><s val="TechSummary">- 医疗兵每次治疗消耗的能量减少35%。</s><n/><n/><s val="TechDescription">由于战场上医疗兵数量有限，工程师们从其他项目中搜集了一些备件，拼凑出了一个更好的医疗兵治疗喷射器。这无疑是一个巨大的改进，尽管医疗兵们声称使用后手会发麻。 </s>
+ConversationState/Tech/Tech_Medic_2/Info/Tooltip=<s val="TooltipTitle_Tech">双联喷射器</s><n/><s val="TooltipDescription_Tech">急救兵可以同时治疗两个目标，且效率更高。</s>
+ConversationState/Tech/Tech_Medivac_1=燃料喷射器
+ConversationState/Tech/Tech_Medivac_1/Info/Description=<s val="TechSummary">- 天马获得一种可以攻击空中和地面单位的武器，并+1护甲。</s><n/><n/><s val="TechDescription">天马装备了军械库里一堆拆解的怨灵战机零件的武器系统，并增加了一些装甲以更好地自卫。 <n/><n/>我们的飞行员会非常乐意获得这次升级，特别是如果他们需要继续在敌方基地中心空投部队。</s>
+ConversationState/Tech/Tech_Medivac_1/Info/Tooltip=<s val="TooltipTitle_Tech">高级治疗AI</s><n/><s val="TooltipDescription_Tech">天马获得一种可以攻击空中和地面单位的武器，并+1护甲。</s>
+ConversationState/Tech/Tech_Medivac_2=自卫协议
+ConversationState/Tech/Tech_Medivac_2/Info/Description=<s val="TechSummary">- 天马移动速度提高25%。</s><n/><n/><s val="TechDescription">使用通常为高速赛车保留的燃料混合物，天马将能够快速地在战场上移动部队。幸运的是，我们的运输机飞行员足够勇敢，愿意驾驶这么快的东西，但他们会要求在酒吧里免费喝酒作为交换。</s>
+ConversationState/Tech/Tech_Medivac_2/Info/Tooltip=<s val="TooltipTitle_Tech">燃料喷射器</s><n/><s val="TooltipDescription_Tech">天马移动速度提高25%。</s>
+ConversationState/Tech/Tech_MissileTurret_1=地震传感器
+ConversationState/Tech/Tech_MissileTurret_1/Info/Description=<s val="TechSummary">- 导弹塔获得+2武器射程和对重甲+10伤害。</s><n/><n/><s val="TechDescription">鉴于我们的对手倾向于使用远程武器来摧毁我们的炮塔防御，我们决定抢先一步，用具有更优射程和能穿透大多数护甲的改良版“箭IV”导弹替换它们。</s>
+ConversationState/Tech/Tech_MissileTurret_1/Info/Tooltip=<s val="TooltipTitle_Tech">先进战术导弹</s><n/><s val="TooltipDescription_Tech">导弹塔获得+2武器射程和对重甲+10伤害。</s>
+ConversationState/Tech/Tech_MissileTurret_2=先进战术导弹
+ConversationState/Tech/Tech_MissileTurret_2/Info/Description=<s val="TechSummary">- 导弹塔获得+5视野和侦测范围。</s><n/><n/><s val="TechDescription">从凯尔莫瑞安联合体购买的一套传感器。最初用于搜索地下洞穴和可能的地震位置，现已重新设计以进一步提高炮塔的侦测能力，从而能从更远处感知敌方单位。</s>
+ConversationState/Tech/Tech_MissileTurret_2/Info/Tooltip=<s val="TooltipTitle_Tech">地震传感器</s><n/><s val="TooltipDescription_Tech">导弹塔获得+5视野和侦测范围。</s>
+ConversationState/Tech/Tech_Reaper_1=U-438炮弹
+ConversationState/Tech/Tech_Reaper_1/Info/Description=<s val="TechSummary">- 收割者在脱离战斗时获得快速治疗。</s><n/><n/><s val="TechDescription">一种原本为我们医疗兵准备的再生血清的增强版。<n/><n/>为什么他们没有得到这个？因为这个血清的效果下会增强攻击性。这几乎不适合支援部队，更不用说负责让其他人活下去的单位了。<n/>
+ConversationState/Tech/Tech_Reaper_1/Info/Tooltip=<s val="TooltipTitle_Tech">战斗血清</s><n/><s val="TooltipDescription_Tech">收割者在脱离战斗时获得快速治疗。</s>
+ConversationState/Tech/Tech_Reaper_2=战斗血清
+ConversationState/Tech/Tech_Reaper_2/Info/Description=<s val="TechSummary">- 收割者射程+2。</s><n/><s val="TechSummary">- 收割者对轻甲单位额外造成+5伤害。</s><n/><n/><s val="TechDescription">U-238实验性陀螺喷气弹，装有额外的炸药和硬化的新式钢尖。这种设计允许更远的射程，并对有机物和轻装甲目标造成毁灭性伤害。</s>
+ConversationState/Tech/Tech_Reaper_2/Info/Tooltip=<s val="TooltipTitle_Tech">U-438炮弹</s><n/><s val="TooltipDescription_Tech">收割者射程+2，对轻甲单位额外造成+5伤害。</s>
+ConversationState/Tech/Tech_SCV_1=采矿效率
+ConversationState/Tech/Tech_SCV_1/Info/Description=<s val="TechSummary">- SCV采矿速度加快33%。</s><n/><n/><s val="TechDescription">鉴于我们的SCV大部分时间只能采集资源，我们从凯尔莫瑞安联合体购买了一些专门的采矿设备来装备它们，这样它们现在可以更快地采集那些晶体矿了。</s> 
+ConversationState/Tech/Tech_SCV_1/Info/Tooltip=<s val="TooltipTitle_Tech">采矿效率</s><n/><s val="TooltipDescription_Tech">SCV采矿速度加快33%。</s>
+ConversationState/Tech/Tech_SCV_2=战斗骨架
+ConversationState/Tech/Tech_SCV_2/Info/Description=<s val="TechSummary">-SCV获得+100生命值、+2护甲和+10武器伤害。</s><n/><n/><s val="TechDescription">我们的SCV工人们厌倦了总是在矿区被折跃来的战列巡航舰骚扰、被爆虫直冲，以及基本上所有东西都想特别杀死他们。所以他们决定集资购买了一种适合SCV的战斗骨架设计，让他们在面对所有这些工人骚扰时有了一战之力。</s>
+ConversationState/Tech/Tech_SCV_2/Info/Tooltip=<s val="TooltipTitle_Tech">战斗骨架</s><n/><s val="TooltipDescription_Tech">SCV获得+100生命值、+2护甲和+10武器伤害。</s>
+ConversationState/Tech/Tech_SiegeTank_1=反导系统再校准
+ConversationState/Tech/Tech_SiegeTank_1/Info/Description=<s val="TechSummary">- 反导系统激活持续时间增加到10秒。</s><n/><n/><s val="TechDescription">炮行者获得了一套改进的散热器和急需的冷却系统，使其反导系统的激活时间加倍，并能更稳定地使用。</s>
+ConversationState/Tech/Tech_SiegeTank_1/Info/Tooltip=<s val="TooltipTitle_Tech">反导系统再校准</s><n/><s val="TooltipDescription_Tech">反导系统激活持续时间增加到10秒。</s>
+ConversationState/Tech/Tech_SiegeTank_2/Info/Description=<s val="TechSummary">- 炮行者现在是侦测单位。</s><n/><n/><s val="TechDescription">这是一个相当简单但昂贵的升级，将炮行者的雷达系统与我们导弹塔使用的传感器相结合，使其兼具两者的优点。</s>
+ConversationState/Tech/Tech_SiegeTank_2/Info/Tooltip=<s val="TooltipTitle_Tech">机动侦测</s><n/><s val="TooltipDescription_Tech">炮行者现在是侦测单位。</s>
+ConversationState/Tech/Tech_Spectre_1=神经外科手术
+ConversationState/Tech/Tech_Spectre_1/Info/Description=<s val="TechSummary">- 暗影之面现在每击中一个敌人获得10点能量。</s><n/><n/><s val="TechDescription">体检显示，从新福尔松监狱获释的暗影之面体内有额外的神经抑制器，以阻止他们完全发挥其灵能。在没有购买所需设备和专家的情况下，强烈建议不要尝试移除这些抑制器。<n/><n/>.</s>
+ConversationState/Tech/Tech_Spectre_1/Info/Tooltip=<s val="TooltipTitle_Tech">神经外科手术</s><n/><s val="TooltipDescription_Tech">暗影之面现在每击中一个敌人获得10点能量。</s>
+ConversationState/Tech/Tech_Spectre_2=地嗪注射
+ConversationState/Tech/Tech_Spectre_2/Info/Description=<s val="TechSummary">- 暗影之面获得+100能量、+50起始能量和+25生命值。</s><n/><n/><s val="TechDescription">暗影之面接受了一系列额外的地嗪注射，以增强他们已经很强大的灵能，并带来一些身体上的好处。虽然存在对精神稳定性的担忧，但我们的科学家有信心通过强制性的心理治疗来遏制最坏的情况。</s>
+ConversationState/Tech/Tech_Spectre_2/Info/Tooltip=<s val="TooltipTitle_Tech">地嗪注射</s><n/><s val="TooltipDescription_Tech">暗影之面获得+100能量、+50起始能量和+25生命值。</s>
+ConversationState/Tech/Tech_Thor_1=攻城炮防空
+ConversationState/Tech/Tech_Thor_1/Info/Description=<s val="TechSummary">- 使雷神之锤在攻城模式下获得一种可攻击巨型单位的防空武器。</s><n/><n/><s val="TechDescription">对雷神之锤的攻城武器进行了改进，使其有足够的高度射击空中目标。然而，由于攻城炮的移动速度缓慢，这只对足够大的目标才真正可行。</s>
+ConversationState/Tech/Tech_Thor_1/Info/Tooltip=<s val="TooltipTitle_Tech">攻城炮防空</s><n/><s val="TooltipDescription_Tech">使雷神之锤在攻城模式下获得一种可攻击巨型单位的防空武器</s>
+ConversationState/Tech/Tech_Thor_2=快速架起
+ConversationState/Tech/Tech_Thor_2/Info/Description=<s val="TechSummary">- 雷神之锤现在两种模式之间的变形速度快50%。</s><n/><n/><s val="TechDescription">来自克哈战斗的战斗数据揭示，建造雷神之锤时使用的建造方法存在一个错误，导致了缓慢的变形时间。重新校准建造程序并测试任何故障需要一些工作，但这将解决问题。</s>
+ConversationState/Tech/Tech_Thor_2/Info/Tooltip=<s val="TooltipTitle_Tech">快速架起</s><n/><s val="TooltipDescription_Tech">雷神之锤现在两种模式之间的变形速度快50%。</s>
+ConversationState/Tech/Tech_Viking_1=阿尔忒弥斯系统
+ConversationState/Tech/Tech_Viking_1/Info/Description=<s val="TechSummary">- 强盗导弹射程+3。</s><n/><s val="TechSummary">- 强盗火炮射程+1。</s><n/><n/><s val="TechDescription">贝勒罗丰为维京提供了一种改良的武器配置，增加了一种更长射程的防空导弹。还为加特林炮增加了改进的枪管，以增加地面突击的射程。</s>
+ConversationState/Tech/Tech_Viking_1/Info/Tooltip=<s val="TooltipTitle_Tech">阿尔忒弥斯系统</s><n/><s val="TooltipDescription_Tech">强盗导弹射程+3，火炮射程+1。</s>
+ConversationState/Tech/Tech_Viking_2=装甲核心
+ConversationState/Tech/Tech_Viking_2/Info/Description=<s val="TechSummary">- 强盗获得+2护甲，变形速度快50%。</s><n/><n/><s val="TechDescription">强盗的设计被重新装配了一个集中的核心，外部部件被更耐用的材料取代。这将使飞行员能够在持久的冲突中停留，并由于活动部件减少而提高了变形能力。</s>
+ConversationState/Tech/Tech_Viking_2/Info/Tooltip=<s val="TooltipTitle_Tech">装甲核心</s><n/><s val="TooltipDescription_Tech">强盗获得+2护甲，变形速度快50%。</s>
+ConversationState/Tech/Tech_Vulture_1=3D炸弹打印
+ConversationState/Tech/Tech_Vulture_1/Info/Description=<s val="TechSummary">- 蜘蛛雷现在每30秒补充一次。</s><n/><n/><s val="TechDescription">在哈迪斯上安装了一个重新设计的弹药打印单元，使其能够随时间缓慢地重建其蜘蛛雷库存。</s>
+ConversationState/Tech/Tech_Vulture_1/Info/Tooltip=<s val="TooltipTitle_Tech">3D炸弹打印</s><n/><s val="TooltipDescription_Tech">蜘蛛雷现在每30秒补充一次。</s>
+ConversationState/Tech/Tech_Vulture_2=内构钢结构
+ConversationState/Tech/Tech_Vulture_2/Info/Description=<s val="TechSummary">- 使哈迪斯生命值增加50，护甲增加1。</s><n/><n/><s val="TechDescription">哈迪斯的内部框架被一个更优化的版本取代。这与使用更现代的材料一起，为哈迪斯及其内部乘客提供了更好的保护和生存能力。</s>
+ConversationState/Tech/Tech_Wraith_1=弹药改装
+ConversationState/Tech/Tech_Wraith_1/Info/Description=<s val="TechSummary">- 布伦希尔德每次齐射额外发射2枚导弹。</s><n/><n/><s val="TechDescription">之前的导弹荚舱挂架被一个更小、更流线型的版本取代，使得布伦希尔德可以装载更多导弹，并一次发射更多导弹。</s>
+ConversationState/Tech/Tech_Wraith_1/Info/Tooltip=<s val="TooltipTitle_Tech">弹药改装</s><n/><s val="TooltipDescription_Tech">布伦希尔德每次齐射额外发射2枚导弹。</s>
+ConversationState/Tech/Tech_Wraith_2=加速电路
+ConversationState/Tech/Tech_Wraith_2/Info/Description=<s val="TechSummary">- 布伦希尔德的移动速度提高25%。</s><n/><n/><s val="TechDescription">最初，加速电路设备旨在提高机甲和载具的速度，但由于过度使用常导致难以修复的严重损坏而被放弃。然而，布伦希尔德的引擎似乎是兼容的，测试证明损坏风险极小。 </s>
+ConversationState/Tech/Tech_Wraith_2/Info/Tooltip=<s val="TooltipTitle_Tech">加速电路</s><n/><s val="TooltipDescription_Tech">布伦希尔德的移动速度提高25%。</s>
+Damage Reduction increased to 20%, and deals more damage.=伤害减免提高到20%，并造成更多伤害。
+DocInfo/DescLong=完全没有任何描述。
+DocInfo/DescShort=Any
+DocInfo/Name=又一张星际争霸II地图
+Effect/Name/AMSActiveAB=反导系统激活(行为)
+Effect/Name/AMSDisabledAB=反导系统禁用(行为)
+Effect/Name/AMSDisabledRB=反导系统禁用(移除行为)
+Effect/Name/AMSSet=反导系统设置
+Effect/Name/AmmoPrintingApplyBehavior=弹药打印(应用行为)
+Effect/Name/AmmoPrintingSearchArea=弹药打印(搜索区域)
+Effect/Name/AntiArmorRifleDamage=反装甲步枪伤害
+Effect/Name/AntiMaterialRifleDamage=反器材步枪伤害
+Effect/Name/AntiPersonnelPodApplyControllerBehavior=反步兵弹荚(应用控制器行为 等级1)
+Effect/Name/AntiPersonnelPodApplyForce=反步兵弹荚(施加力)
+Effect/Name/AntiPersonnelPodCreatePersistentLevel1=反步兵弹荚(创建持续效果 等级1)
+Effect/Name/AntiPersonnelPodImpactSet=反步兵弹荚(冲击设置 等级1)
+Effect/Name/AntiPersonnelPodSearchLevel1=反步兵弹荚(搜索 等级1)
+Effect/Name/AntiPersonnelPodsApplyContollerLevel3=反步兵弹荚(应用控制器 等级3)
+Effect/Name/AntiPersonnelPodsApplyControllerLevel2=反步兵弹荚(应用控制器 等级2)
+Effect/Name/AntiPersonnelPodsApplyHeightStunBehaviorLevel1=反步兵弹荚(应用高度/眩晕行为 等级1)
+Effect/Name/AntiPersonnelPodsApplyHeightStunLevel2=反步兵弹荚(应用高度/眩晕 等级2)
+Effect/Name/AntiPersonnelPodsApplyHeightStunLevel3=反步兵弹荚(应用高度/眩晕 等级3)
+Effect/Name/AntiPersonnelPodsCreatePersistentLevel2=反步兵弹荚(创建持续效果 等级2)
+Effect/Name/AntiPersonnelPodsCreatePersistentLevel3=反步兵弹荚(创建持续效果 等级3)
+Effect/Name/AntiPersonnelPodsDamage=反步兵弹荚(伤害 等级1)
+Effect/Name/AntiPersonnelPodsDamageLevel2=反步兵弹荚(伤害 等级2)
+Effect/Name/AntiPersonnelPodsDamageLevel3=反步兵弹荚(伤害 等级3)
+Effect/Name/AntiPersonnelPodsImpactSetLevel2=反步兵弹荚(冲击设置 等级2)
+Effect/Name/AntiPersonnelPodsImpactSetLevel3=反步兵弹荚(冲击设置 等级3)
+Effect/Name/AntiPersonnelPodsModifyUnitLower=反步兵弹荚(修改单位 降低)
+Effect/Name/AntiPersonnelPodsModifyUnitRaise=反步兵弹荚(修改单位 抬升)
+Effect/Name/AntiPersonnelPodsSearchAreaLevel2=反步兵弹荚(搜索区域 等级2)
+Effect/Name/AntiPersonnelPodsSearchAreaLevel3=反步兵弹荚(搜索区域 等级3)
+Effect/Name/ApplyAMS=应用反导系统
+Effect/Name/ApplyAMS2=应用反导系统
+Effect/Name/ApplyAMS3=应用反导系统
+Effect/Name/ApplyAlphaStrike=应用阿尔法打击
+Effect/Name/ApplyDebilitateLevel1=应用削弱 等级1
+Effect/Name/ApplyDebilitateLevel2=应用削弱 等级2
+Effect/Name/ApplyDebilitateLevel3=应用削弱 等级3
+Effect/Name/ApplyGjallarhorn=应用加拉尔号角
+Effect/Name/ApplyGjallarhorn2=应用加拉尔号角
+Effect/Name/ApplyGrphyonWarpindelay=应用狮鹫折跃延迟
+Effect/Name/ApplySlow=应用电磁脉冲减速
+Effect/Name/ArmorLockAB=装甲锁定(行为)
+Effect/Name/ArmoredCoreAirRemove=装甲核心(空中移除)
+Effect/Name/ArmoredCoreAirRemove2=装甲核心(空中移除)
+Effect/Name/ArmoredCoreApplyAir=装甲核心(应用空中)
+Effect/Name/ArmoredCoreApplyAir2=装甲核心(应用空中)
+Effect/Name/ArmoredCoreApplyAir3=装甲核心(应用空中)
+Effect/Name/ArmoredCoreApplyGround=装甲核心(应用地面)
+Effect/Name/ArmoredCoreApplyGround2=装甲核心(应用地面)
+Effect/Name/ArmoredCoreApplyGround3=装甲核心(应用地面)
+Effect/Name/ArmoredCoreAutoApply=装甲核心(自动应用)
+Effect/Name/ArmoredCoreGroundRemove=装甲核心(地面移除)
+Effect/Name/ArmoredCoreGroundRemove2=装甲核心(地面移除)
+Effect/Name/ArmoredCoreSwitch=装甲核心(切换)
+Effect/Name/ArmoredCoreSwitch2=装甲核心(切换)
+Effect/Name/ArmoredCoreSwitch3=装甲核心(切换)
+Effect/Name/ArrowIVMissileCreatePersistent=箭IV导弹(创建持续)
+Effect/Name/ArrowIVMissileDamage=箭IV导弹(伤害)
+Effect/Name/ArrowIVMissileLaunchMissile=箭IV导弹(发射)
+Effect/Name/ArtilleryBarrageAttackOrder=火炮弹幕(攻击命令)
+Effect/Name/ArtilleryBarrageCreatePersistent=火炮弹幕(创建持续)
+Effect/Name/ArtilleryBarrageLevel2=火炮弹幕 等级2
+Effect/Name/ArtilleryBarrageSpawnUnit=火炮弹幕(生成单位)
+Effect/Name/BCAAMultiTarget=战巡对空多目标
+Effect/Name/BCGroundMultitarget=战巡对地多目标
+Effect/Name/BifrostApplyFrozen=彩虹之桥(应用冻结)
+Effect/Name/BifrostApplyFrozen2=彩虹之桥(应用冻结)
+Effect/Name/BifrostDummySearch=彩虹之桥(虚拟搜索)
+Effect/Name/BifrostPersistent=彩虹之桥(持续)
+Effect/Name/BifrostPersistent2=彩虹之桥(持续)
+Effect/Name/BifrostPersistentInital=彩虹之桥(初始持续)
+Effect/Name/BifrostPersistentInitial=彩虹之桥(初始持续)
+Effect/Name/BifrostSearch=彩虹之桥(搜索)
+Effect/Name/BifrostSearch2=彩虹之桥(搜索)
+Effect/Name/BifrostStunDamage=彩虹之桥(眩晕伤害)
+Effect/Name/BrigandGatlingDamage=强盗加特林(伤害)
+Effect/Name/BrigandGatlingSearchArea=强盗加特林(搜索区域)
+Effect/Name/BrigandPiercingGatlingPersistant=强盗穿透加特林(持续)
+Effect/Name/BuildingSpiderMineSpawnCP=建筑蜘蛛雷生成(持续)
+Effect/Name/BuildingSpiderMineSpawnCU=建筑蜘蛛雷生成(创建单位)
+Effect/Name/ChainLightingSearchForNewTarget1=连锁闪电(搜索新目标1)
+Effect/Name/ChainLightingSearchForNewTarget12=连锁闪电(搜索新目标2)
+Effect/Name/ChainLightingSearchForNewTarget13=连锁闪电(搜索新目标3)
+Effect/Name/ChainLightingSearchForNewTarget14=连锁闪电(搜索新目标4)
+Effect/Name/ChainLightning1=连锁闪电 1
+Effect/Name/ChainLightning2=连锁闪电 2
+Effect/Name/ChainLightning3=连锁闪电 3
+Effect/Name/ChainLightning4=连锁闪电 4
+Effect/Name/ChainLightning5=连锁闪电 5
+Effect/Name/ChainLightningDamage1=连锁闪电伤害 1
+Effect/Name/ChainLightningDamage2=连锁闪电伤害 2
+Effect/Name/ChainLightningDamage3=连锁闪电伤害 3
+Effect/Name/ChainLightningDamage4=连锁闪电伤害 4
+Effect/Name/ChainLightningDamage5=连锁闪电伤害 5
+Effect/Name/ChainLightningDelay1=连锁闪电延迟 1
+Effect/Name/ChainLightningDelay2=连锁闪电延迟 2
+Effect/Name/ChainLightningDelay3=连锁闪电延迟 3
+Effect/Name/ChainLightningDelay4=连锁闪电延迟 4
+Effect/Name/ChainLightningMarker=连锁闪电标记
+Effect/Name/ChaosAura=混沌光环
+Effect/Name/ChaosAuraSearchArea=混沌光环(搜索区域)
+Effect/Name/ChaosBlastDamage=混沌冲击(伤害)
+Effect/Name/ConcussiveShellApplyForce=震荡弹(施加力)
+Effect/Name/ConcussiveShellCreatePersistent=震荡弹(创建持续)
+Effect/Name/ConcussiveShellDamage=震荡弹(伤害)
+Effect/Name/ConcussiveShellDamageLevel2=震荡弹(伤害 等级2)
+Effect/Name/ConcussiveShellKnockback=震荡弹(击退)
+Effect/Name/ConcussiveShellKnockbackSet=震荡弹(击退设置)
+Effect/Name/ConcussiveShellLaunchMissile=震荡弹(发射)
+Effect/Name/ConcussiveShellLaunchMissileLevel2=震荡弹(发射 等级2)
+Effect/Name/ConcussiveShellSearchArea=震荡弹(搜索区域)
+Effect/Name/ConcussiveShellSearchAreaForce=震荡弹(搜索区域 力)
+Effect/Name/ConcussiveShellSet=震荡弹(设置)
+Effect/Name/ConcussiveShellSetLevel2=震荡弹(设置 等级2)
+Effect/Name/CreateGryphon=创建狮鹫
+Effect/Name/CrusaderDummySearchArea=十字军(虚拟搜索区域)
+Effect/Name/DebilitateAoELevel1=削弱(范围效果 等级1)
+Effect/Name/DebilitateAoELevel2=削弱(范围效果 等级2)
+Effect/Name/DebilitateAoELevel3=削弱(范围效果 等级3)
+Effect/Name/DebilitateGrenadesSetLevel1=削弱手雷(设置 等级1)
+Effect/Name/DebilitateGrenadesSetLevel2=削弱手雷(设置 等级2)
+Effect/Name/DebilitateGrenadesSetLevel3=削弱手雷(设置 等级3)
+Effect/Name/DebilitatingAutoApply=削弱(自动应用)
+Effect/Name/DebilitatingDummyLevel1=削弱(虚拟 等级1)
+Effect/Name/DebilitatingDummyLevel2=削弱(虚拟 等级2)
+Effect/Name/DebilitatingDummyLevel3=削弱(虚拟 等级3)
+Effect/Name/DebilitatingGrenadesSwitch=削弱手雷(切换)
+Effect/Name/DefenseMatrix=防御矩阵
+Effect/Name/DireWolfAMSInitialSet=恐狼反导系统(初始设置)
+Effect/Name/DireWolfAMSSearch=恐狼反导系统(搜索)
+Effect/Name/DireWolfCloakFieldApplyCasterBehavior=恐狼隐形力场(应用施法者行为)
+Effect/Name/DireWolfCloakFieldApplyCasterBehavior2=恐狼隐形力场(应用施法者行为)
+Effect/Name/DireWolfCloakFieldApplyCasterBehavior3=恐狼隐形力场(应用施法者行为)
+Effect/Name/DireWolfCloakFieldSearch=恐狼隐形力场(搜索)
+Effect/Name/DireWolfCloakFieldSearch2=恐狼隐形力场(搜索)
+Effect/Name/DireWolfCloakFieldSearch3=恐狼隐形力场(搜索)
+Effect/Name/DireWolfCloakFieldSearchNew=恐狼隐形力场(新搜索)
+Effect/Name/DireWolfCloakFieldSearchNew2=恐狼隐形力场(新搜索)
+Effect/Name/DireWolfCloakFieldSearchNew3=恐狼隐形力场(新搜索)
+Effect/Name/DireWolfCloakFieldSearchSet=恐狼隐形力场(搜索设置)
+Effect/Name/DireWolfCloakFieldSearchSet2=恐狼隐形力场(搜索设置)
+Effect/Name/DireWolfCloakFieldSearchSet3=恐狼隐形力场(搜索设置)
+Effect/Name/DireWolfCloakingField=恐狼隐形力场
+Effect/Name/DireWolfCloakingField2=恐狼隐形力场
+Effect/Name/DireWolfCloakingField3=恐狼隐形力场
+Effect/Name/DireWolfCloakingFieldNew=恐狼隐形力场(新)
+Effect/Name/DireWolfCloakingFieldNew2=恐狼隐形力场(新)
+Effect/Name/DireWolfCloakingFieldNew3=恐狼隐形力场(新)
+Effect/Name/DireWolfSet=恐狼反导系统设置
+Effect/Name/DisableTransportAttack=禁用运输攻击
+Effect/Name/DisplacementBlink=位移闪现
+Effect/Name/DisplacementCloak=位移隐形
+Effect/Name/DisplacerShieldRestore=位移者护盾恢复
+Effect/Name/DragonGrenadeApplySlow=龙息手雷(应用减速)
+Effect/Name/DragonGrenadeDamage=龙息手雷(伤害)
+Effect/Name/DragonGrenadeLaunchMissile=龙息手雷(发射)
+Effect/Name/DragonGrenadeSet=龙息手雷(设置)
+Effect/Name/DragonGrenadeSlowAOE=龙息手雷(范围减速)
+Effect/Name/DullahanAttackSet=无头骑士攻击设置
+Effect/Name/DullahanCP=无头骑士(持续)
+Effect/Name/DullahanCarpetBombDamage=无头骑士地毯式轰炸(伤害)
+Effect/Name/DullahanCounterCheck1=无头骑士计数器检查1
+Effect/Name/DullahanCreateCarpetBombPersistent=无头骑士创建地毯式轰炸(持续)
+Effect/Name/DullahanDamage=无头骑士伤害
+Effect/Name/DullahanInitalSet=无头骑士初始设置
+Effect/Name/DullahanLM=无头骑士(发射)
+Effect/Name/DullahanMissileSet=无头骑士导弹设置
+Effect/Name/DullahanRange2AB=无头骑士射程2(应用行为)
+Effect/Name/DullahanRange2RB=无头骑士射程2(移除行为)
+Effect/Name/DullahanRange3AB=无头骑士射程3(应用行为)
+Effect/Name/DullahanRangeCaster=无头骑士射程(施法者)
+Effect/Name/DullahanRangeCounterCheck=无头骑士射程(计数器检查)
+Effect/Name/DullahanRangeCounterCheck2=无头骑士射程(计数器检查2)
+Effect/Name/DullahanRangeCounterCheck3=无头骑士射程(计数器检查3)
+Effect/Name/DullahanSearchArea=无头骑士搜索区域
+Effect/Name/DummyDamage=虚拟伤害
+Effect/Name/DummySuicideSet=虚拟自毁设置
+Effect/Name/EMPMissileDamage=电磁脉冲导弹(伤害)
+Effect/Name/EMPMissileLaunchLeft=电磁脉冲导弹发射(左)
+Effect/Name/EMPMissileLaunchRight=电磁脉冲导弹发射(右)
+Effect/Name/EMPMissilePersistent=电磁脉冲导弹(持续)
+Effect/Name/EMPMissileSearchArea=电磁脉冲导弹(搜索区域)
+Effect/Name/EMPMissileSet=电磁脉冲导弹(设置)
+Effect/Name/EnableTransportAttack=启用运输攻击
+Effect/Name/EngienBoostSearchArea=引擎助推(搜索区域)
+Effect/Name/EngineBoost=引擎助推
+Effect/Name/EngineBoostCreateUnit=引擎助推(创建单位)
+Effect/Name/EngineBoostCreateUnitClosest=引擎助推(创建最近单位)
+Effect/Name/EngineBoostCreateUnitPoint=引擎助推(创建定点单位)
+Effect/Name/EngineBoostDamage=引擎助推(伤害)
+Effect/Name/EngineBoostImpactSet=引擎助推(冲击设置)
+Effect/Name/EngineBoostLaunchMissile=引擎助推(发射)
+Effect/Name/EngineBoostSearchStun=引擎助推(搜索眩晕)
+Effect/Name/EngineBoostStun=引擎助推(眩晕)
+Effect/Name/EngineBoostSwitch=引擎助推(切换)
+Effect/Name/FighterApplyTimedLife=战机应用限时生命
+Effect/Name/FighterLeashOrder=战机束缚命令
+Effect/Name/FighterReleaseSet=战机释放设置
+Effect/Name/FighterSpawnCreatePersistent=战机生成(创建持续)
+Effect/Name/FighterSpawnCreatePersistent2=战机生成(创建持续)
+Effect/Name/FighterSpawnCreatePersistent3=战机生成(创建持续)
+Effect/Name/FighterSpawnCreateUnit=战机生成(创建单位)
+Effect/Name/FighterSpawnCreateUnit2=战机生成(创建单位)
+Effect/Name/FighterSpawnCreateUnit3=战机生成(创建单位)
+Effect/Name/FighterTimedLifeFate=战机限时生命终结
+Effect/Name/FireWaveCPLevel2=火焰波(持续 等级2)
+Effect/Name/FireWaveCPLevel3=火焰波(持续 等级3)
+Effect/Name/FireWaveDamage=火焰波(伤害)
+Effect/Name/FireWaveDamageLevel2=火焰波(伤害 等级2)
+Effect/Name/FireWaveDamageLevel3=火焰波(伤害 等级3)
+Effect/Name/FireWaveInitalCPLevel2=火焰波(初始持续 等级2)
+Effect/Name/FireWaveInitalCPLevel3=火焰波(初始持续 等级3)
+Effect/Name/FireWavePersistent=火焰波(持续)
+Effect/Name/FireWavePersistentinitial=火焰波(初始持续)
+Effect/Name/FireballDamageLevel1=火球术(伤害 等级1)
+Effect/Name/FireballDamageLevel2=火球术(伤害 等级2)
+Effect/Name/FireballDamageLevel3=火球术(伤害 等级3)
+Effect/Name/FireballLevel1LM=火球术(发射 等级1)
+Effect/Name/FireballLevel2LM=火球术(发射 等级2)
+Effect/Name/FireballLevel3LM=火球术(发射 等级3)
+Effect/Name/FlakCannonDamage2=高射炮(伤害)
+Effect/Name/FlameOnApplyBehavior=烈焰风暴(应用行为)
+Effect/Name/FlameWaveBlastPersistent=烈焰波(冲击 - 持续)
+Effect/Name/FlameWaveBlastSet=烈焰波(冲击设置)
+Effect/Name/FlameWaveDamage=烈焰波(伤害)
+Effect/Name/FlameWavePersistent=烈焰波(持续)
+Effect/Name/FlameWaveSearch=烈焰波(搜索)
+Effect/Name/FlamingThornsAutoApply=烈焰荆棘(自动应用)
+Effect/Name/FlamingThornsLevel1AB=烈焰荆棘(等级1 应用行为)
+Effect/Name/FlamingThornsLevel1Damage=烈焰荆棘(等级1 伤害)
+Effect/Name/FlamingThornsLevel1RB=烈焰荆棘(等级1 移除行为)
+Effect/Name/FlamingThornsLevel2AB=烈焰荆棘(等级2 应用行为)
+Effect/Name/FlamingThornsLevel2Damage=烈焰荆棘(等级2 伤害)
+Effect/Name/FlamingThornsLevel2RB=烈焰荆棘(等级2 移除行为)
+Effect/Name/FlamingThornsLevel3AB=烈焰荆棘(等级3 应用行为)
+Effect/Name/FlamingThornsLevel3Damage=烈焰荆棘(等级3 伤害)
+Effect/Name/FracturedBeamDamage=折射光束(伤害)
+Effect/Name/FracturedBeamImpactSet=折射光束(冲击设置)
+Effect/Name/FracturedBeamLM=折射光束(发射)
+Effect/Name/FracturedBeamSearch=折射光束(搜索)
+Effect/Name/FracturedBeamSecondaryDamage=折射光束(次要伤害)
+Effect/Name/FracturedBeamSecondaryImpactSet=折射光束(次要冲击设置)
+Effect/Name/FracturedBeamSecondaryLM=折射光束(次要发射)
+Effect/Name/FracturedBeamSecondarySearch=折射光束(次要搜索)
+Effect/Name/FracturedBeamTertiaryDamage=折射光束(三次伤害)
+Effect/Name/FracturedBeamTertiaryLM=折射光束(三次发射)
+Effect/Name/FragGrenadeDamage=破片手雷(伤害)
+Effect/Name/FragGrenadeDamage2=破片手雷(伤害)
+Effect/Name/FragGrenadeDamage3=破片手雷(伤害)
+Effect/Name/FragGrenadeLM=破片手雷(发射)
+Effect/Name/FragGrenadeLM2=破片手雷(发射)
+Effect/Name/FragGrenadeLM3=破片手雷(发射)
+Effect/Name/FromTheAshesApplyBehavior=浴火重生(应用行为)
+Effect/Name/FromtheAshesRemoveBehavior=浴火重生(移除行为)
+Effect/Name/FusionBombDamage=聚变炸弹(伤害)
+Effect/Name/FusionBombLM=聚变炸弹(发射)
+Effect/Name/GjallarhornBackwardPersistent=加拉尔号角(后向持续)
+Effect/Name/GjallarhornBackwardsPersistent=加拉尔号角(后向持续)
+Effect/Name/GjallarhornDamage=加拉尔号角(伤害)
+Effect/Name/GjallarhornDamage2=加拉尔号角(伤害)
+Effect/Name/GjallarhornDelayPersistent=加拉尔号角(延迟持续)
+Effect/Name/GjallarhornDelayPersistent2=加拉尔号角(延迟持续)
+Effect/Name/GjallarhornForwardPersistent=加拉尔号角(前向持续)
+Effect/Name/GjallarhornForwardsPersistent=加拉尔号角(前向持续)
+Effect/Name/GjallarhornFriendly=加拉尔号角(友方)
+Effect/Name/GjallarhornFriendly2=加拉尔号角(友方)
+Effect/Name/GjallarhornFriendlyDamage=加拉尔号角(友方伤害)
+Effect/Name/GjallarhornFriendlyDamage2=加拉尔号角(友方伤害)
+Effect/Name/GjallarhornSearchBackward=加拉尔号角(后向搜索)
+Effect/Name/GjallarhornSearchBackward2=加拉尔号角(后向搜索)
+Effect/Name/GjallarhornSearchForward=加拉尔号角(前向搜索)
+Effect/Name/GjallarhornSearchForward2=加拉尔号角(前向搜索)
+Effect/Name/GjallarhornSet=加拉尔号角(设置)
+Effect/Name/GjallarhornSet2=加拉尔号角(设置)
+Effect/Name/GreekfireAB=希腊火(应用行为)
+Effect/Name/GreekfireCP=希腊火(持续)
+Effect/Name/GreekfireCPOvercharge=希腊火(过载持续)
+Effect/Name/GreekfireDOT=希腊火(持续伤害)
+Effect/Name/GreekfireDamage=希腊火(伤害)
+Effect/Name/GreekfireDamageOvercharge=希腊火(过载伤害)
+Effect/Name/GreekfireSearchArea=希腊火(搜索区域)
+Effect/Name/GreekfireSearchAreaOvercharge=希腊火(过载搜索区域)
+Effect/Name/GryphonAA=狮鹫(对空)
+Effect/Name/GryphonAASwitch=狮鹫(对空切换)
+Effect/Name/GryphonGround=狮鹫(多重目标)
+Effect/Name/GryphonSwitch=狮鹫(切换)
+Effect/Name/GunwalkerAMSInitalSet=炮行者反导系统(初始设置)
+Effect/Name/GunwalkerAMSSearch=炮行者反导系统(搜索)
+Effect/Name/GunwalkerAMSSet=炮行者反导系统(设置)
+Effect/Name/HarvesterLand=收割者着陆
+Effect/Name/HybridMaelstromApply=混合体大漩涡(应用)
+Effect/Name/HybridMaelstromSearch=混合体大漩涡(搜索)
+Effect/Name/HyperionBattlecruiserWarpIn=休伯利安号战巡折跃迁入
+Effect/Name/ImpactMIssileLaunch=冲击导弹(发射)
+Effect/Name/ImpactMissileApply=冲击导弹致盲(应用)
+Effect/Name/ImpactMissileBlindCP=冲击导弹致盲(持续)
+Effect/Name/ImpactMissileDamage=冲击导弹(伤害)
+Effect/Name/ImpactMissileDamageSet=冲击导弹(伤害设置)
+Effect/Name/ImpactMissileLaunch=冲击导弹(发射)
+Effect/Name/ImpactMissileSearch=冲击导弹(搜索)
+Effect/Name/IrradiationApplyBehavior=辐射(应用行为)
+Effect/Name/IrradiationInitialDamage=辐射(初始伤害)
+Effect/Name/IrradiationInitialDamageApply=辐射(应用初始伤害)
+Effect/Name/IrradiationPeriodicDamage=辐射(周期性伤害)
+Effect/Name/IrradiationSearchArea=辐射(搜索区域)
+Effect/Name/IrradiationSet=辐射(设置)
+Effect/Name/JarngreiprCP=铁手套(持续)
+Effect/Name/JarngreiprSplashTarget=铁手套(溅射目标)
+Effect/Name/JumpJetsApplyLevel1=跳跃喷射器(应用 等级1)
+Effect/Name/JumpJetsApplyLevel2=跳跃喷射器(应用 等级2)
+Effect/Name/JumpJetsApplyLevel3=跳跃喷射器(应用 等级3)
+Effect/Name/JumpJetsAutoApply=跳跃喷射器(自动应用)
+Effect/Name/LashingStorm=鞭笞风暴
+Effect/Name/LockdownMissileApplyBehavior=锁定导弹(应用行为)
+Effect/Name/LockdownMissileApplyBehavior2=锁定导弹(应用行为2)
+Effect/Name/LockdownMissileSet=锁定导弹(设置)
+Effect/Name/LogisticsApplyBehavior=后勤(应用行为)
+Effect/Name/LogisticsSearchArea=后勤(搜索区域)
+Effect/Name/MACStrike=电磁加速炮打击
+Effect/Name/MACStrikeDamage=电磁加速炮打击(伤害)
+Effect/Name/MACStrikeImpactDummy=电磁加速炮打击(冲击虚拟)
+Effect/Name/MACStrikeImpactSearch=电磁加速炮打击(冲击搜索)
+Effect/Name/MWKnockbackApplyBehavior=机甲战士击退(应用行为)
+Effect/Name/MWRepel=机甲战士斥力
+Effect/Name/MWRepelDamage=机甲战士斥力(伤害)
+Effect/Name/MWRepelForce=机甲战士斥力(力)
+Effect/Name/MWRepelSearchArea=机甲战士斥力(搜索区域)
+Effect/Name/MWSearchAreaForce=机甲战士(搜索区域 力)
+Effect/Name/MWSearchAreaStun=机甲战士(搜索区域 眩晕)
+Effect/Name/MineRelease=地雷释放
+Effect/Name/MineReleaseLaunch=地雷释放(发射)
+Effect/Name/MineReleaseMissile=地雷释放(导弹)
+Effect/Name/MineSet=地雷(设置)
+Effect/Name/MineTimeLife=地雷(限时生命)
+Effect/Name/MiniNuke=小型核弹
+Effect/Name/MiniNukeCalldown=小型核弹空投
+Effect/Name/MiniNukeDamage=小型核弹(伤害)
+Effect/Name/MiniNukeDetonate=小型核弹(引爆)
+Effect/Name/MiniNukeP=小型核弹(持续)
+Effect/Name/MiniNukeSuicide=小型核弹(自毁)
+Effect/Name/MissilePodsDamageLevel2=导弹荚舱(伤害 等级2)
+Effect/Name/MissilePodsDamageLevel3=导弹荚舱(伤害 等级3)
+Effect/Name/MissilePodsDamagePersistentLevel2=导弹荚舱(伤害持续 等级2)
+Effect/Name/MissilePodsDamagePersistentLevel3=导弹荚舱(伤害持续 等级3)
+Effect/Name/MissilePodsDelayPersistentLevel2=导弹荚舱(延迟持续 等级2)
+Effect/Name/MissilePodsDelayPersistentLevel3=导弹荚舱(延迟持续 等级3)
+Effect/Name/MissilePodsLevel2=导弹荚舱 等级2
+Effect/Name/MissilePodsLevel3=导弹荚舱 等级3
+Effect/Name/MotionWaveGunBlastCP=波动炮冲击(持续)
+Effect/Name/MotionWaveGunDamage=波动炮(伤害)
+Effect/Name/MotionWaveGunDummySearch=波动炮虚拟搜索
+Effect/Name/MotionWaveGunSearch=波动炮(搜索)
+Effect/Name/MultiShotApply=多重射击(应用)
+Effect/Name/MultiShotLevel2Apply=多重射击(等级2 应用)
+Effect/Name/MultiShotLevel3Apply=多重射击(等级3 应用)
+Effect/Name/MultiShotRemove=多重射击(移除)
+Effect/Name/MultiShotSearch=多重射击(搜索)
+Effect/Name/MultiShotSearchLevel2=多重射击(搜索 等级2)
+Effect/Name/MultiShotSearchLevel3=多重射击(搜索 等级3)
+Effect/Name/MultishotRemoveLevel2=多重射击(移除 等级2)
+Effect/Name/MultishotRemoveLevel3=多重射击(移除 等级3)
+Effect/Name/NanoMachineRepair=纳米机器人修复
+Effect/Name/NapalmBarrelLM=凝固汽油桶(发射)
+Effect/Name/NapalmGroundAB=凝固汽油地面(应用行为)
+Effect/Name/NapalmGroundFireCP=凝固汽油地面火焰(持续)
+Effect/Name/NapalmGroundFireDamage=凝固汽油地面火焰(伤害)
+Effect/Name/NapalmGroundFireInitalDamage=凝固汽油地面火焰(初始伤害)
+Effect/Name/NapalmGroundFireSet=凝固汽油地面火焰(设置)
+Effect/Name/NapalmGroundSearch=凝固汽油地面(搜索)
+Effect/Name/NeosteelArmorApplyLevel1=新式钢甲(应用 等级1)
+Effect/Name/NeosteelArmorApplyLevel1Sieged=新式钢甲(应用 等级1 攻城)
+Effect/Name/NeosteelArmorApplyLevel2=新式钢甲(应用 等级2)
+Effect/Name/NeosteelArmorApplyLevel2Sieged=新式钢甲(应用 等级2 攻城)
+Effect/Name/NeosteelArmorApplyLevel3=新式钢甲(应用 等级3)
+Effect/Name/NeosteelArmorApplyLevel3Sieged=新式钢甲(应用 等级3 攻城)
+Effect/Name/NeosteelArmorAutoApply=新式钢甲自动应用
+Effect/Name/NeosteelArmorLevel1ApplySwitch=新式钢甲(等级1 应用切换)
+Effect/Name/NeosteelArmorLevel2ApplySwitch=新式钢甲(等级2 应用切换)
+Effect/Name/NeosteelArmorLevel3ApplySwitch=新式钢甲(等级3 应用切换)
+Effect/Name/NeosteelArmorRemoveLevel1=新式钢甲(移除 等级1)
+Effect/Name/NeosteelArmorRemoveLevel1Sieged=新式钢甲(移除 等级1 攻城)
+Effect/Name/NeosteelArmorRemoveLevel2=新式钢甲(移除 等级2)
+Effect/Name/NeosteelArmorRemoveLevel2Sieged=新式钢甲(移除 等级2 攻城)
+Effect/Name/NeosteelSiegedAutoApply=新式钢甲(攻城自动应用)
+Effect/Name/NightHowlApplyDecloakandStun=暗夜嚎叫(应用反隐与眩晕)
+Effect/Name/NightHowlDamage=暗夜嚎叫(伤害)
+Effect/Name/NightHowlLaunchMissile=暗夜嚎叫(发射)
+Effect/Name/NightHowlModifyUnit=暗夜嚎叫(修改单位)
+Effect/Name/NightHowlSearch=暗夜嚎叫(搜索)
+Effect/Name/NightHowlSet=暗夜嚎叫(设置)
+Effect/Name/OilDropApplyBehavior=油料泄漏(应用行为)
+Effect/Name/OilDropCreateUnit=油料泄漏(创建单位)
+Effect/Name/OilDropSearchArea=油料泄漏(搜索区域)
+Effect/Name/OilDropTimedLifeApply=油料泄漏(限时生命应用)
+Effect/Name/OverchargedCannonsApply=过载火炮(应用)
+Effect/Name/OverchargedDamage=过载(伤害)
+Effect/Name/OverchargedSearch=过载(搜索)
+Effect/Name/OverchargedSearchArea=过载(搜索区域)
+Effect/Name/OverchargedSplashDamage=过载(溅射伤害)
+Effect/Name/PPG7ApplyStun=PPG-7(应用眩晕)
+Effect/Name/PPG7Damage=PPG-7(伤害)
+Effect/Name/PPG7Search=PPG-7(搜索)
+Effect/Name/PPG7Set=PPG-7(设置)
+Effect/Name/PackLeaderApplyLevel1=狼群领袖(应用 等级1)
+Effect/Name/PackLeaderApplyLevel2=狼群领袖(应用 等级2)
+Effect/Name/PackLeaderApplyLevel3=狼群领袖(应用 等级3)
+Effect/Name/PackLeaderAutoApply=狼群领袖(自动应用)
+Effect/Name/PackLeaderRemoveLevel1=狼群领袖(移除 等级1)
+Effect/Name/PackLeaderRemoveLevel2=狼群领袖(移除 等级2)
+Effect/Name/PackLeaderSearchAreaLevel1=狼群领袖(搜索区域 等级1)
+Effect/Name/PackLeaderSearchAreaLevel2=狼群领袖(搜索区域 等级2)
+Effect/Name/PackLeaderSearchAreaLevel3=狼群领袖(搜索区域 等级3)
+Effect/Name/PegasusSpeedBoost=飞马速度提升
+Effect/Name/PhalanxImmortalOverchargedCannonsDamage=方阵不朽者过载火炮(伤害)
+Effect/Name/PhalanxImmortalSplashSet=方阵不朽者(溅射设置)
+Effect/Name/PhalanxShieldApplyBehavior=方阵护盾(应用行为)
+Effect/Name/PhalanxShieldPersistent=方阵护盾(持续)
+Effect/Name/PhalanxShieldSearchArea=方阵护盾(搜索区域)
+Effect/Name/PhasingDamage=相位(伤害)
+Effect/Name/PhasingImpactSet=相位(冲击设置)
+Effect/Name/PhasingLM=相位(发射)
+Effect/Name/PhasingSearch=相位(搜索)
+Effect/Name/PhasingSecondaryDamage=相位(次要伤害)
+Effect/Name/PhasingSecondaryLM=相位(次要发射)
+Effect/Name/PhoenixRespawn=凤凰重生
+Effect/Name/PhoenixRespawnApplyRecentlyRevived=凤凰重生(应用近期已复活)
+Effect/Name/PhoenixRespawnApplyRevive=凤凰重生(应用复活)
+Effect/Name/PhoenixRespawnDeathIssueOrder=凤凰重生(死亡命令)
+Effect/Name/PhoenixRespawnSet=凤凰重生(设置)
+Effect/Name/PhoenixRevivePostMorphHeal=凤凰复活(变形后治疗)
+Effect/Name/PlasmaTorpedoCreatePersistent=等离子鱼雷(创建持续)
+Effect/Name/PlasmaTorpedoDamage=等离子鱼雷(伤害)
+Effect/Name/PlasmaTorpedoDamageDirect=等离子鱼雷(直接伤害)
+Effect/Name/PlasmaTorpedoLMDirect=等离子鱼雷(直接发射)
+Effect/Name/PlasmaTorpedoLMSearch=等离子鱼雷(发射搜索)
+Effect/Name/PlasmaTorpedoLMSwitch=等离子鱼雷(发射切换)
+Effect/Name/PlasmaTorpedoLaunchMissile=等离子鱼雷(发射)
+Effect/Name/PredatorCloakAB=掠食者隐形(应用行为)
+Effect/Name/PredatorDashCloak=掠食者冲刺隐形
+Effect/Name/PsiEmitterDebuffApply=灵能发射器减益(应用)
+Effect/Name/PsiEmitterDebuffSearchArea=灵能发射器减益(搜索区域)
+Effect/Name/RadarSupportApplyBehavior=雷达支援(应用行为)
+Effect/Name/RadarSupportSearchArea=雷达支援(搜索区域)
+Effect/Name/RagnarokDamage=诸神黄昏(伤害)
+Effect/Name/RaiderGuassRifle=游骑兵高斯步枪
+Effect/Name/RaiderStimpackApplyBuff=游骑兵强化剂(应用增益)
+Effect/Name/RailgunLaunchMissile=磁轨狙击(发射)
+Effect/Name/RaiseShields=升起护盾
+Effect/Name/RaiseShields2=升起护盾
+Effect/Name/RaiseShields3=升起护盾
+Effect/Name/RemoveAntiPersonnelDefault=移除反步兵(默认)
+Effect/Name/RemoveJumpJetsLevel1=移除跳跃喷射器 等级1
+Effect/Name/RemoveJumpJetsLevel2=移除跳跃喷射器 等级2
+Effect/Name/RemoveShieldsUpLevel1=移除举盾 等级1
+Effect/Name/RemoveShieldsUpLevel2=移除举盾 等级2
+Effect/Name/RescueFoamApplyBehavior=急救泡沫(应用行为)
+Effect/Name/RescueFoamCreatePersistent=急救泡沫(创建持续)
+Effect/Name/RescueFoamHeal=急救泡沫(治疗)
+Effect/Name/RescueFoamHealApplyBehavior=急救泡沫治疗(应用行为)
+Effect/Name/RescueFoamSearchArea=急救泡沫(搜索区域)
+Effect/Name/SalvageSupplyDepot=回收
+Effect/Name/ShadowRavenLaunchBots=暗影渡鸦 - 发射机器人
+Effect/Name/ShadowRavenLaunchBots2=暗影渡鸦 - 发射机器人
+Effect/Name/ShieldWallLevel1=护盾墙 等级1
+Effect/Name/ShieldWallLevel2=护盾墙 等级2
+Effect/Name/ShieldWallLevel3=护盾墙 等级3
+Effect/Name/ShieldsUpAutoApplyBehavior=举盾(自动应用行为)
+Effect/Name/ShieldsUpLevel1=举盾 等级1
+Effect/Name/ShieldsUpLevel2=举盾 等级2
+Effect/Name/ShieldsUpLevel3=举盾 等级3
+Effect/Name/ShieldsUpSearch1=举盾(搜索1)
+Effect/Name/ShieldsUpSearch2=举盾(搜索2)
+Effect/Name/ShieldsUpSearch3=举盾(搜索3)
+Effect/Name/SpawnSpiderMines=生成蜘蛛雷
+Effect/Name/SpawnSpiderMinesCreatePersistent=生成蜘蛛雷(创建持续)
+Effect/Name/StrikerBomb=打击者炸弹
+Effect/Name/StrikerBomb2=打击者炸弹(设置)
+Effect/Name/SwapoutAntiArmor=切换反装甲
+Effect/Name/SwaptoAntiArmor=切换反步兵
+Effect/Name/SwaptoAntiArmor2=切换至反装甲
+Effect/Name/SwaptoAntiPersonnel=切换至反步兵
+Effect/Name/ThermalLancesFriendlyCPAir2=热能长矛友方持续(空中)
+Effect/Name/TimeWarpSlowSet=时间扭曲减速(设置)
+Effect/Name/TriPulseLaserCreatePersistent=三联脉冲激光(创建持续)
+Effect/Name/TriPulseLaserDamage=三联脉冲激光(伤害)
+Effect/Name/TriPulseLaserLaunchMissile=三联脉冲激光(发射)
+Effect/Name/TsarCannonBlast=沙皇炮冲击
+Effect/Name/TsarCannonEnemyDamage=沙皇炮(对敌伤害)
+Effect/Name/TsarCannonFriendlyDamage=沙皇炮(友方伤害)
+Effect/Name/TsarCannonSet=沙皇炮(设置)
+Effect/Name/TwilightBlades=暮光之刃
+Effect/Name/TwilightBladesCleaveSet=暮光之刃(顺劈设置)
+Effect/Name/TwilightBladesDamage=暮光之刃(伤害)
+Effect/Name/TwilightChargeApplyBuff=暮光冲锋(应用增益)
+Effect/Name/UEDGoliathMissileSwitch=UED歌利亚导弹切换
+Effect/Name/UEDGoliathMultitarget=UED歌利亚多重目标
+Effect/Name/UnknownEffect=切换至反装甲设置
+Effect/Name/UnknownEffect2=切换至反步兵设置
+Effect/Name/UnknownEffect3=雷达支援(搜索区域)
+Effect/Name/UnknownEffect4=反步兵弹荚(搜索区域 等级3)
+Effect/Name/VoidStalkerBlink=虚空追猎者闪现
+Effect/Name/VoidStalkerGhost=虚空追猎者残影
+Effect/Name/WarHound=磁轨炮伤害
+Effect/Name/WarpClawDamage=折跃爪(伤害)
+Effect/Name/WarpClawPersistent=折跃爪(持续)
+Effect/Name/WarpDashBlink=折跃冲刺(闪现)
+Effect/Name/WeaponsOnline=武器上线
+Effect/Name/WeaponsOnline2=武器上线
+Effect/Name/WeaponsOnline3=武器上线
+Effect/Name/WeaponsOnlineAutoApply=武器上线(自动应用)
+Effect/Name/Windup1AB=上弦1(应用行为)
+Effect/Name/Windup1RB=上弦1(移除行为)
+Effect/Name/Windup2AB=上弦2(应用行为)
+Effect/Name/Windup2RB=上弦2(移除行为)
+Effect/Name/Windup3AB=上弦3(应用行为)
+Effect/Name/Windup3RB=上弦3(移除行为)
+Effect/Name/Windup4AB=上弦4(应用行为)
+Effect/Name/Windup4RB=上弦4(移除行为)
+Effect/Name/Windup5AB=上弦5(应用行为)
+Effect/Name/Windup5RB=上弦5(移除行为)
+Effect/Name/WindupAttackSet=上弦攻击设置
+Effect/Name/WindupDamage=上弦伤害
+Effect/Name/WindupSwitch=上弦切换
+Effect/Name/WindupSwitch0=上弦切换0
+Effect/Name/WindupSwitch1=上弦切换1
+Effect/Name/WindupSwitch2=上弦切换2
+Effect/Name/WindupSwitch3=上弦切换3
+Effect/Name/WindupSwitch4=上弦切换4
+Effect/Name/WindupSwitch5=上弦切换5
+Flaming Thorns now grants a 10% damage reduction, and deals more damage to enemies.=烈焰荆棘现在提供10%的伤害减免，并对敌人造成更多伤害。
+Flaming Thorns now grants a 10% damage reduction, and deals more damage to enemies.=烈焰荆棘现在提供10%的伤害减免，并对近战敌人造成更多伤害。
+Flaming Thorns now grants a 10% damage reduction, and deals more damage.=烈焰荆棘现在提供10%的伤害减免，并造成更多伤害。
+Further increase damage dealt by 10, and applys burning to units.=伤害进一步提高10点，并对单位施加燃烧效果。
+Further increase damage dealt by 10.=伤害进一步提高10点。
+Increase damage each line of flame does by 10.=每条火焰线的伤害提高10点。
+Increases damage by 25, and now deals splash damage in a small area around the main target.=伤害提高25，并对主目标周围小范围造成溅射伤害。
+Increases damage by 25, and radius of splash damage is increased by 50%.=伤害提高25，溅射伤害半径提高50%。
+Inferno Armor=地狱火护甲
+Learn SuperStim [Level 2]=学习超级强化剂[等级2]
+Learn SuperStim [Level 3]=学习超级强化剂[等级3]
+MapInfo/Player00/Name=中立
+MapInfo/Player01/Name=玩家 1
+MapInfo/Player02/Name=敌方
+Mobile Construction Vehicle=移动建造车
+Param/Value/00D9214A=给予机甲战士经验值
+Param/Value/1846F762=精英星灵
+Param/Value/292D877D=生成异虫
+Param/Value/33006ABF=精英异虫
+Param/Value/39882DF2=给予十字军经验值
+Param/Value/8074AC18=升级等级1
+Param/Value/86749FAC=升级等级3
+Param/Value/940510DD=给予冰霜杰克经验值
+Param/Value/A00FF49F=给予复仇经验值
+Param/Value/A1492131=生成人类
+Param/Value/A35C56FD=生成星灵
+Param/Value/A903A306=给予恐狼经验值
+Param/Value/A94A4BC3=精英人类
+Param/Value/AC1DE41D=给予胖子经验值
+Param/Value/B6D9D353=英雄升级
+Param/Value/C6915C84=升级等级2
+Param/Value/C7710F05=给予海姆达尔经验值
+Param/Value/D924F562=给予中士经验值
+Param/Value/lib_Camp_058D22C6=海姆达尔
+Param/Value/lib_Camp_28873B56=<s val="MercCategory">小队规模：</s> <s val="MercSummary">1 歌利亚英雄</s>
+Param/Value/lib_Camp_43297AFD=<s val="MercDescription">以北欧神话中众神的守护者海姆达尔命名，这位海盗以其计划和强大飞船的结合，确保他参与的突袭行动顺利进行而闻名。他经常从这些突袭中获取任何稀有或实验性技术，以进一步升级他已经增强的装备。</s>
+Param/Value/lib_Camp_5709963B=中士
+Param/Value/lib_Camp_6254E3B0=<s val="MercCategory">生命值：</s> <s val="MercSummary">500</s></n><s val="MercCategory">技能：</s> <s val="MercSummary">震荡射击、部署蜘蛛雷、新式钢甲、火炮弹幕<n/><s val="MercCategory">训练自：</s> <s val="MercSummary">休伯利安号</s><n/><s val="MercCategory">每任务限制：</s> <s val="MercSummary">1 攻城坦克英雄</s>
+Param/Value/lib_Camp_641BF2D2=冰霜杰克
+Param/Value/lib_Camp_6C11495B=<s val="MercCategory">小队规模：</s> <s val="MercSummary">1 火焰兵英雄</s>
+Param/Value/lib_Camp_6C8DF40F=<s val="MercCategory">小队规模：</s> <s val="MercSummary">1 攻城坦克英雄</s>
+Param/Value/lib_Camp_6EF98CCD=<s val="MercCategory">生命值：</s> <s val="MercSummary">400</s></n><s val="MercCategory">技能：</s> <s val="MercSummary">反步兵弹荚、跳跃喷射器、导弹荚舱、阿尔法打击<n/><s val="MercCategory">训练自：</s> <s val="MercSummary">休伯利安号</s><n/><s val="MercCategory">每任务限制：</s> <s val="MercSummary">1 歌利亚英雄</s>
+Param/Value/lib_Camp_71DB1873=<s val="MercDescription">一名前联邦火焰兵，似乎有点太喜欢放火了，即使以普通火焰兵的标准来看也是如此。只要把他指向你想烧的东西，他就会搞定剩下的，只要你不在乎之后只剩下灰烬。杰克不免费干这活的唯一原因是他需要赏金来买火焰喷射器的燃料。</s>
+Param/Value/lib_Camp_75C95FB1=<s val="MercCategory">舰队规模：</s> <s val="MercSummary">1 战列巡航舰英雄</s>
+Param/Value/lib_Camp_79400908=<s val="MercCategory">小队规模：</s> <s val="MercSummary">1 掠夺者英雄</s>
+Param/Value/lib_Camp_7FEAD837=恐狼
+Param/Value/lib_Camp_82484E1D=<s val="MercDescription">装备着强大的霰弹枪和装备，这位佣兵以其在地面上的战斗能力以及渴望对抗他遇到的任何异虫而闻名。中士在负责一个小队时也证明了自己相当擅长保护周围的其他陆战队员。他相当直率坦白，关于这个人的谜团很少，只有一个：中士是他的名字还是他的军衔？ </s>
+Param/Value/lib_Camp_84A6C943=<s val="MercCategory">生命值：</s> <s val="MercSummary"> 150</s></n><s val="MercCategory">技能：</s> <s val="MercSummary"> 治疗强化剂、破片手雷、改良陆战队护甲、等离子冲击<n/><s val="MercCategory">训练自：</s> <s val="MercSummary">休伯利安号</s><n/><s val="MercCategory">每任务限制：</s> <s val="MercSummary">1 陆战队员英雄</s>
+Param/Value/lib_Camp_85BC4731=<s val="MercDescription">无论是摧毁基地防御，还是处理特别顽固的障碍，胖子都是你问题的解决方案。他精通各种爆炸物，从地雷到战术核弹，他总有办法应对当前局势。毕竟，没有什么是爆炸解决不了的问题！</s>
+Param/Value/lib_Camp_8F80A835=<s val="MercCategory">生命值：</s> <s val="MercSummary"> 300</s></n><s val="MercCategory">技能：</s> <s val="MercSummary"> 布设地雷、削弱手雷、多重射击发射器、小型核弹<n/><s val="MercCategory">训练自：</s> <s val="MercSummary">休伯利安号</s><n/><s val="MercCategory">每任务限制：</s> <s val="MercSummary">1 掠夺者英雄</s>
+Param/Value/lib_Camp_975FA3A7=机甲战士
+Param/Value/lib_Camp_AA55AF0B=<s val="MercCategory">生命值：</s> <s val="MercSummary">1400</s></n><s val="MercCategory">技能：</s> <s val="MercSummary">呼叫舰队、举盾、武器上线、波动炮<n/><s val="MercCategory"><s val="MercCategory">训练自：</s> <s val="MercSummary">休伯利安号</s><n/><s val="MercCategory">每任务限制：</s> <s val="MercSummary">1 战列巡航舰英雄</s>
+Param/Value/lib_Camp_B11498BE=<s val="MercDescription">一位歌利亚驾驶员，使用一架经过深度改装的机甲来执行他受雇的任何合同。虽然没有其他佣兵那么强大的破坏力，但他的机甲使他更加多才多艺，能适应所有地形和情况。</s>
+Param/Value/lib_Camp_B3664797=十字军
+Param/Value/lib_Camp_BBF535E6=<s val="MercCategory">中队规模：</s> <s val="MercSummary">1 维京英雄</s>
+Param/Value/lib_Camp_C85BB3E4=胖子
+Param/Value/lib_Camp_CB897CEB=<s val="MercCategory">生命值：</s> <s val="MercSummary"> 250</n><s val="MercCategory">技能：</s> <s val="MercSummary"> 火球术、火焰波、伤害反射、桶装凝固汽油<n/><s val="MercCategory">训练自：</s> <s val="MercSummary">休伯利安号</s><n/><s val="MercCategory">每任务限制：</s> <s val="MercSummary">1 火焰兵英雄</s>
+Param/Value/lib_Camp_D68DB969=<s val="MercCategory">中队规模：</s> <s val="MercSummary">1 女妖英雄</s>
+Param/Value/lib_Camp_E31332D4=<s val="MercCategory">生命值：</s> <s val="MercSummary">320</s></n><s val="MercCategory">技能：</s> <s val="MercSummary">反导系统、隐形力场、狼群领袖、暗夜嚎叫<n/><s val="MercCategory"><s val="MercCategory">训练自：</s> <s val="MercSummary">休伯利安号</s><n/><s val="MercCategory">每任务限制：</s> <s val="MercSummary">1 女妖英雄</s>
+Param/Value/lib_Camp_E6C595F8=<s val="MercCategory">小队规模：</s><s val="MercSummary"> 1 陆战队员英雄</s>
+Param/Value/lib_Camp_EA7988FC=<s val="MercDescription">这艘战列巡航舰的历史可以追溯到联邦最早的时期。这艘船的原始名称在无数次战斗中早已磨损。这艘船的舰长听起来异常熟悉……</s>
+Param/Value/lib_Camp_EF94B48A=<s val="MercCategory">生命值：</s> <s val="MercSummary">300</s></n><s val="MercCategory">技能：</s> <s val="MercSummary">装甲核心、引擎助推、彩虹之桥、加拉尔号角<n/><s val="MercCategory"><s val="MercCategory">训练自：</s> <s val="MercSummary">休伯利安号</s><n/><s val="MercCategory">每任务限制：</s> <s val="MercSummary">1 维京英雄</s>
+Param/Value/lib_Camp_F2AE798E=<s val="MercDescription">精英女妖中队“暗夜之狼”的前飞行员，这位佣兵使用一架装备了原型技术的女妖，这是他在离开“暗夜之狼”后从帝国“解放”出来的。</s>
+Param/Value/lib_Camp_F8E5AF99=复仇号
+Param/Value/lib_Camp_FDD5463C=<s val="MercDescription">一个拥有一辆巨大攻城坦克的佣兵，据说它的火力足以独自抵挡异虫攻击三天。</s>
+Reduces Cooldown by 5 Seconds=冷却时间减少5秒。
+Reduces Cooldown by an additional 5 seconds.=冷却时间额外减少5秒。
+RequirementNode/Tooltip/And1475695354LTCountUnitStrikerQueuedOrBetter4=打击者上限4个
+RequirementNode/Tooltip/And1876341243LTCountUnitInfernoQueuedOrBetter4=炼狱上限4个
+RequirementNode/Tooltip/And362855857EqCountUnitBrigandQueuedOrBetter0LTCountUnitBrigand2QueuedOrBetter2=最多2个
+RequirementNode/Tooltip/And362855857EqCountUnitForwardOperatingBase2QueuedOrBetter0LTCountUnitForwardOperatingBaseQueuedOrBetter2=最多2个
+RequirementNode/Tooltip/And362855857EqCountUnitJumpBeacon2QueuedOrBetter0LTCountUnitJumpBeaconQueuedOrBetter2=最多2个
+RequirementNode/Tooltip/And362855857EqCountUnitManufacturingFacility2QueuedOrBetter0LTCountUnitManufacturingFacilityQueuedOrBetter2=最多2个
+RequirementNode/Tooltip/And362855857LTCountUnitChimeraQueuedOrBetter2NECountUnitChimeraQueuedOrBetter1=最多2个
+RequirementNode/Tooltip/And3872491591EqCountUnitForwardOperatingBaseFlyingQueuedOrBetter0LTCountUnitForwardOperatingBaseQueuedOrBetter2=上限2个
+RequirementNode/Tooltip/And463010870LTCountUnitRaiderQueuedOrBetter12=侵袭者上限12个
+RequirementNode/Tooltip/And875115879EqCountUnitHarvesterFlightModeQueuedOrBetter0LTCountUnitHarvesterQueuedOrBetter4NECountUnitHarvesterQueuedOrBetter3NECountUnitHarvesterQueuedOnlyAtUnit1=最多2队
+RequirementNode/Tooltip/And875115879LTCountUnitInfernoQueuedOrBetter4NECountUnitInfernoQueuedOrBetter3NECountUnitInfernoQueuedOrBetter1=最多2队
+RequirementNode/Tooltip/And875115879LTCountUnitRaiderQueuedOnly4LTCountUnitRaiderQueuedOrBetter8NECountUnitRaiderQueuedOrBetter7NECountUnitRaiderQueuedOrBetter6NECountUnitRaiderQueuedOrBetter5=最多2队
+RequirementNode/Tooltip/And875115879LTCountUnitRescueMedicQueuedOrBetter4NECountUnitRescueMedicQueuedOrBetter3NECountUnitRescueMedicQueuedOrBetter1=最多2队
+RequirementNode/Tooltip/And875115879LTCountUnitStrikerQueuedOrBetter4NECountUnitStrikerQueuedOrBetter3NECountUnitStrikerQueuedOrBetter1=最多2队
+RequirementNode/Tooltip/CountUnitAlias_GatewayCompleteOnly4260347518TechTreeCheat=传送门
+RequirementNode/Tooltip/CountUnitRoboticsFacilityHyperionCompleteOnly790878647TechTreeCheat=机械台
+RequirementNode/Tooltip/Eq1491800815CountUpgradeHyperionProtossAirWeaponsLevel1CompleteOnly1=星灵空军武器 等级1
+RequirementNode/Tooltip/Eq1740904084CountUpgradeHyperionProtossGroundWeaponsLevel1CompleteOnly1=星灵地面武器 等级1
+RequirementNode/Tooltip/Eq2244917532CountUnitBrigandQueuedOrBetter0=地面上没有强盗
+RequirementNode/Tooltip/Eq2731442398CountUpgradeHyperionProtossAirArmorLevel12CompleteOnly1=星灵空军护甲 等级2
+RequirementNode/Tooltip/Eq3354561256CountUpgradeHyperionProtossShieldsLevel1CompleteOnly1=星灵护盾 等级1
+RequirementNode/Tooltip/Eq3446134918CountUpgradeHyperionInfantryArmorLevel1CompleteOnly1=人类步兵护甲 等级1
+RequirementNode/Tooltip/Eq3569156689CountUpgradeHyperionProtossGroundArmorLevel1CompleteOnly1=星灵地面护甲 等级1
+RequirementNode/Tooltip/Eq3668446595CountUnitHarvesterFlightModeQueuedOrBetter0=没有飞行的收割者
+RequirementNode/Tooltip/Eq3722837715CountUpgradeHyperionInfantryArmorLevel12CompleteOnly1=人类步兵护甲 等级2
+RequirementNode/Tooltip/Eq3751249461CountUpgradeHyperionProtossShieldsLevel12CompleteOnly1=星灵护盾 等级2
+RequirementNode/Tooltip/Eq419273267CountUpgradeHyperionProtossGroundArmorLevel12CompleteOnly1=星灵地面护甲 等级2
+RequirementNode/Tooltip/Eq4240903723CountUnitCrusaderSiegeModeQueuedOrBetter0=没有处于攻城模式的十字军
+RequirementNode/Tooltip/Eq4283478838CountUpgradeHyperionProtossAirArmorLevel1CompleteOnly1=星灵空军护甲 等级1
+RequirementNode/Tooltip/Eq524089035CountUpgradeHyperionProtossAirWeaponsLevel12CompleteOnly1=星灵空军武器 等级2
+RequirementNode/Tooltip/Eq629999927CountUpgradeHyperionProtossGroundWeaponsLevel12CompleteOnly1=星灵地面武器 等级2
+RequirementNode/Tooltip/LT1498717124CountUnitBunkerBotQueuedOrBetter24=上限24
+RequirementNode/Tooltip/LT1696861618CountUnitSiegeTowerQueuedOrBetter6=最多6个
+RequirementNode/Tooltip/LT1877824067CountUnitRescueMedicQueuedOrBetter4=援救医疗兵上限4个
+RequirementNode/Tooltip/LT2165397319CountUnitShotgunTurretQueuedOrBetter8=最多8个
+RequirementNode/Tooltip/LT263461205CountUnitHarvesterQueuedOrBetter6=上限6个
+RequirementNode/Tooltip/LT263461205CountUnitShotgunTurretQueuedOrBetter6=上限6个
+RequirementNode/Tooltip/LT2783830117CountUnitSCV2QueuedOrBetter12=最多12个
+RequirementNode/Tooltip/LT3158651032CountUnitBunker2CompleteOnly4=最多4个
+RequirementNode/Tooltip/LT362855857CountUnitBrynhildrCompleteOnly2=最多2个
+RequirementNode/Tooltip/LT362855857CountUnitDullahanCompleteOnly2=最多2个
+RequirementNode/Tooltip/LT362855857CountUnitGryphonBattlecruiserCompleteOnly2=最多2个
+RequirementNode/Tooltip/LT362855857CountUnitHadesCompleteOnly2=最多2个
+RequirementNode/Tooltip/LT362855857CountUnitLeon998xT8AssaultTankCompleteOnly2=最多2个
+RequirementNode/Tooltip/LT362855857CountUnitMjolnirCompleteOnly2=最多2个
+RequirementNode/Tooltip/LT362855857CountUnitSensorTowerQueuedOrBetter2=最多2个
+RequirementNode/Tooltip/LT362855857CountUnitSupplyDepot2QueuedOrBetter2=最多2个
+RequirementNode/Tooltip/LT362855857CountUnitUEDGoliathCompleteOnly2=最多2个
+RequirementNode/Tooltip/LT362855857CountUnitViperGhostCompleteOnly2=最多2个
+RequirementNode/Tooltip/LT362855857CountUnitVizardCompleteOnly2=最多2个
+RequirementNode/Tooltip/LT3730171456CountUnitChimeraQueuedOrBetter4=上限4个
+RequirementNode/Tooltip/LT3730171456CountUnitLeon998xT8AssaultTankQueuedOrBetter4=上限4个
+RequirementNode/Tooltip/LT3730171456CountUnitRepairBayQueuedOrBetter4=上限4个
+RequirementNode/Tooltip/LT3872491591CountUnitBrynhildrQueuedOrBetter2=上限2个
+RequirementNode/Tooltip/LT3872491591CountUnitPegasusDropshipQueuedOrBetter2=上限2个
+RequirementNode/Tooltip/LT578349118CountUnitAX95PredatorQueuedOrBetter1=最多1个
+RequirementNode/Tooltip/LT578349118CountUnitMX08GunwalkerCompleteOnly1=最多1个
+RequirementNode/Tooltip/LT578349118CountUnitPegasusDropshipCompleteOnly1=最多1个
+RequirementNode/Tooltip/LT578349118CountUnitRX100PredatorQueuedOrBetter1=最多1个
+RequirementNode/Tooltip/LT578349118CountUnitShadowRavenCompleteOnly1=最多1个
+RequirementNode/Tooltip/Or1832158000EqCountUnitHeimdallQueuedOrBetter0=没有已着陆的海姆达尔
+RequirementNode/Tooltip/Or2473417167EqCountUnitMjolnirSiegeQueuedOrBetter0=没有处于攻城模式的雷神之锤
+RequirementNode/Tooltip/Or2902612229CountUnitForwardOperatingBaseCompleteOnlyOrCountUnitForwardOperatingBaseFlyingCompleteOnly=已建造前线作战基地
+RequirementNode/Tooltip/Or4260347518CountUnitGatewayHyperionCompleteOnlyTechTreeCheatCountUnitWarpGateHyperionQueuedOnlyTechTreeCheat=传送门
+Unit/Name/AX95Predator=AX-95 掠食者
+Unit/Name/ArmoryHyperion=兵工厂
+Unit/Name/BeguilerQueen=魅惑女皇
+Unit/Name/Brigand=强盗
+Unit/Name/Brigand2=强盗
+Unit/Name/BrigandFighter=天空之怒
+Unit/Name/BrigandFighterMode=强盗
+Unit/Name/Brynhildr=布伦希尔德
+Unit/Name/Bunker2=地堡
+Unit/Name/BunkerBot=地堡机器人
+Unit/Name/BunkerHyperion=地堡
+Unit/Name/ChaosArchon=混沌执政官
+Unit/Name/ChaosTemplar=混沌圣堂武士
+Unit/Name/Chimera=奇美拉
+Unit/Name/CombatMedicSierra=战斗医疗兵“塞拉”
+Unit/Name/Crusader=十字军
+Unit/Name/CrusaderDummy=十字军假人
+Unit/Name/CrusaderSiegeMode=十字军
+Unit/Name/CyberneticsCoreHyperion=机械控制核心
+Unit/Name/DireWolf=恐狼
+Unit/Name/Displacer=位移者
+Unit/Name/Dullahan=无头骑士
+Unit/Name/Earthbreaker=裂地者
+Unit/Name/Earthbreaker2=裂地者
+Unit/Name/EarthbreakerSiegeMode=裂地者
+Unit/Name/EngineeringBayHyperion=工程湾
+Unit/Name/FatMan=胖子
+Unit/Name/FatManMine=胖子地雷
+Unit/Name/Fenris=芬里尔
+Unit/Name/FenrisHydralisk=芬里尔
+Unit/Name/ForgeHyperion=冶炼厂
+Unit/Name/Forward Operating Base=前线作战基地
+Unit/Name/ForwardOperatingBase=前线作战基地
+Unit/Name/FractalMonolith=分形巨石
+Unit/Name/FracturedBeamWeapon=折射光束武器
+Unit/Name/GatewayHyperion=传送门
+Unit/Name/GryphonBattlecruiser=狮鹫战列巡航舰
+Unit/Name/Hades=哈迪斯
+Unit/Name/Harvester=收割者
+Unit/Name/HarvesterFlightMode=收割者
+Unit/Name/Heimdall=海姆达尔
+Unit/Name/Heimdall2=海姆达尔
+Unit/Name/HeimdallFighter=海姆达尔
+Unit/Name/HighTemplar2=高阶圣堂武士
+Unit/Name/HighTemplarHyperion=高阶圣堂武士
+Unit/Name/HunterRoach=猎手蟑螂
+Unit/Name/HunterRoach2=猎手蟑螂
+Unit/Name/HunterRoachBurrow=猎手蟑螂
+Unit/Name/HybridBlaster=混合体
+Unit/Name/HybridBlasterestroyer=混合体毁灭者
+Unit/Name/HybridReaverV2=混合体金甲虫
+Unit/Name/Hyperion2-1=休伯利安号
+Unit/Name/Hyperion3-1=休伯利安号
+Unit/Name/HyperionBarracks=兵营
+Unit/Name/HyperionFactory=重工厂
+Unit/Name/HyperionFlyingBase-1=休伯利安号
+Unit/Name/HyperionLanded-1=休伯利安号
+Unit/Name/HyperionRepairBay=工程湾
+Unit/Name/HyperionRepairBayDrone=维修无人机
+Unit/Name/HyperionStarport=星港
+Unit/Name/HyperionSupplyDepot=补给站
+Unit/Name/HyperionSupplyDepot2=补给站
+Unit/Name/Inferno=炼狱
+Unit/Name/JackFrost=冰霜杰克
+Unit/Name/Jump Beacon=跳跃信标
+Unit/Name/JumpBeacon=跳跃信标
+Unit/Name/Legionnaire=军团士兵
+Unit/Name/Leon988xT8AssaultTank=列昂-998x-T8 突击坦克
+Unit/Name/Leon998xT8AssaultTank=列昂-998x-T8 突击坦克
+Unit/Name/MCV=移动建造车
+Unit/Name/MX08Gunwalker=MX-08 火炮行者
+Unit/Name/Manufacturing Facility=生产设施
+Unit/Name/ManufacturingFacility=生产设施
+Unit/Name/MechWarrior=机甲战士
+Unit/Name/MiniNuke=小型核弹
+Unit/Name/Missile Turret=
+Unit/Name/MissileTurretHyperion=导弹塔
+Unit/Name/Mjolnir=雷神之锤
+Unit/Name/NapalmBarrel=凝固汽油桶
+Unit/Name/NuclearVessel=核子舰
+Unit/Name/OilPuddle=油污
+Unit/Name/PegasusDropship=飞马运输机
+Unit/Name/PhalanxImmortal=方阵不朽者
+Unit/Name/PhoenixResurrect=凤凰
+Unit/Name/ProbeHyperion=探机
+Unit/Name/PsiConfusion=灵能干扰器
+Unit/Name/PsiEmitter=灵能发射器
+Unit/Name/RX100Predator=RX-100 掠食者
+Unit/Name/Raider=侵袭者
+Unit/Name/RepairBay=维修站
+Unit/Name/RepairBayDrone=维修站无人机
+Unit/Name/RescueMedic=援救医疗兵
+Unit/Name/RoboticsFacilityHyperion=机械台
+Unit/Name/SCV2=SCV
+Unit/Name/SCVHyperion=SCV
+Unit/Name/Sergeant=中士
+Unit/Name/ShadowRaven=暗影渡鸦
+Unit/Name/ShadowRavenRepairDrone=维修无人机
+Unit/Name/ShadowRavenSentryBot=暗影渡鸦 - 哨兵机器人
+Unit/Name/ShotgunTurret=霰弹炮塔
+Unit/Name/SiegeTower=攻城塔
+Unit/Name/StalkerShade=追猎者残影
+Unit/Name/StargateHyperion=星门
+Unit/Name/Striker=打击者
+Unit/Name/SupplyDepot2=补给站
+Unit/Name/SupplyDepot3=补给站
+Unit/Name/SupplyDepotHyperion=补给站
+Unit/Name/SupplyDepotHyperionLowered=补给站
+Unit/Name/TechLab2=科技实验室
+Unit/Name/TwilightZealot=暮光狂热者
+Unit/Name/UEDGoliath=UED歌利亚
+Unit/Name/Vengeance=复仇号
+Unit/Name/VengeanceFighter=复仇号战机
+Unit/Name/Viper2=幽灵
+Unit/Name/ViperGhost=蝰蛇
+Unit/Name/Vizard=暗影之面
+Unit/Name/VoidHunter=虚空猎手
+Unit/Name/VoidStalker=虚空追猎者
+Unit/Name/WarColossus=战争巨像
+Unit/Name/WarpGateHyperion=折跃门
+UnitKillRank/Hyperion2=雷诺的游骑兵旗舰
+UnitKillRank/Hyperion3=雷诺的游骑兵旗舰
+UnitSubtitle/Hyperion2=雷诺的游骑兵旗舰
+UnitSubtitle/Hyperion3=雷诺的游骑兵旗舰
+Upgrade/Name/3DBombPrinter=3D炸弹打印机
+Upgrade/Name/AMSRecalibrations=反导系统再校准
+Upgrade/Name/AcceleratorCircuitry=加速电路
+Upgrade/Name/AdvancedTacticalMissiles=先进战术导弹
+Upgrade/Name/AmmoRefit=弹药改装
+Upgrade/Name/ArmoredCore=装甲核心
+Upgrade/Name/ArtemisSystems=阿尔忒弥斯系统
+Upgrade/Name/BigShotCannon=大家伙火炮
+Upgrade/Name/BodyArmorOptimization=防弹衣优化
+Upgrade/Name/BuildAX95Predator=建造AX-95掠食者
+Upgrade/Name/BuildNuclearVessel=建造核能科学船
+Upgrade/Name/BuildRX100Predator=建造RX-100掠食者
+Upgrade/Name/BuildShadowRaven=建造暗影渡鸦
+Upgrade/Name/CellularReactorsHyperion=细胞反应堆 (休伯利安号)
+Upgrade/Name/CombatFrame=战斗骨架
+Upgrade/Name/CombatSerums=战斗血清
+Upgrade/Name/CrisisSuit=危机战斗服
+Upgrade/Name/DualDispensers=双联喷射器
+Upgrade/Name/DualMagneticChamber=双联磁力仓
+Upgrade/Name/EMPGranted=获得电磁脉冲
+Upgrade/Name/EndoSteelStructure=内构钢结构
+Upgrade/Name/FasterNukeTime=加快核弹建造时间
+Upgrade/Name/FerroFibrousArmor=铁纤维装甲
+Upgrade/Name/FlameOnActive=烈焰风暴激活
+Upgrade/Name/FlamerOvercharge=火焰喷射器过载
+Upgrade/Name/FuelInjectors=燃料喷射器
+Upgrade/Name/FullofSpiders=蜘蛛虫群
+Upgrade/Name/GreenFlames=绿色火焰
+Upgrade/Name/HardenedArmor=铁人装甲
+Upgrade/Name/HireSergeantPH=雇用中士 (占位符)
+Upgrade/Name/HyperionInfantryArmorLevel1=休伯利安号步兵护甲 等级1
+Upgrade/Name/HyperionInfantryArmorLevel12=休伯利安号步兵护甲 等级2
+Upgrade/Name/HyperionInfantryArmorLevel13=休伯利安号步兵护甲 等级3
+Upgrade/Name/HyperionInfantryArmorLevel2=休伯利安号步兵护甲 等级2
+Upgrade/Name/HyperionInfantryArmorLevel3=休伯利安号步兵护甲 等级3
+Upgrade/Name/HyperionInfantryWeaponsLevel1=休伯利安号步兵武器 等级1
+Upgrade/Name/HyperionInfantryWeaponsLevel2=休伯利安号步兵武器 等级2
+Upgrade/Name/HyperionInfantryWeaponsLevel3=休伯利安号步兵武器 等级3
+Upgrade/Name/HyperionProtossAirArmorLevel1=休伯利安号星灵空军护甲 等级1
+Upgrade/Name/HyperionProtossAirArmorLevel12=休伯利安号星灵空军护甲 等级2
+Upgrade/Name/HyperionProtossAirArmorLevel13=休伯利安号星灵空军护甲 等级3
+Upgrade/Name/HyperionProtossAirWeaponsLevel1=休伯利安号星灵空军武器 等级1
+Upgrade/Name/HyperionProtossAirWeaponsLevel12=休伯利安号星灵空军武器 等级2
+Upgrade/Name/HyperionProtossAirWeaponsLevel13=休伯利安号星灵空军武器 等级3
+Upgrade/Name/HyperionProtossGroundArmorLevel1=休伯利安号星灵地面护甲 等级1
+Upgrade/Name/HyperionProtossGroundArmorLevel12=休伯利安号星灵地面护甲 等级2
+Upgrade/Name/HyperionProtossGroundArmorLevel13=休伯利安号星灵地面护甲 等级3
+Upgrade/Name/HyperionProtossGroundWeaponsLevel1=休伯利安号星灵地面武器 等级1
+Upgrade/Name/HyperionProtossGroundWeaponsLevel12=休伯利安号星灵地面武器 等级2
+Upgrade/Name/HyperionProtossGroundWeaponsLevel13=休伯利安号星灵地面武器 等级3
+Upgrade/Name/HyperionProtossShieldsLevel1=休伯利安号星灵护盾 等级1
+Upgrade/Name/HyperionProtossShieldsLevel12=休伯利安号星灵护盾 等级2
+Upgrade/Name/HyperionProtossShieldsLevel13=休伯利安号星灵护盾 等级3
+Upgrade/Name/HyperionShipPlatingLevel1=休伯利安号舰船装甲 等级1
+Upgrade/Name/HyperionShipPlatingLevel2=休伯利安号舰船装甲 等级2
+Upgrade/Name/HyperionShipPlatingLevel3=休伯利安号舰船装甲 等级3
+Upgrade/Name/HyperionShipWeaponsLevel1=休伯利安号舰船武器 等级1
+Upgrade/Name/HyperionShipWeaponsLevel2=休伯利安号舰船武器 等级2
+Upgrade/Name/HyperionShipWeaponsLevel3=休伯利安号舰船武器 等级3
+Upgrade/Name/HyperionVehiclePlatingLevel1=休伯利安号载具装甲 等级1
+Upgrade/Name/HyperionVehiclePlatingLevel2=休伯利安号载具装甲 等级2
+Upgrade/Name/HyperionVehiclePlatingLevel3=休伯利安号载具装甲 等级3
+Upgrade/Name/HyperionVehicleWeaponsLevel1=休伯利安号载具武器 等级1
+Upgrade/Name/HyperionVehicleWeaponsLevel2=休伯利安号载具武器 等级2
+Upgrade/Name/HyperionVehicleWeaponsLevel3=休伯利安号载具武器 等级3
+Upgrade/Name/ImpactGel=冲击凝胶
+Upgrade/Name/InsideofAWorm=坑道虫仿生学
+Upgrade/Name/MagRailProjectiles=磁轨射弹
+Upgrade/Name/MagneticAcceleratorCannon=电磁加速炮
+Upgrade/Name/MedicRegen=医疗兵再生
+Upgrade/Name/MercenaryWarpIn=佣兵折跃
+Upgrade/Name/MineralReductions=晶体矿消耗降低
+Upgrade/Name/MiningEfficency=采矿效率
+Upgrade/Name/MobileDetector=机动侦测
+Upgrade/Name/MultiSpectrumScanner=多光谱扫描仪
+Upgrade/Name/MultiThreadTreads=多线程履带
+Upgrade/Name/NecrodermisArmor=活体金属装甲
+Upgrade/Name/NeuralSurgery=神经外科手术
+Upgrade/Name/PermaCloak=永久隐形
+Upgrade/Name/PlasmaCapacitors=等离子电容器
+Upgrade/Name/PlasmaCapacitorsLevel1=等离子电容器 等级1
+Upgrade/Name/PlasmaCapacitorsLevel2=等离子电容器 等级2
+Upgrade/Name/PlasmaCapacitorsLevel3=等离子电容器 等级3
+Upgrade/Name/PlasmaCapacitorsLevel4=等离子电容器 等级4
+Upgrade/Name/PlasmaCapacitorsLevel5=等离子电容器 等级5
+Upgrade/Name/PsiConfusionHyperion=灵能干扰器
+Upgrade/Name/PsiEmitter=灵能发射器
+Upgrade/Name/QuickSiege=快速架起
+Upgrade/Name/RapidConstruction=快速建造
+Upgrade/Name/RegenativeStructures=再生结构
+Upgrade/Name/RegenativeStructuresLevel1=再生结构 等级1
+Upgrade/Name/RegenativeStructuresLevel2=再生结构 等级2
+Upgrade/Name/RegenativeStructuresLevel3=再生结构 等级3
+Upgrade/Name/RegenativeStructuresLevel4=再生结构 等级4
+Upgrade/Name/RegenativeStructuresLevel5=再生结构 等级5
+Upgrade/Name/RegenerativeBioSteelHyperion=再生生物钢 (休伯利安号)
+Upgrade/Name/ReinforcedStructure=强化结构
+Upgrade/Name/ScaledCarapace=鳞状甲壳
+Upgrade/Name/ScaledCarapaceLevel1=鳞状甲壳 等级1
+Upgrade/Name/ScaledCarapaceLevel2=鳞状甲壳 等级2
+Upgrade/Name/ScaledCarapaceLevel3=鳞状甲壳 等级3
+Upgrade/Name/ScaledCarapaceLevel4=鳞状甲壳 等级4
+Upgrade/Name/ScaledCarapaceLevel5=鳞状甲壳 等级5
+Upgrade/Name/SeismicSensors=地震传感器
+Upgrade/Name/SelfDefenseWeaponry=自卫武器
+Upgrade/Name/ShieldGenerators=护盾生成器
+Upgrade/Name/ShieldGeneratorsLevel1=护盾生成器 等级1
+Upgrade/Name/ShieldGeneratorsLevel2=护盾生成器 等级2
+Upgrade/Name/ShieldGeneratorsLevel3=护盾生成器 等级3
+Upgrade/Name/ShieldGeneratorsLevel4=护盾生成器 等级4
+Upgrade/Name/ShieldGeneratorsLevel5=护盾生成器 等级5
+Upgrade/Name/ShortenedFuses=一触即发
+Upgrade/Name/StartupFieldBaseKits=启动型战地基地套件
+Upgrade/Name/TacticalJump=战术折跃
+Upgrade/Name/TargetingComputer=目标锁定计算机
+Upgrade/Name/TerranShipWeaponsLevel12=人类舰船武器 等级4
+Upgrade/Name/TerrazineInjections=地嗪注射
+Upgrade/Name/U438Shells=U-438炮弹
+Upgrade/Name/WarpJump=折跃
+Upgrade/Name/WhitePhosperousFlamers=白磷火焰喷射器
+Upgrade/Name/Windup=上弦
+Upgrade/Name/YamatoCannonImprovements=大和炮改良
+Weapon/Name/ATALaserBatteries=空对空激光炮台
+Weapon/Name/ATXLaserBatteries=空对地激光炮台
+Weapon/Name/AntiArmorRifle2=反装甲步枪
+Weapon/Name/AntiMaterialRifle=反器材步枪
+Weapon/Name/AntiMissileSystem=反导系统
+Weapon/Name/ArrowIVMissile=箭IV型导弹
+Weapon/Name/BrigandPiercingGatling=强盗-穿甲加特林
+Weapon/Name/C15GuassRifle=C-15高斯步枪
+Weapon/Name/C25Railgun=C-25磁轨炮
+Weapon/Name/ChainLightning=连锁闪电
+Weapon/Name/ChaosBlast=混沌冲击
+Weapon/Name/DireWolfAMS=恐狼反导系统
+Weapon/Name/DragonGrenade=龙息手雷
+Weapon/Name/DullahanScreecherMissiles=无头骑士-尖啸导弹
+Weapon/Name/EMPMissiles=电磁脉冲导弹
+Weapon/Name/FlakCannons=高射炮
+Weapon/Name/Flamer=火焰喷射器
+Weapon/Name/Flamer2=火焰喷射器
+Weapon/Name/Flamer3=火焰喷射器
+Weapon/Name/FracturedBeam=折射光束
+Weapon/Name/Gjallarhorn=加拉尔号角
+Weapon/Name/Gjallarhorn2=加拉尔号角
+Weapon/Name/GreekFireFlamethrower=希腊火喷射器
+Weapon/Name/GreekfireFlamethrowerOvercharged=希腊火喷射器(过载)
+Weapon/Name/HALOClusterRockets=H.A.L.O集束火箭
+Weapon/Name/ImpactMissiles=冲击导弹
+Weapon/Name/JarngreiprCannon=铁手套火炮
+Weapon/Name/MediumLaser=中型激光
+Weapon/Name/MercReaperP38ScytheGuassPistol2=P-55“镰刀”高斯手枪
+Weapon/Name/MultiShotGrenadeLauncher=多重射击榴弹发射器
+Weapon/Name/MultiShotGrenadeLauncher2=多重射击榴弹发射器
+Weapon/Name/MultiShotGrenadeLauncher3=多重射击榴弹发射器
+Weapon/Name/OverchargedCannons=过载火炮
+Weapon/Name/P38ScytheGuassPistol=P-55“镰刀”高斯手枪
+Weapon/Name/PPG7PlasmaCannon=PPG-7等离子炮
+Weapon/Name/PhasingLance=相位长枪
+Weapon/Name/PlasmaTorpedoes=等离子鱼雷
+Weapon/Name/PunisherGrenadeLauncher=惩罚者榴弹发射器
+Weapon/Name/RagnarokAntiAir=诸神黄昏(防空)
+Weapon/Name/RagnarokSiegeCannon=诸神黄昏攻城炮
+Weapon/Name/ShadowRavenSentryBotLaunch=暗影渡鸦 - 哨兵机器人发射
+Weapon/Name/Stickler=粘性炸弹
+Weapon/Name/TriPulseLaser=三联脉冲激光
+Weapon/Name/TsarCannon=沙皇炮
+Weapon/Name/TwilightBlades=暮光之刃
+Weapon/Name/UnknownWeapon=炮行者反导系统
+Weapon/Name/VengeanceCannons=复仇号火炮
+Weapon/Name/VengeanceCannons2=复仇号火炮
+Weapon/Name/VulcanAutocannon=火神自动炮
+Weapon/Name/WarpClaws=折跃爪

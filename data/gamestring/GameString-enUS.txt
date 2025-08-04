@@ -1,0 +1,2060 @@
+Abil/Name/AMSSystems=AMS Systems
+Abil/Name/ActivateAMS=Activate AMS
+Abil/Name/ActivateFlamer=Activate Flamer
+Abil/Name/Afterburners=Afterburners
+Abil/Name/AlphaStrike=Alpha Strike
+Abil/Name/AntiPersonnelPods=Anti-Personnel Pods
+Abil/Name/ArmorLock=Armor Lock
+Abil/Name/ArmoredCoreLeveling=Armored Core Leveling
+Abil/Name/ArtilleryBarrage=Artillery Barrage
+Abil/Name/AssaultMode2=Assault Mode
+Abil/Name/AssaultModeHeimdall=Assault Mode Heimdall
+Abil/Name/BacktoHyperionGateway=Back to Hyperion Gateway
+Abil/Name/BarrelONapalm=Barrel O' Napalm
+Abil/Name/Bifrost=Bifrost
+Abil/Name/BrigandAssaultMode=Brigand - Assault Mode
+Abil/Name/BrigandFighterMode=Brigand - Fighter Mode
+Abil/Name/Build=Build
+Abil/Name/BuildMjolnir=Build Mjolnir
+Abil/Name/BuildNuke=Build Nuke
+Abil/Name/Burrow=Burrow
+Abil/Name/BurrowFenris=Burrow
+Abil/Name/CallinFleetDummy=Call in Fleet Dummy
+Abil/Name/CallintheFleet=Call in the Fleet
+Abil/Name/ChaosArchonMerge=Chaos Archon Merge
+Abil/Name/ChargedDash=Charged Dash
+Abil/Name/CloakingField=Cloaking Field
+Abil/Name/CombatMedicHeal=Combat Medic Heal
+Abil/Name/ConcussiveShot=Concussive Shot
+Abil/Name/CrusaderLearn=Crusader Learn
+Abil/Name/CrusaderSiegeMode=Crusader Siege Mode
+Abil/Name/DebilitatingGrenadesLeveling=Debilitating Grenades Leveling
+Abil/Name/DefenseMatrix=Defense Matrix
+Abil/Name/DeploySpiderMines=Deploy Spider Mines
+Abil/Name/DireWolfLearn=Dire Wolf Learn
+Abil/Name/Displacement=Displacement
+Abil/Name/EMP2=EMP
+Abil/Name/EngineBoost=Engine Boost
+Abil/Name/FOBBuild=FOB - Build
+Abil/Name/FOBBuildAddons=FOB- Build Addons
+Abil/Name/FOBLand=FOB - Land
+Abil/Name/FOBLiftoff=FOB - Liftoff
+Abil/Name/FacilityLiftOff=Facility - Lift Off
+Abil/Name/FactoryLand2=Facility - Land
+Abil/Name/FactoryLandHyperion=Factory Land
+Abil/Name/FatManLearn=Fat Man Learn
+Abil/Name/FenrisCloak=Fenris Cloak
+Abil/Name/FenrisSnipe=Fenris Snipe
+Abil/Name/FighterMode2=Fighter Mode
+Abil/Name/FighterModeHeimdall=Fighter Mode Heimdall
+Abil/Name/FireWave=Fire Wave
+Abil/Name/Fireball=Fireball
+Abil/Name/FlameOn=Flame On
+Abil/Name/FlamingThornsLeveling=Flaming Thorns Leveling
+Abil/Name/Flightpack=Flightpack
+Abil/Name/FragGrenade=Frag Grenade
+Abil/Name/FusionBomb=Fusion Bomb
+Abil/Name/Gjallarhorn=Gjallarhorn
+Abil/Name/HarvesterAfterburners=Harvester Afterburners
+Abil/Name/HarvesterLand=Harvester Land
+Abil/Name/HeimdallLearn=Heimdall Learn
+Abil/Name/HybridBlasterMaelstrom=Hybrid Blaster- Maelstrom
+Abil/Name/HyperionBuild=Hyperion - Build
+Abil/Name/HyperionLand=Hyperion Land
+Abil/Name/HyperionLiftoff=Hyperion Liftoff
+Abil/Name/HyperionMercTrain=Hyperion Merc Train
+Abil/Name/HyperionTrainAir=Hyperion - Train Air
+Abil/Name/HyperionTrainBarracks=Hyperion - Train Ground
+Abil/Name/HyperionTrainVehicles=Hyperion - Train Vehicles
+Abil/Name/JackFrostLearn=Jack Frost Learn
+Abil/Name/JumpBeacon=Jump Beacon - Lift Off
+Abil/Name/JumpJets=Jump Jets
+Abil/Name/JumpJetsLeveling=Jump Jets Leveling
+Abil/Name/LoadUnloadUnits=Load - UnloadUnits
+Abil/Name/LockdownMissile=Lockdown Missile
+Abil/Name/MAC=MAC
+Abil/Name/ManufacturingFacilityBuild=Manufacturing Facility Build
+Abil/Name/MechWarriorLearn=MechWarrior Learn
+Abil/Name/MercHeroRevive=Merc Hero Revive
+Abil/Name/MiniNuke=Mini Nuke
+Abil/Name/MiniNukeCalldown=Mini Nuke Calldown
+Abil/Name/Mining=Mining
+Abil/Name/MissilePods2=Missile Pods
+Abil/Name/MissilePodsMech=Missile Pods Mech
+Abil/Name/MjolnirNormal=Mjolnir Normal
+Abil/Name/MjolnirSiegeMode=Mjolnir Siege Mode
+Abil/Name/MultiShotLauncher=Multi-Shot Launcher
+Abil/Name/NanoMachineHealing=Nano Machine Healing
+Abil/Name/NeosteelArmorLeveling=Neosteel Armor Leveling
+Abil/Name/NightHowl=Night Howl
+Abil/Name/NuclearRadiation=Nuclear Radiation 
+Abil/Name/OilDrop=Oil Drop
+Abil/Name/OverchargedCannons=Overcharged Cannons
+Abil/Name/PackLeader=Pack Leader
+Abil/Name/PhalanxShield=Phalanx Shield
+Abil/Name/PhoenixReviveRebuild=Phoenix Revive Rebuild
+Abil/Name/PlaceMine=Place Mine
+Abil/Name/PredatorGrapple=Predator Grapple
+Abil/Name/RaiderStimpack=Raider Stimpack
+Abil/Name/RailgunSnipe=Railgun Snipe
+Abil/Name/RepairBayRepairDroneHanger=Repair Bay - Repair Drone Hanger
+Abil/Name/RescueFoam=Rescue Foam
+Abil/Name/SergeantLearn=Sergeant Learn
+Abil/Name/SetaCourse=Set a Course
+Abil/Name/ShadowRavenRepairDroneHanger=Shadow Raven - Repair Drone Hanger
+Abil/Name/ShadowRavenSentryBotHanger=Shadow Raven - Sentry Bot Hanger
+Abil/Name/ShieldsUp=Shields Up
+Abil/Name/ShieldsUpLeveling=Shields Up Leveling
+Abil/Name/SiegeMode2=Siege Mode
+Abil/Name/SiegeMode3=Siege Mode
+Abil/Name/SiegeModeEarthbreaker=Siege Mode Earthbreaker
+Abil/Name/StarportLand2=Jump Beacon - Land
+Abil/Name/Stop=Stop
+Abil/Name/StopFenris=Stop
+Abil/Name/StrikerBomb=Striker Bomb
+Abil/Name/SuperStimpack=Super Stimpack
+Abil/Name/SupplyDepotLower2=Supply Depot - Lower
+Abil/Name/SupplyDepotLowerHyperion=Supply Depot Lower Hyperion
+Abil/Name/SupplyDepotRaise2=Supply Depot - Raise
+Abil/Name/SupplyDepotRaiseHyperion=Supply Depot Raise Hyperion
+Abil/Name/SupplyDepotSalvage=Salvage
+Abil/Name/SupplySalvage=Salvage
+Abil/Name/SwaptoAntiArmor=Swap to Anti-Armor
+Abil/Name/SwaptoAntiPersonnel=Swap to Anti-Personnel
+Abil/Name/Train=Train
+Abil/Name/TrainBunkerBots=Train Bunker Bots
+Abil/Name/TransformBuilding=Transform Building
+Abil/Name/TwilightCharge=Twilight Charge
+Abil/Name/Unburrow=Unburrow
+Abil/Name/UnburrowFenris=Unburrow
+Abil/Name/Unsiege2=Unsiege
+Abil/Name/Unsiege3=Unsiege
+Abil/Name/UnsiegeCrusader=Unsiege Crusader
+Abil/Name/UnsiegeEarthbreaker=Unsiege Earthbreaker
+Abil/Name/UnstableCloak=Unstable Cloak
+Abil/Name/VengeanceLearn=Vengeance Learn
+Abil/Name/VoidStalkerBlink=Void Stalker Blink
+Abil/Name/WarpDash=Warp Dash
+Abil/Name/WarpJump=Warp Jump
+Abil/Name/WaveMotionGun=Wave-Motion Gun
+Abil/Name/WaxThemCritters=Wax Them Critters!
+Abil/Name/WeaponSwap=Weapon Swap
+Abil/Name/WeaponsOnline=Weapons Online
+Behavior/Name/AMSActive=AMS Active
+Behavior/Name/AMSDisabled=AMS Disabled
+Behavior/Name/AMSReady=AMS Ready
+Behavior/Name/AMSReady2=AMS Ready
+Behavior/Name/AMSReady3=AMS Ready
+Behavior/Name/AfterburnersActive=Afterburners Active
+Behavior/Name/AlphaStrike=Alpha Strike
+Behavior/Name/AmmoPrinting=Ammo Printing
+Behavior/Name/AmmoPrinting2=Ammo Printing
+Behavior/Name/AmmoPrintingBuff=Ammo Printing Buff
+Behavior/Name/AmmoPrintingSearch=Ammo Printing Search
+Behavior/Name/AntiAirWeapon=Anti-Air Weapon
+Behavior/Name/AntiArmorRifle=Anti-Armor Rifle
+Behavior/Name/AntiPersonnelDefault=Anti-Personnel Default
+Behavior/Name/AntiPersonnelPodsStunHeight=Anti-Personnel Pods (Stun/Height)
+Behavior/Name/AntiPersonnelPodsStunHeightLevel2=Anti-Personnel Pods (Stun/Height Level 2)
+Behavior/Name/AntiPersonnelPodsStunHeightLevel3=Anti-Personnel Pods (Stun/Height Level 3)
+Behavior/Name/AntiPersonnelRifle=Anti-Personnel Rifle
+Behavior/Name/ArmorLock=Armor Lock
+Behavior/Name/ArmoredCoreAir=Armored Core - Air
+Behavior/Name/ArmoredCoreAir2=Armored Core - Air
+Behavior/Name/ArmoredCoreAir3=Armored Core - Air
+Behavior/Name/ArmoredCoreAutoApply=Armored Core Auto-Apply
+Behavior/Name/ArmoredCoreGround=Armored Core - Ground
+Behavior/Name/ArmoredCoreGround2=Armored Core - Ground
+Behavior/Name/ArmoredCoreGround3=Armored Core - Ground
+Behavior/Name/BifrostStun=Bifrost Stun
+Behavior/Name/BifrostStun2=Bifrost Stun
+Behavior/Name/BlackShield=Black Shield
+Behavior/Name/BroodWarVeteran=Brood War Veteran
+Behavior/Name/Building=Building 
+Behavior/Name/ChaosAura=Chaos Aura
+Behavior/Name/ChaoticEnergy=Chaotic Energy
+Behavior/Name/Cloaked=Cloaked
+Behavior/Name/Cloaked2=Cloaked
+Behavior/Name/Cloaked3=Cloaked
+Behavior/Name/CloakingField=Cloaking Field
+Behavior/Name/CloakingField2=Cloaking Field
+Behavior/Name/CloakingField3=Cloaking Field
+Behavior/Name/CrusaderSpawnDummySuicide=Crusader Spawn Dummy Suicide
+Behavior/Name/CrusaderVeterancy=Crusader Veterancy
+Behavior/Name/DebilitatingAutoApply=Debilitating Auto-Apply
+Behavior/Name/DebilitatingDummyLevel1=Debilitating Dummy Level 1
+Behavior/Name/DebilitatingDummyLevel2=Debilitating Dummy Level 2
+Behavior/Name/DebilitatingDummyLevel3=Debilitating Dummy Level 3
+Behavior/Name/DebilitatingGrenadesLevel1=Debilitating Grenades Level 1
+Behavior/Name/DebilitatingGrenadesLevel2=Debilitating Grenades Level 2
+Behavior/Name/DebilitatingGrenadesLevel3=Debilitating Grenades Level 3
+Behavior/Name/DefenseMatrix=Defense Matrix 
+Behavior/Name/DireWolfPermacloak=Dire Wolf Permacloak
+Behavior/Name/DireWolfVeterancy=Dire Wolf Veterancy
+Behavior/Name/DisplacementCloakandRestore=Displacement Cloak and Restore
+Behavior/Name/DragonGrenadeSlow=Dragon Grenade Slow
+Behavior/Name/DullahanCloakDodge=Dullahan Cloak Dodge
+Behavior/Name/DullahanRange2=Dullahan Range 2
+Behavior/Name/DullahanRange3=Dullahan Range 3
+Behavior/Name/EMPMissileSlow=EMP Missile Slow
+Behavior/Name/EnableAttack=Enable Attack
+Behavior/Name/EngineBoostStun=Engine Boost Stun
+Behavior/Name/FatManVeterancy=Fat Man Veterancy
+Behavior/Name/FireyThorns=Firey Thorns
+Behavior/Name/FlakCannons=Flak Cannons
+Behavior/Name/FlameOn=Flame On
+Behavior/Name/FlamingThorns=Flaming Thorns
+Behavior/Name/FlamingThornsAutoApply=Flaming Thorns Auto-Apply
+Behavior/Name/FlamingThornsLevel2=Flaming Thorns Level 2
+Behavior/Name/FlamingThornsLevel3=Flaming Thorns Level 3
+Behavior/Name/FocusBeam=Focus Beam
+Behavior/Name/FromTheAshes=From The Ashes
+Behavior/Name/FullofSpiders=Full of Spiders
+Behavior/Name/GreekfireDOT=Greekfire DOT
+Behavior/Name/HealingStasis=Healing Stasis
+Behavior/Name/HeimdallVeterancy=Heimdall Veterancy
+Behavior/Name/HybridMaelstromSlow=Hybrid Maelstrom Slow
+Behavior/Name/ImpactMissileBlind=ImpactMissileBlind
+Behavior/Name/ImprovedLogistics=Improved Logistics
+Behavior/Name/ImprovedLogistics2=Improved Logistics
+Behavior/Name/ImprovedLogisticsBuff=Improved Logistics Buff
+Behavior/Name/JackFrostVeterancy=Jack Frost Veterancy
+Behavior/Name/JumpJetsLevel1=Jump Jets Level 1
+Behavior/Name/JumpJetsLevel2=Jump Jets Level 2
+Behavior/Name/JumpJetsLevel3=Jump Jets Level 3
+Behavior/Name/LockdownMissile=Lockdown Missile 
+Behavior/Name/LockdownMissleonUltra=Lockdown Missle on Ultra 
+Behavior/Name/MechWarriorAutoApplyJumpJets=MechWarrior Auto-Apply JumpJets
+Behavior/Name/MechWarriorVeterancy=MechWarrior Veterancy
+Behavior/Name/NapalmGroundBurning=Napalm Ground Burning
+Behavior/Name/NeosteelArmorAutoApply=Neosteel Armor Auto Apply
+Behavior/Name/NeosteelArmorLevel1=Neosteel Armor Level 1
+Behavior/Name/NeosteelArmorLevel1Sieged=Neosteel Armor Level 1 (Sieged)
+Behavior/Name/NeosteelArmorLevel2=Neosteel Armor Level 2
+Behavior/Name/NeosteelArmorLevel2Sieged=Neosteel Armor Level 2 (Sieged)
+Behavior/Name/NeosteelArmorLevel3=Neosteel Armor Level 3
+Behavior/Name/NeosteelArmorLevel3Sieged=Neosteel Armor Level 3 (Sieged)
+Behavior/Name/NightHowlDecloakandStun=Night Howl Decloak and Stun
+Behavior/Name/OilSlow=Oil Slow
+Behavior/Name/OverchargedCannons=Overcharged Cannons
+Behavior/Name/PackLeader=Pack Leader
+Behavior/Name/PackLeader2=Pack Leader
+Behavior/Name/PackLeader3=Pack Leader
+Behavior/Name/PackLeaderAutoApply=Pack Leader Auto Apply
+Behavior/Name/Phalanx=Phalanx
+Behavior/Name/PhalanxShield=Phalanx Shield
+Behavior/Name/PhoenixReviving=Phoenix Reviving
+Behavior/Name/PlasmaTorpedoes=Plasma Torpedoes
+Behavior/Name/PredatorCloak=Predator Cloak
+Behavior/Name/PredatorDashCloak=Predator Dash Cloak
+Behavior/Name/PredatorDodge=Predator Dodge
+Behavior/Name/PsiEmitterDebuff=Psi Emitter Debuff
+Behavior/Name/PsiEmitterDebuffSearch=Psi Emitter Debuff Search
+Behavior/Name/PsiEmitterGenerateThreat=Psi Emitter Generate Threat
+Behavior/Name/RadarSupport=Radar Support
+Behavior/Name/RadarSupported=Radar Supported
+Behavior/Name/Radiation=Radiation 
+Behavior/Name/RaiderStimpack=Raider Stimpack
+Behavior/Name/RaiseShields=Raise Shields
+Behavior/Name/RaiseShields2=Raise Shields
+Behavior/Name/RaiseShields3=Raise Shields
+Behavior/Name/RecentlyRevived=Recently Revived
+Behavior/Name/ReinforcedStructure=Reinforced Structure
+Behavior/Name/RescueFoam=Rescue Foam
+Behavior/Name/SelfDefenseProtocols=Self Defense Protocols
+Behavior/Name/SergeantVeterancy=Sergeant Veterancy
+Behavior/Name/ShieldGenerator=Shield Generator
+Behavior/Name/ShieldsUp=Shields Up
+Behavior/Name/ShieldsUp2=Shields Up
+Behavior/Name/ShieldsUp3=Shields Up
+Behavior/Name/ShieldsUpAutoApply=Shields Up Auto-Apply
+Behavior/Name/ShieldsUpWall=Shields Up Wall [Level 1]
+Behavior/Name/ShieldsUpWall2=Shields Up Wall [Level 2]
+Behavior/Name/ShieldsUpWall3=Shields Up Wall [Level 3]
+Behavior/Name/SpacedArmor=Spaced Armor
+Behavior/Name/TimedFlight=TimedFlight
+Behavior/Name/TwilightCharging=Twilight Charging
+Behavior/Name/UnknownBehavior=AMS Disabled
+Behavior/Name/VengeanceAutoApply=Vengeance Auto-Apply
+Behavior/Name/VengeanceVeterancy=Vengeance Veterancy
+Behavior/Name/Windup1=Windup
+Behavior/Name/Windup2=Windup
+Behavior/Name/Windup3=Windup
+Behavior/Name/Windup4=Windup
+Behavior/Name/Windup5=Windup
+Behavior/Tooltip/AfterburnersActive=This unit's movement speed is increased by 70%.
+Behavior/Tooltip/Cloaked=Cloaked by a nearby Oracle.
+Behavior/Tooltip/Cloaked2=Cloaked by a nearby Oracle.
+Behavior/Tooltip/Cloaked3=Cloaked by a nearby Oracle.
+Behavior/Tooltip/CloakingField=Cloaking nearby units.
+Behavior/Tooltip/CloakingField2=Cloaking nearby units.
+Behavior/Tooltip/CloakingField3=Cloaking nearby units.
+Behavior/Tooltip/DebilitatingGrenadesLevel1=Target's movement speed is reduced for a short period of time.
+Behavior/Tooltip/DebilitatingGrenadesLevel2=Target's movement speed is reduced for a short period of time.
+Behavior/Tooltip/DebilitatingGrenadesLevel3=Target's movement speed is reduced for a short period of time.
+Behavior/Tooltip/DireWolfPermacloak=This unit is permanently cloaked, and only visible to detector units or effects.
+Behavior/Tooltip/DisplacementCloakandRestore=This unit is regenerating shields.
+Behavior/Tooltip/DragonGrenadeSlow=Target's movement speed is reduced for a short period of time.
+Behavior/Tooltip/EMPMissileSlow=Attack and movement speeds are slowed.
+Behavior/Tooltip/FromTheAshes=This unit will be revived upon death.
+Behavior/Tooltip/NapalmGroundBurning=This unit is taking additional damage over time.
+Behavior/Tooltip/NightHowlDecloakandStun=Target was recently hit by an EMP Round, making it unable to cloak for a short duration.
+Behavior/Tooltip/OilSlow=This unit's movement speed is reduced.
+Behavior/Tooltip/PhalanxShield=Incoming attack damage reduced by 5.
+Behavior/Tooltip/PredatorCloak=This unit is cloaked and will only be revealed by detectors or effects.
+Behavior/Tooltip/PredatorDashCloak=This unit is cloaked and will only be revealed by detectors or effects.
+Behavior/Tooltip/RaiderStimpack=This unit attacks more quickly while under the effects of Stimpack.
+Behavior/Tooltip/RecentlyRevived=This unit has been recently reconstructed and cannot be revived again.
+Behavior/Tooltip/RescueFoam=This unit will be revived upon death.
+Behavior/Tooltip/TwilightCharging=This Zealot is charging, allowing it to quickly close the distance with its target.
+Button/Name/3DBombPrinter=3D Bomb Printer
+Button/Name/AMSAntiMissileSystem=AMS (Anti-Missile-System)
+Button/Name/AMSRecalibrations=AMS Recalibrations
+Button/Name/AMSSystems=AMS Systems
+Button/Name/AcceleratorCircuitry=Accelerator Circuitry
+Button/Name/ActivateFlamer=Activate Flamer
+Button/Name/AdvancedTacticalMissile=Advanced Tactical Missile
+Button/Name/AlphaStrike=Alpha Strike
+Button/Name/AmmoPrinting=Ammo Printing
+Button/Name/AmmoRefit=Ammo Refit
+Button/Name/AntiPersonnelPods=Anti-Personnel Pods
+Button/Name/ArmorLock=Armor Lock
+Button/Name/ArmoredCore=Armored Core
+Button/Name/ArmoredCore2=Armored Core
+Button/Name/ArtemisSystems=Artemis Systems
+Button/Name/ArtilleryBarrage=Artillery Barrage
+Button/Name/AssaultMode2=Assault Mode
+Button/Name/AssaultModeBrigand=Assault Mode
+Button/Name/BarrelONapalm=Barrel O' Napalm
+Button/Name/Bifrost=Bifrost
+Button/Name/BigShot=Big Shot
+Button/Name/BlackShield=Black Shield
+Button/Name/BodyArmorOptimization=Body Armor Optimization
+Button/Name/BuildAX95Predator=Build AX-95 Predator
+Button/Name/BuildAir=Build Air
+Button/Name/BuildAutomatedRefinery=Build Automated Refinery
+Button/Name/BuildBrigand=Build Brigand (Fighter Mode)
+Button/Name/BuildBrynhildr=Build Brynhildr
+Button/Name/BuildBunkerBot=Build Bunker Bot
+Button/Name/BuildChimera=Build Chimera
+Button/Name/BuildDullahan=Build Dullahan
+Button/Name/BuildForwardOperatingBase=Build Forward Operating Base
+Button/Name/BuildGryphonBattlecruiser=Build Gryphon Battlecruiser
+Button/Name/BuildGunwalker=Build Gunwalker
+Button/Name/BuildHades=Build Hades 
+Button/Name/BuildJumpBeacon=Build Jump Beacon
+Button/Name/BuildLeonTank=Build Leon Tank
+Button/Name/BuildManufacturingFacility=Build Manufacturing Facility
+Button/Name/BuildMjolnir=Build Mjolnir
+Button/Name/BuildNuclearVessel=Build Nuclear Vessel
+Button/Name/BuildPegasusDropship=Build Pegasus Dropship
+Button/Name/BuildPsiDisruptor=Build Psi Disruptor
+Button/Name/BuildPsiEmitter=Build Psi Emitter
+Button/Name/BuildRX100Predator=Build RX-100 Predator
+Button/Name/BuildRepairBay=Build Repair Bay
+Button/Name/BuildSentryDrones=Build Sentry Drones
+Button/Name/BuildShadowRaven=Build Shadow Raven
+Button/Name/BuildShotgunTurret=Build Shotgun Turret
+Button/Name/BuildSiegeTower=Build Siege Tower
+Button/Name/BuildTechLab=Build Tech Lab
+Button/Name/BuildUEDGoliath=Build UED Goliath
+Button/Name/BuildVehicles=Build Vehicles
+Button/Name/CallInFleet=Call In Fleet
+Button/Name/CallInTheFleet=Call In The Fleet
+Button/Name/ChaosArchonMerge=Chaos Archon Merge
+Button/Name/ChaoticEnergy=Chaotic Energy
+Button/Name/ChargedDash=Charged Dash
+Button/Name/CloakField2=Cloak Field
+Button/Name/CloakFieldDireWolf=Cloak Field 
+Button/Name/CombatFrame=Combat Frame
+Button/Name/CombatSerums=Combat Serums
+Button/Name/ConcussiveMissile=Concussive Missile
+Button/Name/CrisisSuit=Crisis Suit
+Button/Name/Crusader=Crusader
+Button/Name/DeactivateAfterburners=Deactivate Afterburners
+Button/Name/DebilitatingGrenades=Debilitating Grenades
+Button/Name/DeploySpiderMines=Deploy Spider Mines
+Button/Name/DireWolf=Dire Wolf
+Button/Name/DireWolfPermaCloak=Dire Wolf Perma Cloak
+Button/Name/DisplacedReaction=Displaced Reaction
+Button/Name/Displacement=Displacement
+Button/Name/DualDispensers=Dual Dispensers
+Button/Name/DualMagneticChamber=Dual Magnetic Chamber
+Button/Name/DullahanRange=Dullahan Range
+Button/Name/EMPMissiles=EMP Missiles
+Button/Name/EMPRound=EMP Round
+Button/Name/EndoSteelStructure=Endo-Steel Structure
+Button/Name/EngineBoost=Engine Boost
+Button/Name/EnhancedGreekFire=Enhanced Greek Fire
+Button/Name/ExplosiveShrapnelShells=Striker Bomb
+Button/Name/FatMan=Fat Man
+Button/Name/FatMan2=Fat Man Copy
+Button/Name/FenixThorns=Inferno Armor
+Button/Name/FerroFibrousArmor=Ferro-Fibrous Armor
+Button/Name/FighterMode2=Fighter Mode
+Button/Name/FireWave=Fire Wave
+Button/Name/Fireball=Fireball
+Button/Name/FlameOn=Flame On!
+Button/Name/FlamingThorns=Flaming Thorns
+Button/Name/FracturedBeam=Fractured Beam
+Button/Name/FragGrenade=Frag Grenade
+Button/Name/FromTheAshes=From The Ashes
+Button/Name/FuelInjectors=Fuel Injectors
+Button/Name/FusionBomb=Fusion Bomb
+Button/Name/Gjallarhorn=Gjallarhorn
+Button/Name/HardenedArmor=Hardened Armor
+Button/Name/Heimdall=Heimdall
+Button/Name/IFFShells=IFF Shells
+Button/Name/IgniteAfterburners=Ignite Afterburners
+Button/Name/ImmortalOverload=Lockdown
+Button/Name/ImpactGel=Impact Gel
+Button/Name/ImpactMissiles=Impact Missiles
+Button/Name/ImprovedLogistics=Improved Logistics
+Button/Name/Irradiation=Irradiation
+Button/Name/JackFrost=Jack Frost
+Button/Name/JumpJets=Jump Jets
+Button/Name/KerriganVoidFury=Windup
+Button/Name/Land2=Land
+Button/Name/LandHyperion=Land
+Button/Name/LearnFragGrenadeLevel1=Learn Frag Grenade [Level 1]
+Button/Name/LearnNewAbility=Learn New Ability
+Button/Name/LearnSuperStim=Learn SuperStim
+Button/Name/Liftoff=Liftoff
+Button/Name/LoadHades=Load
+Button/Name/LockdownMissile=Lockdown Missile
+Button/Name/MACCannonStrike=MAC Cannon Strike
+Button/Name/Maelstrom=Maelstrom
+Button/Name/MagRailProjectiles=Mag-Rail Projectiles
+Button/Name/MechWarrior=MechWarrior
+Button/Name/MedicRegen=Medic Regen
+Button/Name/MiniNuke=Mini Nuke
+Button/Name/MiningEfficiency=Mining Efficiency
+Button/Name/MjolnirNormalMode=Mjolnir Normal Mode
+Button/Name/MjolnirSiegeMode=Mjolnir Siege Mode
+Button/Name/MobileDetection=Mobile Detection
+Button/Name/MultiShotLauncher=Multi-Shot Launcher
+Button/Name/MultiThreadTreads=Multi-Thread Treads
+Button/Name/NecrodermisArmor=Necrodermis Armor
+Button/Name/NeosteelArmor=Neosteel Armor
+Button/Name/NightHowl=Night Howl
+Button/Name/NovaWeaponHellfireShotgunBlast=Swap to Anti-Personnel
+Button/Name/NukeOptimization=Nuke Optimization
+Button/Name/OilDrop=Oil Drop
+Button/Name/OverchargedCannons=Overcharged Cannons
+Button/Name/PackLeader=Pack Leader
+Button/Name/PermaCloak=Perma Cloak
+Button/Name/PhalanxShield=Phalanx Shield
+Button/Name/PhaseArmorPlating=Phase Armor Plating
+Button/Name/PiercingRounds=Piercing Rounds
+Button/Name/PlaceMine=Place Mine
+Button/Name/PredatorGrapple=Predator Grapple
+Button/Name/PrepareMiniNuke=Prepare Mini Nuke
+Button/Name/PsionicLure=Psionic Lure
+Button/Name/PsionicRebound=Psionic Rebound
+Button/Name/PsionicReboundImproved=Psionic Rebound 
+Button/Name/QuickSiege=Quick Siege
+Button/Name/RadarSupport=Radar Support
+Button/Name/RaiderStimpack=Raider Stimpack
+Button/Name/RailgunSnipe=Railgun Snipe
+Button/Name/RaiseShields=Raise Shields
+Button/Name/RapidDeployment2=Rapid Deployment
+Button/Name/ReaperAfterburners=Harvester Afterburners
+Button/Name/ReinforcedStructure=Reinforced Structure
+Button/Name/RepairDrone=Repair Drone
+Button/Name/RescueFoam=Rescue Foam
+Button/Name/ResearchNeosteelFrame=Spaced Armor
+Button/Name/ReviveCrusader=Revive Crusader
+Button/Name/ReviveDireWolf=Revive Dire Wolf
+Button/Name/ReviveFatMan=Revive Fat Man
+Button/Name/ReviveHeimdall=Revive Heimdall
+Button/Name/ReviveHero=Revive Hero
+Button/Name/ReviveJackFrost=Revive Jack Frost
+Button/Name/ReviveMechWarrior=Revive MechWarrior
+Button/Name/ReviveSergeant=Revive Sergeant
+Button/Name/ReviveVengeance=Revive Vengeance
+Button/Name/SelfDefenseProtocols=Self Defense Protocols
+Button/Name/Sergeant=Sergeant
+Button/Name/ShieldsUp=Shields Up
+Button/Name/ShortenedFuses=Shortened Fuses
+Button/Name/SiesmicSensors=Siesmic Sensors
+Button/Name/StasisMissile=Stasis Missile
+Button/Name/Stop2=Stop
+Button/Name/SuperStimpack=Super Stimpack
+Button/Name/TacticalJump=Tactical Jump
+Button/Name/TargetingComputer=Targeting Computer -
+Button/Name/TerrazineInjections=Terrazine Injections
+Button/Name/TrainGround=Train Ground
+Button/Name/TrainHarvester=Train Harvester
+Button/Name/TrainInferno=Train Inferno
+Button/Name/TrainMercHeros=Train Merc Heros
+Button/Name/TrainRaider=Train Raider
+Button/Name/TrainRescueMedic=Train Rescue Medic
+Button/Name/TrainStriker=Train Striker
+Button/Name/TrainViper=Train Viper
+Button/Name/TrainVizard=Train Vizard
+Button/Name/TransportAttack=Transport Attack
+Button/Name/TwilightCharge=Twilight Charge
+Button/Name/U438Shells=U-438 Shells
+Button/Name/UnloadAll=Unload All
+Button/Name/UnstableCloak=Unstable Cloak
+Button/Name/UpgradeHyperionAirArmorLevel1=Upgrade Hyperion Air Armor Level 1
+Button/Name/UpgradeHyperionAirArmorLevel12=Upgrade Hyperion Air Armor Level 2
+Button/Name/UpgradeHyperionAirArmorLevel13=Upgrade Hyperion Air Armor Level 3
+Button/Name/UpgradeHyperionAirWeaponsLevel1=Upgrade Hyperion Air Weapons Level 1
+Button/Name/UpgradeHyperionAirWeaponsLevel12=Upgrade Hyperion Air Weapons Level 2
+Button/Name/UpgradeHyperionAirWeaponsLevel13=Upgrade Hyperion Air Weapons Level 3
+Button/Name/UpgradeHyperionGroundArmorLevel1=Upgrade Hyperion Ground Armor Level 1
+Button/Name/UpgradeHyperionGroundArmorLevel12=Upgrade Hyperion Ground Armor Level 2
+Button/Name/UpgradeHyperionGroundArmorLevel13=Upgrade Hyperion Ground Armor Level 3
+Button/Name/UpgradeHyperionGroundWeaponsLevel1=Upgrade Hyperion Ground Weapons Level 1
+Button/Name/UpgradeHyperionGroundWeaponsLevel12=Upgrade Hyperion Ground Weapons Level 2
+Button/Name/UpgradeHyperionGroundWeaponsLevel13=Upgrade Hyperion Ground Weapons Level 3
+Button/Name/UpgradeHyperionInfantryArmorLevel1=Upgrade Hyperion Infantry Armor Level 1
+Button/Name/UpgradeHyperionInfantryArmorLevel12=Upgrade Hyperion Infantry Armor Level 2
+Button/Name/UpgradeHyperionInfantryArmorLevel13=Upgrade Hyperion Infantry Armor Level 3
+Button/Name/UpgradeHyperionInfantryArmorLevel2=Upgrade Hyperion Infantry Armor Level 2
+Button/Name/UpgradeHyperionInfantryArmorLevel3=Upgrade Hyperion Infantry Armor Level 3
+Button/Name/UpgradeHyperionInfantryWeaponsLevel1=Upgrade Hyperion Infantry Weapons Level 1
+Button/Name/UpgradeHyperionInfantryWeaponsLevel12=Upgrade Hyperion Infantry Weapons Level 2
+Button/Name/UpgradeHyperionInfantryWeaponsLevel13=Upgrade Hyperion Infantry Weapons Level 3
+Button/Name/UpgradeHyperionShieldsLevel1=Upgrade Hyperion Shields Level 1
+Button/Name/UpgradeHyperionShieldsLevel12=Upgrade Hyperion Shields Level 2
+Button/Name/UpgradeHyperionShieldsLevel13=Upgrade Hyperion Shields Level 3
+Button/Name/UpgradeHyperionShipPlatingLevel1=Upgrade Hyperion Ship Plating Level 1
+Button/Name/UpgradeHyperionShipPlatingLevel12=Upgrade Hyperion Ship Plating Level 2
+Button/Name/UpgradeHyperionShipPlatingLevel13=Upgrade Hyperion Ship Plating Level 3
+Button/Name/UpgradeHyperionShipWeaponsLevel1=Upgrade Hyperion Ship Weapons Level 1
+Button/Name/UpgradeHyperionShipWeaponsLevel12=Upgrade Hyperion Ship Weapons Level 2
+Button/Name/UpgradeHyperionShipWeaponsLevel13=Upgrade Hyperion Ship Weapons Level 3
+Button/Name/UpgradeHyperionVehiclePlatingLevel1=Upgrade Hyperion Vehicle Plating Level 1
+Button/Name/UpgradeHyperionVehiclePlatingLevel12=Upgrade Hyperion Vehicle Plating Level 2
+Button/Name/UpgradeHyperionVehiclePlatingLevel13=Upgrade Hyperion Vehicle Plating Level 3
+Button/Name/UpgradeHyperionVehicleWeaponsLevel1=Upgrade Hyperion Vehicle Weapons Level 1
+Button/Name/UpgradeHyperionVehicleWeaponsLevel12=Upgrade Hyperion Vehicle Weapons Level 2
+Button/Name/UpgradeHyperionVehicleWeaponsLevel13=Upgrade Hyperion Vehicle Weapons Level 3
+Button/Name/Vengeance=Vengeance
+Button/Name/VoidBlink=Void Blink
+Button/Name/WarpDash=Warp Dash
+Button/Name/WarpInChaosTemplar=Warp In Chaos Templar
+Button/Name/WarpInCyberneticsCore=Warp In Cybernetics Core
+Button/Name/WarpInDisplacer=Warp In Displacer
+Button/Name/WarpInForge=Warp In Forge
+Button/Name/WarpInFractalMonolith=Warp In Fractal Monolith
+Button/Name/WarpInGateway=Warp In Gateway
+Button/Name/WarpInHighTemplar=Warp In High Templar
+Button/Name/WarpInPhalanxImmortal=Warp In Phalanx Immortal
+Button/Name/WarpInPhoenix=Warp In Phoenix
+Button/Name/WarpInProbe=Warp In Probe
+Button/Name/WarpInRoboticsFacility=Warp In Robotics Facility
+Button/Name/WarpInStargate=Warp In Stargate
+Button/Name/WarpInTwilightZealot=Warp In Twilight Zealot
+Button/Name/WarpInVoidStalker=Warp In Void Stalker
+Button/Name/WarpInWarColossus=Warp In War Colossus
+Button/Name/WarpJump=Warp Jump
+Button/Name/WaveMotionGun=Wave-Motion Gun
+Button/Name/WaxThemCritters=Wax Them Critters!
+Button/Name/WeaponsOnline=Weapons Online
+Button/Name/WhitePhosperousFlamers=White Phosperous Flamers
+Button/Name/YamatoCannonImprovements=Yamato Cannon Improvements
+Button/Tooltip/3DBombPrinter=Spider Mines are replenished every 30 seconds.
+Button/Tooltip/AMSAntiMissileSystem=Enables the Gunwalker's Anti Missile System, allowing it to shoot down incoming projectiles for 10 seconds.
+Button/Tooltip/AMSRecalibrations=AMS active duration increased to 20 seconds.
+Button/Tooltip/AMSSystems=Activate the Dire Wolf's point defense systems, shooting down any projectiles within range.</n>Level 2: Duration of AMS lasts 10 seconds.</n>Level 3: Duration lasts 15 seconds.
+Button/Tooltip/AX95Predator=Anti-infantry specialist that deals area damage with each attack.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/AblativeScales=Increases Marauder life by 35.
+Button/Tooltip/AcceleratorCircuitry=Movement speed increased by 25%.
+Button/Tooltip/ActivateFlamer=Activate the flamethrower attachment, which can fire at ground units while on the move. </n>Level 2: Flamer gets +1 range, 25% flame radius, and +5 damage. </n>Level 3: Flamer gets another +1 range, flame radius by 50%, and +5 damage.
+Button/Tooltip/AdvancedTacticalMissile=Missile Turret weapon range increased by 2, and missiles gain +10 damage vs. Armored.
+Button/Tooltip/AlphaStrike=Overclocks the weapon systems of the MechWarrior, increasing damage and attack speed by <d ref = "100 *(Behavior,AlphaStrike,Modification.AttackSpeedMultiplier)"/>% for <d ref = "Behavior,AlphaStrike,Duration"/> seconds. 
+Button/Tooltip/AmmoPrinting=The Manufacturing Facility can readily print out specialized ammo for nearby defensive structures and vehicles, increasing their range by 2, and damage by 3.
+Button/Tooltip/AmmoRefit=Gain an additional 2 missiles per volley.
+Button/Tooltip/AntiPersonnelPods=Causes an explosive force that knocks nearby enemy units back, dealing 30 damage. </n>Level 2: Knockback sends enemies further away, and deals 40 damage. </n>Level 3: Increased knockback, and deals 50 damage.
+Button/Tooltip/ArmorLock=Reduces damage taken by <d ref="100 * Behavior,ArmorLock,DamageResponse.ModifyFraction"/>% and movement speed by <d ref=" Behavior,ArmorLock,Modification.MoveSpeedMultiplier * 100 -80"/>% . Lasts for <d ref="Behavior,ArmorLock,Duration"/> seconds.
+Button/Tooltip/ArmoredCore=Optimizes the weapons systems of the Heimdall, allowing it to be more effective both on the ground and in the air.</n>Assault Mode: Gain an additional +10 damage vs. Light, and 15% Attack speed.</n>Fighter Mode: Gain an additional +10 damage vs. Armored, and +1 weapons range.</n>Level 2: Assault Mode: +15 vs Light, attack speed  20%. Fighter Mode: +15 vs. Armored, +2 range.</n>Level 3: Assault Mode: +20 vs. Light, 25% attack speed. Fighter Mode: +20 vs. Armored, +3 range.
+Button/Tooltip/ArmoredCore2=Increases the Brigand's armor by 2, and transformation speed by 50%.
+Button/Tooltip/ArmoryHyperion=Contains weapon and armor upgrades for Factory and Starport units. <n/><n/><c val="ffff8a">Enables:</c><n/>- Hellbat at the Factory<n/>- Thor at the Factory
+Button/Tooltip/ArtemisSystems=Brigand cannon range increased by 1, and missile range by 3.
+Button/Tooltip/ArtilleryBarrage=Targets 5 random locations within the target area, dealing 125 damage to enemy units in those locations. </n>Level 2: Target number increased to 7, and cooldown is reduced by 30 seconds.
+Button/Tooltip/AssaultMode2=Transforms the Brigand to Assault Mode. In this mode the Brigand can move on the ground and can only attack ground targets.
+Button/Tooltip/BarrelONapalm=After a couple of seconds, throw a barrel full of napalm at the target location, which then detonates. Units caught in the area take 50 damage, and then 10 damage every second afterwards.
+Button/Tooltip/BeguilerQueen=Flying Support Unit. Can use Parasite, Ensnare, Spawn Broodlings and Spawn Creep Tumor.
+Button/Tooltip/Bifrost=Freezes all enemies in a line in front of Heimdall for 3 seconds. Frozen units take damage over time.</n>Level 2: Stun duration is doubled, and cooldown reduced by 15 seconds.</n></n><c val="#ColorAttackInfo">Can only target ground units. Massive and Heroic units are immune.</c>
+Button/Tooltip/BigShot=Grants the Mjolnir to attack air while in siege mode. Can only target Massive units with this attack.
+Button/Tooltip/BlackShield=Reduces damage taken from ranged attacks by 35%.
+Button/Tooltip/BodyArmorOptimization=Increase the health of the Raider by 35.
+Button/Tooltip/Brigand=Durable support unit. Can switch into Fighter Mode to attack air units.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/Brigand2=Durable support flyer. Loaded with strong anti-capital air missiles. Can switch into Assault Mode to attack ground units.<n/><n/><c val="#ColorAttackInfo">Can attack air units.</c>
+Button/Tooltip/Brynhildr=Highly mobile flying unit. Mira Han's powerful long-range bombers.<n/><n/><c val="ffff8a">Can attack air units.</c>
+Button/Tooltip/BuildAX95Predator=Anti-armor specialist. Has the Warp Dash ability and Phase Armor.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c> </n> </n> - Limit 1
+Button/Tooltip/BuildAir=Show list of available air units.
+Button/Tooltip/BuildAutomatedRefinery=Improved Refinery that sends refined vespene gas straight to the Hyperion via short-range warp fields. Eliminates the need for SCVs in vespene gas production.
+Button/Tooltip/BuildBrigand=Durable support flyer. Loaded with strong anti-capital air missiles. Can switch into Assault Mode to attack ground units.<n/><n/><c val="#ColorAttackInfo">Can attack air units.</c><n/><n/>- Limit 4
+Button/Tooltip/BuildBrynhildr=Anti-swarm flying unit, fires a volley of missiles that are effective against unarmored units.<n/><n/><c val="ffff8a">Can attack air units.</c><n/><n/>-Limit 2
+Button/Tooltip/BuildBunkerBot=Cheap, weak mechanical unit that can be placed inside a bunker for defense. </n></n>- Limit 24
+Button/Tooltip/BuildChimera=Fast scout. Has a flame attack that damages all enemy units in its line of fire. Can transform into a close range combat unit.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c><n/><n/>- Limit 4
+Button/Tooltip/BuildDullahan=Tactical-strike aircraft. Can be upgraded to use cloak.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c><n/><n/>-Limit 4
+Button/Tooltip/BuildForwardOperatingBase=Production facility that builds basic defensive structures and improves nearby infantry units.<n/><n/><c val="ffff8a">Enables:</c><n/>- Bunkers<n/>- Missile Turrets<n/>- Shotgun Turrets<n/>- All Infantry Units
+Button/Tooltip/BuildGryphonBattlecruiser=Powerful warship. Can use Yamato Cannon and Tactical Jump, and build Nukes for a Nuclear Strike.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/>- Limit 1
+Button/Tooltip/BuildGunwalker=Heavy Support mech. Has the Anti Missile System ability and improves the range of nearby units. <n/><n/>- Limit 2 <n/></n><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/BuildHades=Highly mobile armored Transport. Has the ability to lay Spider Mines.<n/><n/>- Limit 2
+Button/Tooltip/BuildJumpBeacon=Building that enables Air unit production from the Hyperion. <n/><n/><c val="ffff8a">Enables:</c><n/>- Brigand<n/>- Pegasus Dropship<n/>- Dullahan<n/>- Brynhildr<n/>- Shadow Raven or Nuclear Vessel<n/>- Gryphon Battlecruiser
+Button/Tooltip/BuildLeonTank=Heavy frontline tank. Has the Lockdown ability and can fire on the move.<n/><n/><c val="FFFF8A">Can attack ground units.</c> <n/><n/>- Limit 4
+Button/Tooltip/BuildManufacturingFacility=Production building that constructs advanced defensive structures. <n/><n/><c val="ffff8a">Enables:</c><n/>- Siege Towers<n/>- Psi Disruptor or Psi Emitter<n/>- All Ground Vehicle Units
+Button/Tooltip/BuildMjolnir=Heavy siege mech.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c><n/><n/>- Limit 2
+Button/Tooltip/BuildNuclearVessel=Build the Nuclear Vessel. Can use the Irradiate, Lockdown, and Nano-Repair abilities. <n/><n/>- Limit 1
+Button/Tooltip/BuildPegasusDropship=Air transport that can carry a large number of units. Can use Afterburners.<n/><n/>- Limit 2
+Button/Tooltip/BuildPsiDisruptor=Defensive structure. Has the Confusion Ability.<n/><n/><c val="#ColorAttackInfo">Heroic units are immune.</c><n/><n/>- Limit 2
+Button/Tooltip/BuildPsiEmitter=Specialist building designed to lure Zerg units to attack it. Will debuff nearby zerg units.</n><n/>- Limit 2
+Button/Tooltip/BuildRX100Predator=Anti-infantry specialist that deals area damage with each attack.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c><n/><n/>- Limit 1
+Button/Tooltip/BuildRepairBay=Repair facility that contains three drones that will repair nearby damaged structures and mechanical units. </n></n>Each drone can only repair one unit or structure at a time.<n/><n/>- Limit 4
+Button/Tooltip/BuildSentryDrones=Builds Sentry Drones that automatically attack the Raven's target. Ravens may not attack without Sentry Drones.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/BuildShadowRaven=Aerial support unit. Can build Drones to attack, use Seeker Missiles, and has a pair of Repair Drones.<n/><n/><c val="FFE303">Detector</c><n/><n/>- Limit 1
+Button/Tooltip/BuildShotgunTurret=Automated defensive turret. <c val="#ColorAttackInfo">Can attack ground units.</c><n/><n/>- Limit 6
+Button/Tooltip/BuildSiegeTower=Advanced defensive structure that can bombard enemies from a distance.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c><n/><n/>- Limit 6
+Button/Tooltip/BuildTechLab=Infantry-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Marauders<n/>- Ghosts with Ghost Academy
+Button/Tooltip/BuildUEDGoliath=Heavy-fire support unit.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/><n/>- Limit 4
+Button/Tooltip/BuildVehicles=Show a list of available vehicle units.
+Button/Tooltip/Bunker2=Defensive structure. Able to protect up to <d ref="Abil,BunkerTransport,TotalCargoSpace"/> infantry unit slots. Units inside the Bunker have +1 range to their attacks. Bunkers can be salvaged.
+Button/Tooltip/CallInFleet=Call in a squadron of 6 fighters that'll stay for 60 seconds before jumping out.</n>Level 2: Number of fighters is increased to 8.</n>Level 3: Number of fighters is increased to 10.
+Button/Tooltip/CallInTheFleet=Call in a squadron of 6 fighters that'll stay for 60 seconds before jumping out.</n>Level 2: Number of fighters is increased to 8.</n>Level 3: Number of fighters is increased to 10.
+Button/Tooltip/CarrierRepairDroneHeal=Heals a friendly mechanical unit.<n/><n/><c val="f078ff">Heals 2 life per second.</c>
+Button/Tooltip/ChaosArchon=Powerful psionic attacker.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/ChaosArchonMerge=Sacrifices 2 High Templar, 2 Chaos Templar, or 1 High Templar and 1 Chaos Templar to create an Chaos Archon.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/ChaosTemplar=Nerazim Faction<n/>Deadly warrior-assassin. Permanently cloaked. Can use Shadow Fury.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/ChaoticEnergy=The unrestrained energies of the Chaos Archon bolster nearby allies, increasing Energy and Shield regeneration by 50%.
+Button/Tooltip/ChargedDash=The Predator charges forward, unleashing a blast of energy that deals 50 damage to nearby enemies and stuns them for .5 seconds.
+Button/Tooltip/Chimera=Fast scout. Has a flame attack that damages all enemy units in its line of fire. Can transform into a close range combat unit.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/CloakField2=Cloaking Field passively cloaks friendly nearby units and structures. Units within the cloaking field have the same move speed of the Dire Wolf.<n/>Level 2: Duration extended to 45 seconds. </n>Level 3: Duration of field is now 60 seconds.
+Button/Tooltip/CloakFieldDireWolf=Cloak nearby units for a short period. Units that are cloaked will match the same movement speed of the Dire Wolf.
+Button/Tooltip/CombatFrame=The SCV is outfitted for combat, gaining +100 Health, +2 armor, and +10 weapon damage.
+Button/Tooltip/CombatMedicSierra=Support trooper. Heals nearby biological units. Part of Mengsk's elite guard.<n/><n/><c val="ffff8a">Cannot attack.</c>
+Button/Tooltip/CombatSerums=Regenerates life quickly while out of combat.
+Button/Tooltip/ConcussiveMissile=Fires a missile at a target unit, dealing 100 damage to the main unit, then splash and knockback in a small radius. </n>Level 2: Deals 150 damage to main target, and faster cooldown.
+Button/Tooltip/CrisisSuit=Vipers gain +50 HP, +2 armor, and energy regen is increased by 50%.
+Button/Tooltip/Crusader=Request Siege Tank Mercenary Hero.<n/><n/>Ex-Confederate veteran with a heavily modified siege tank.
+Button/Tooltip/CrusaderDummy=Spider Mines pursue enemy units that come in range, and detonate for heavy area damage. Buried Spider Mines can only be seen by enemy Detectors.
+Button/Tooltip/CyberneticsCoreHyperion=Contains weapon and armor upgrades for Protoss air units.
+Button/Tooltip/DeactivateAfterburners=Turn off the Harvester's Afterburners and have it land, allowing it to attack ground units.
+Button/Tooltip/DebilitatingGrenades=The Fat Man's grenades are replaced with an experimental version, enemies hit by this grenade and any in a small radius are slowed, and take an additional 10% damage while slowed. <n/>Level 2: Damage taken is increased to 15%, and duration by 25%.<n>Level 3: Damage is increased further to 20%, and duration by 50%.<n/><n/><c val="#ColorAttackInfo">Does not effect Massive units.</c>
+Button/Tooltip/DefensiveMatrix=Surrounds the targeted unit with a shield that can absorb <d ref="Behavior,DefensiveMatrix,Modification.VitalMaxArray[1]"/> damage. Ability can only be used once every <d ref="Abil,DefensiveMatrix,Cost[0].Cooldown.TimeUse"/> seconds.
+Button/Tooltip/DeploySpiderMines=Places a line of three Spider Mines at the target location. Spider Mines are replenished over time. </n>Level 2: Gain an additional charge. </n>Level 3: Gain two additional charges.
+Button/Tooltip/DireWolf=Request Banshee Mercenary Hero.<n/><n/>Former Dominion pilot with a protoype Banshee.
+Button/Tooltip/DireWolfPermaCloak=Dire Wolf is permanently cloaked.
+Button/Tooltip/DisplacedReaction=Any target hit by the Displacer's main attack creates up to 3 bolts that targets nearby enemies, dealing <d ref="Effect,PhasingSecondaryDamage,Amount"/> damage to each target.
+Button/Tooltip/Displacer=Nerazim Faction<n/>Ranged attack strider. Shields are restored after using Blink.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/DualDispensers=Medics can heal two targets at a time, and healing costs 35% less energy.
+Button/Tooltip/DualMagneticChamber=Increases the Raider's attack speed by 10%, and weapon range by 1.
+Button/Tooltip/Dullahan=Tactical-strike aircraft. Can be upgraded to use cloak.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/DullahanRange=The Dullahan gains +1 weapon range with each attack, up to a max of +3.
+Button/Tooltip/EMPMissiles=Mechanical units hit by the Brigand's missiles have their move and attack speed reduced by 50% for 5 seconds.
+Button/Tooltip/EMPRound=Creates an electromagnetic pulse that does 100 damage to shields and energy of all units in the targeted area. Cloaked units hit by EMP are revealed for a short time.
+Button/Tooltip/Earthbreaker=Heavy tank. Can switch to Siege Mode to provide long-range artillery support. Part of Mengsk's elite guard.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/EndoSteelStructure=Hades health is increased by 50 and armor by 1.
+Button/Tooltip/EngineBoost=Dashes forward to target location, dealing 50 damage to all nearby units, stunning them temporarily. </n>Level 2: Gain an additional charge, allowing for multiple charges in succession.</n>Level 3: Gain a total of 3 charges.
+Button/Tooltip/EngineeringBayHyperion=Contains upgrades for Terran infantry units. Enables the construction of Terran defensive structures. 
+Button/Tooltip/EnhancedGreekFire=Increase Chimera's area of effect by 10% and deal 10 additional damage vs Bio.
+Button/Tooltip/ExplosiveShrapnelShells=Units hit by a Striker grenade are embedded with explosives which detonate after 1.5 seconds, dealing 35 (50 vs Armored) damage to the main target, and half damage to surrounding units.
+Button/Tooltip/FatMan=Request Fat Man Hero Merc.<n/><n/>Veteran Marauder Unit.
+Button/Tooltip/FatMan2=Request Fat Man Hero Merc.<n/><n/>Veteran Marauder Unit.
+Button/Tooltip/FatManMine=Travels in a straight line and deals area damage to nearby units on impact.<n/><n/><c val="ffff8a">Can attack air units.</c>
+Button/Tooltip/FerroFibrousArmor=UED Goliath Armor is increased by 2, and Mineral cost reduced by 50.
+Button/Tooltip/FighterMode2=Transforms the Brigand to Fighter Mode. In this mode Brigands fly, but they can only attack air targets.
+Button/Tooltip/FireWave=Sends out multiple lines of flames in an expanding cone, each line dealing 10 damage to units within the target area. </n>Level 2: Each line deals 20 damage to units. </n>Level 3: Each line deals 30 damage to units.
+Button/Tooltip/Fireball=Shoots a ball of flame at a target, dealing 25 damage. </n>Level 2: Deals 50 damage to main target, and now has splash damage in a small radius. </n>Level 3: Deals 75 Damage to main target, and larger splash damage radius.
+Button/Tooltip/FlagshipTimeBomb=Generates a temporal field around the mothership that slows all units by 75%, and halts incoming projectiles. Once the effect ends, all projectiles caught in the field are destroyed.
+Button/Tooltip/FlameOn=Overcharges the Chimera's flamethrower, doubling its range, area of effect, and increasing damage dealt by 25% for 10 seconds.
+Button/Tooltip/FlamingThorns=Jack's armor is coated in a superheated material, dealing 10 damage vs melee units that attack him. </n>Level 2: 10% damage reduction, and deals 15 damage vs melee units. </n>Level 3: 20% damage reduction, deals 20 damage vs melee units.
+Button/Tooltip/ForgeHyperion=Contains weapon and armor upgrades for Protoss ground units and shield upgrades for all Protoss units and structures.<n/><n/><c val="ffff8a">Enables:</c><n/>- Photon Cannons from Probes
+Button/Tooltip/ForwardOperatingBase=Infantry-production facility.<n/><n/><c val="ffff8a">Enables:</c><n/>- Marines<n/>- Reapers<n/>- Bunkers from SCVs<n/>- Orbital Commands from Command Centers
+Button/Tooltip/ForwardOperatingBase2=Barracks must land to start unit production.
+Button/Tooltip/FractalMonolith=Extremely powerful defensive structure. Has superior range and damage, but is very expensive and attacks slowly.<n/><n/><c val="ffff8a">Can attack ground and air units.
+Button/Tooltip/FracturedBeam=Upon hitting the main target, the beam will split into several beams that will bounce to two more targets, dealing less damage with each bounce.
+Button/Tooltip/FragGrenade=Tosses a grenade that explodes for 50 damage in a small radius. </n>Level 2: Grenades deals 100 damage and has 2 charges. </n>Level 3: Grenades deals 150 damage and has 3 charges. <n/><n/><c val="ffff8a">Does not harm friendly units.</c>
+Button/Tooltip/FromTheAshes=Revives the Phoenix when killed. This effect can only occur once every <d ref="Behavior,RecentlyRevived,Cost.Cooldown.TimeStart"/> seconds.
+Button/Tooltip/FuelInjectors=Movement Speed increased by 25%.
+Button/Tooltip/FusionBomb=Throw a powerful bomb that deals 150 damage to structures. <n/><n/> <c val="#ColorAttackInfo">Can only be used on structures. </c>
+Button/Tooltip/GatewayHyperion=Warps in Protoss ground units.
+Button/Tooltip/Gjallarhorn=Transforms Heimdall's weapon into a pair of powerful thermal lances, allowing him to attack multiple air units while on the move for a short period. </n>Level 2: Damage is increased, and cooldown is reduced by 15 seconds.</n></n><c val="#ColorAttackInfo">Can only target air units.
+Button/Tooltip/GryphonBattlecruiser=Powerful warship. Can use Yamato Cannon and Tactical Jump.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/Hades=The APC 300. Have the peace of mind to move forward.
+Button/Tooltip/HardenedArmor=Increases Inferno Life by 75 and Armor by 1.
+Button/Tooltip/Harvester=
+Button/Tooltip/HarvesterFlightMode=
+Button/Tooltip/Heimdall=Request Viking Merc Hero.<n/><n/>Pirate Viking with exceptional aerial expertise.
+Button/Tooltip/Heimdall2=Durable support flyer. Loaded with strong anti-capital air missiles. Can switch to Assault Mode to attack ground units. Part of Mengsk's elite guard.<n/><n/><c val="#ColorAttackInfo">Can attack air units.</c>
+Button/Tooltip/HighTemplar2=Potent psionic master. Can use Feedback and Psionic Storm. Can merge into an Archon.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/HunterRoach=Assault unit. Regenerates life quickly when burrowed. Can morph into a Ravager.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/HybridBlaster=Powerful psionic attacker.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/HybridReaverV2=Monstrous creature. Has a devastating melee attack.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/Hyperion2=
+Button/Tooltip/Hyperion3=
+Button/Tooltip/IFFShells=Friendly Units and Structures take 80% less damage.
+Button/Tooltip/IgniteAfterburners=Increases the Medivac's movement speed by 100% and grants 40% dodge chance <d time="8"/>.
+Button/Tooltip/ImmortalOverload=Absorbs up to <d ref="Behavior,Lockdown,DamageResponse.ModifyFraction"/>% damage. Lasts for <d ref="Behavior,ImmortalOverload,Duration"/> seconds.
+Button/Tooltip/ImpactGel=Increases the Leon's damage reduction by 10% (20% Damage reduction total).
+Button/Tooltip/ImpactMissiles=On impact, reduces enemy weapon range by 4 for a short period. </n><n/><c val="FFFF00">Does not affect Heroic or Massive units.</c>
+Button/Tooltip/ImprovedLogistics=The Forward Operating Base has a ready stockpile of ammunition and other necessary equipment, making infantry combat much more efficient. Infantry nearby the FOB gain a 25% attack speed and 50% energy regen.
+Button/Tooltip/Inferno=Specialized anti-infantry attacker.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/Irradiation=Irradiates a single target, causing damage over time to target and any nearby units for <d ref="Behavior,Irradiate,Duration"/> seconds. Irradiate does not damage mechanical units, but nearby biological units will take damage from an Irradiated mechanical unit.
+Button/Tooltip/JackFrost=Request Jack Frost Hero Merc.<n/><n/>Veteran unit of ex-Confederate Firebats.
+Button/Tooltip/JumpBeacon=Air-unit production facility. <n/><n/><c val="ffff8a">Enables:</c><n/>- Vikings<n/>- Medivacs
+Button/Tooltip/JumpBeacon2=Starport must land to start unit production.
+Button/Tooltip/JumpJets=Increases movement speed by 25%, and gains +1 armor. </n>Level 2: Movement speed increased to 50%, and armor bonus increased to +2.</n>Level 3: Movement speed increased to 75%, and armor bonus increased to +3.
+Button/Tooltip/KaraxEmergencyShield=Shields friendly units, granting them <d ref="Behavior,KaraxEmergencyShield,Modification.VitalMaxArray[Shields]"/> additional shields for <d ref="Behavior,KaraxEmergencyShield,Duration"/> seconds.
+Button/Tooltip/KerriganVoidFury=Each attack temporarily increases Goliath's attack speed by <d ref="(Behavior,Windup1,Modification.AttackSpeedMultiplier - 1) * 100"/>%. Can stack up to <d ref="(Behavior,Windup5,Modification.AttackSpeedMultiplier - 1) * 100"/>% increased attack speed.
+Button/Tooltip/Land2=Lands the structure at a target location, allowing it to once again produce units, research upgrades, and use abilities.
+Button/Tooltip/LearnFragGrenadeLevel1=Unlocks the Frag Grenade ability, allowing Sergant to damage units in a small area. Increased damage and additional charges with each level.
+Button/Tooltip/LearnNewAbility=Use points to gain new abilities for Mercenary.
+Button/Tooltip/LearnSuperStim=Unlocks the Super Stimpack ability. Increases the attack and movement speed of Sergeant, and heals health over time.
+Button/Tooltip/Legionnaire=General-purpose infantry. Part of Mengsk's elite guard.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/Leon998xT8AssaultTank=Heavy tank. Can switch into Siege Mode to provide long-range artillery support.<n/><n/><c val="FFFF8A">Can attack ground units.</c>
+Button/Tooltip/Liftoff=Transforms structure into a slow air unit for redeployment. May not produce units, research upgrades, or use abilities until it has landed.
+Button/Tooltip/LoadHades=Loads infantry into the Hades.
+Button/Tooltip/LockdownMissile=Fire a Missile that puts the target unit in stasis, preventing them from moving or attacking for 30 seconds. If targeting an Ultralisk, will reduce movement and attack speed by 50%.<n/><n/><c val="FFFF00">Does not affect Heroic Units.</c>
+Button/Tooltip/MACCannonStrike=Fires a metal projectile from orbit that deals 500 damage to enemy units within the target location. <n/><n/>Location must be visible in order to target.
+Button/Tooltip/MCV=Basic troop transport.
+Button/Tooltip/MX08Gunwalker=Anti-vehicle mech. Haywire missiles do bonus damage to mechanical units. <n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/Maelstrom=Creates a focused blast of psionic energy that slows all non-heroic units movement and attack speed by 50% in the target area for 3 seconds.
+Button/Tooltip/MagRailProjectiles=Increase weapon range by 1.
+Button/Tooltip/ManufacturingFacility=Vehicle-production facility. <n/><n/><c val="ffff8a">Enables:</c><n/>- Vultures<n/>- Hellions
+Button/Tooltip/ManufacturingFacility2=Factory must land to start unit production.
+Button/Tooltip/Marauder=Heavy assault infantry.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/Marine=General-purpose infantry.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/MechWarrior=Request Goliath Mercenary Hero.<n/><n/>UED veteran using an experimental Goliath prototype.
+Button/Tooltip/MedicRegen=Medics gain 2 HP/s health regen.
+Button/Tooltip/MiniNuke=Launches a grenade with a nuclear warhead at a target location, takes 5 seconds to land. Mini nukes do not require to be built at silo, but have half the damage and radius of a normal nuke (150 damage and +100 vs structures).
+Button/Tooltip/MiningEfficiency=SCVs gather minerals 33% faster.
+Button/Tooltip/MissilePods=Missile Pods deal <d ref="Effect,HurricaneMissileDamage,Amount * Effect,HurricaneMissileDamagePersistent,PeriodCount"/> (+<d ref="Effect,HurricaneMissileDamage,AttributeBonus[0] * Effect,HurricaneMissileDamagePersistent,PeriodCount"/> vs. light) damage to enemy units in target area.</n>Level 2: Missile Pods deal <d ref="Effect,MissilePodsDamageLevel2,Amount * Effect,MissilePodsDamagePersistentLevel2,PeriodCount"/> (+<d ref="Effect,MissilePodsDamageLevel2,AttributeBonus[0] * Effect,HurricaneMissileDamagePersistent,PeriodCount"/> vs. light) damage to enemy units in target area.</n>Level 3: Missile Pods deal <d ref="Effect,MissilePodsDamageLevel3,Amount * Effect,MissilePodsDamagePersistentLevel3,PeriodCount"/> (+<d ref="Effect,MissilePodsDamageLevel3,AttributeBonus[0] * Effect,HurricaneMissileDamagePersistent,PeriodCount"/> vs. light) damage to enemy units in target area.
+Button/Tooltip/MissileTurret=Primary anti-air defensive structure. <n/><n/><c val="#ColorAttackInfo">Can attack air units.</c><n/><c val="FFE303">Detector</c><n/><n/>- Limit 8
+Button/Tooltip/MissileTurretHyperion=Primary anti-air defensive structure. <n/><n/><c val="#ColorAttackInfo">Can attack air units.</c><n/><c val="FFE303">Detector</c>
+Button/Tooltip/Mjolnir=Heavy assault mech.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/MjolnirNormalMode=Revert back to normal mode, allowing the Mjolnir to move at normal speeds and use its anti-light arm cannons.
+Button/Tooltip/MjolnirSiegeMode=Activate the Mjolnir's siege mode, turning it into a slow moving turret that does heavy damage against ground.
+Button/Tooltip/MobileDetection=The Gunwalker can now detect cloaked units.
+Button/Tooltip/MultiShotLauncher=Can fire up to three different targets at at time for 20 seconds. </n>Level 2: Can attack 4 targets at a time.</n>Level 3: Can attack 5 targets, and increased weapon attack speed.
+Button/Tooltip/MultiThreadTreads=Increases the Leon's movement speed by 25%.
+Button/Tooltip/NecrodermisArmor=Increases the number of Bunker slots by 2. Bunkers also gain +2 HP/s life regen.
+Button/Tooltip/NeosteelArmor=Increases the armor of the Crusader by 1 while in tank mode. Armor bonus is doubled when in siege mode.</n>Level 2: +2 Armor bonus, +4 while sieged.</n>Level 3: +3 Armor bonus, +6 while sieged.
+Button/Tooltip/NightHowl=Fires a modified EMP Missile, dealing 200 shield and energy damage to all units in the target area. Units hit by the EMP cannot cloak and are stunned for 5 seconds. </n></n><c val ="#ColorAttackInfo">Does not affect friendly units.</c>
+Button/Tooltip/NukeOptimization=Nuke build time is reduced by 90 seconds.
+Button/Tooltip/Obliterate=Deals 200 damage to a single target.
+Button/Tooltip/OilDrop=Creates a puddle of sticky oil that slows down enemies that pass through it. Will automatically be used if the Chimera is attacked. </n></n><c val="#ColorAttackInfo">Does not affect Massive and Heroic Units.
+Button/Tooltip/OverchargedCannons=Increase weapon range, attack speed, and grant a small amount of splash damage to attacks for 5 seconds.
+Button/Tooltip/PackLeader=Nearby air units gain a 25% attack speed, which lasts for several seconds after getting out of range.</n>Level 2: Attack speed increased to 50%.</n>Level 3: Attack speed increased to 75%.
+Button/Tooltip/PegasusDropship=Air transport. Heals nearby biological units. Can use Afterburners.
+Button/Tooltip/PermaCloak=Cloak no longer costs energy to enable, and requires less energy to maintain.
+Button/Tooltip/PhalanxImmortal=Assault strider. Can use Barrier to absorb damage.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/PhalanxShield=When nearby another Phalanx Immortal, both will generate an wide area shield that will protect units within it, reducing all damage by 5.
+Button/Tooltip/PhaseArmorPlating= The RX-100's phase armor allow it to maintain a semi solid state at all times, negating <d ref="100 * Behavior,PredatorDodge,DamageResponse.Chance[0]" value=".3"/>% of all incoming attacks.
+Button/Tooltip/PhoenixResurrect=Air superiority starfighter. Can use Graviton Beam.<n/><n/><c val="ffff8a">Can attack air units.</c>
+Button/Tooltip/PiercingRounds=Brigand ground attacks damage units in a line.
+Button/Tooltip/PlaceMine=Place down a mag mine. When activated, the mine will travel in a straight line and deal area damage around the point of impact. </n>Level 2: Gain one additaional charge. </n>Level 3: Gain a third charge, and reduced cooldown.
+Button/Tooltip/PredatorGrapple=Pulls the HERC to the target location.
+Button/Tooltip/PrepareMiniNuke=Fat Man prepares a grenade with a nuclear warhead, which has half the damage and radius of a regular nuke.
+Button/Tooltip/ProbeHyperion=Basic worker unit. Can gather resources and warp in Protoss structures.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/PsiConfusion=Defensive structure. Slows the attack and movement speeds of all nearby Zerg units.<n/><n/><c val="#ColorAttackInfo">Heroic units are immune.</c>
+Button/Tooltip/PsiEmitter=Defensive structure. Can permanently Mind Control Zerg units.
+Button/Tooltip/PsionicLure=This building acts as a lure for Zerg units, making them always target this building first. When nearby the Psi Emitter, Zerg units get a 50% movement increase, but all attacks are reduced to melee range.
+Button/Tooltip/PsionicRebound=Vizard attacks bounce up to 4 additional enemies, and gain 5 energy per enemy hit.
+Button/Tooltip/PsionicReboundImproved=Vizard attacks bounce up to 4 additional enemies, and gain 10 energy per enemy hit.
+Button/Tooltip/QuickSiege=Transformation time between Normal and Siege mode is reduced by 50%.
+Button/Tooltip/RX100Predator=Anti-infantry specialist that deals area damage with each attack.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/RadarSupport=Increases the attack range of nearby units by 1. Does not affect Melee units.
+Button/Tooltip/Raider=Veteran Marine from Brood War, now working for Raynor.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/RaiderStimpack=Improved Stimpack package that doesn't damage user, but has longer cooldown and no longer increases movement. Fires 100% faster for 15 seconds.
+Button/Tooltip/RailgunSnipe=After carefully aiming, the Viper fires a Railgun Round that strikes enemies along its path, dealing <d ref="Effect,RaynorSnipeDamage,Amount"/> damage.
+Button/Tooltip/RaiseShields=Temporarily sends more power to the Vengeance's shield generator, increasing it's max shields by 100% and shield armor by 1 for 15 seconds.</n>Level 2: Max shields increased by 200%, and shield armor by 2.</n>Level 3: Max shields increased by 300%, and shield armor by 3.
+Button/Tooltip/RapidDeployment2=Allows for Air Units to be deployed from the Hyperion in any visible location.
+Button/Tooltip/RapidDeploymentTubes=The Pegasus Dropship deploys loaded troops almost instantly.
+Button/Tooltip/ReaperAfterburners=Activates the afterburners in the Harvester's jetpack, allowing them to take flight and attack air units. 30 Second cooldown
+Button/Tooltip/ReinforcedStructure=Bunkers are fortified and incoming damage is reduced by 25%.
+Button/Tooltip/RepairBay=Contains upgrades for Terran infantry units. Enables the construction of Terran defensive structures. 
+Button/Tooltip/RepairBayDrone=Flying spy. Cloak renders the unit invisible to enemies without detection.<n/><n/><c val="FFE303">Detector</c>
+Button/Tooltip/RepairDrone=Heals a friendly mechanical unit.<n/><n/><c val="f078ff">Heals 2 life per second.</c>
+Button/Tooltip/RescueFoam=Generates of field of restorative nanobots that heal units that take fatal damage back to half health after a few seconds. Field lasts for 5 seconds.
+Button/Tooltip/RescueMedic=
+Button/Tooltip/ResearchDisplacement=Allows the Displacer's Blink ability to render it cloaked and undetectable for a short period of time, and rapidly restore shields while cloaked.
+Button/Tooltip/ResearchNeosteelFrame=Incoming damage is reduced by 10%.
+Button/Tooltip/RetributionField=The Predator unleashes a deadly field of electricity each time it attacks. Deals 30 damage.
+Button/Tooltip/ReviveCrusader=Bring Crusader back onto the field.
+Button/Tooltip/ReviveDireWolf=Bring Dire Wolf back onto the field.
+Button/Tooltip/ReviveFatMan=Bring Fat Man back onto the field.
+Button/Tooltip/ReviveHeimdall=Bring Heimdall back onto the field.
+Button/Tooltip/ReviveHero=Revive the chosen Mercenary.
+Button/Tooltip/ReviveJackFrost=Bring Jack Frost back onto the field.
+Button/Tooltip/ReviveMechWarrior=Bring MechWarrior back onto the field.
+Button/Tooltip/ReviveSergeant=Bring Sergeant back onto the field.
+Button/Tooltip/ReviveVengeance=Bring Vengeance back onto the field.
+Button/Tooltip/RoboticsFacilityHyperion=Warps in Protoss robotic units.
+Button/Tooltip/SCV2=Basic worker unit. Can gather resources, build Terran structures, and repair.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/SelfDefenseProtocols=The Pegasus is now able to attack enemy units, and armor is increased by 1.
+Button/Tooltip/Sergeant=Call in Sergeant, a Marine Mercenary Hero.
+Button/Tooltip/ShadowRaven=Aerial support unit. Can use Auto-Turret, Point Defense Drone, and Seeker Missile.<n/><n/><c val="FFE303">Detector</c>
+Button/Tooltip/ShadowRavenRepairDrone=Flying spy. Cloak renders the unit invisible to enemies without detection.<n/><n/><c val="FFE303">Detector</c>
+Button/Tooltip/ShadowRavenSentryBotUnit=Combat drones that automatically strafe their Carrier's target. Carriers may not attack without Interceptors.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/ShieldsUp=Increases the armor of Sergeant and nearby biological Light units.
+Button/Tooltip/ShortenedFuses=Fuse time for sticky bombs is reduced by .5 seconds
+Button/Tooltip/ShotgunTurret=Automated defensive turret. <n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/SiegeTower=Extremely powerful turrets that cannot be attacked. Breaking down the Palace Gate is the only way to victory.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/SiesmicSensors=Missile Turret vision and detection range increased by 3.
+Button/Tooltip/StalkerShade=Nerazim Faction<n/>Ranged attack strider. Shields are restored after using Blink.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/StargateHyperion=Warps in Protoss air units.
+Button/Tooltip/StasisMissile=Put target enemy into Stasis for 30 seconds, but leave them vulnerable to damage. <n/><n/><c val="#ColorAttackInfo">Does not effect Heroic or Massive Units.
+Button/Tooltip/Stop2=Orders selected units to cancel all orders and stop moving.
+Button/Tooltip/Striker=Heavy assault infantry.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/SuperStimpack=Increases the attack and movement speed of Sergeant, and heals health over time.
+Button/Tooltip/SupplyDepot2=Provides supply.<n/>Supply allows you to create more units.<n/>Supply Depots can be lowered to allow units to walk over them.
+Button/Tooltip/SupplyDepot3=Provides supply.<n/>Supply allows you to create more units.<n/>Supply Depots can be lowered to allow units to walk over them.
+Button/Tooltip/TacticalJump=The Hyperion gains the Tactical Jump Ability.
+Button/Tooltip/TargetLock=Increases damage dealt to target enemy unit by <d ref="Behavior,ObserverTargetLock,Modification.DamageTakenFraction[Splash]*100"/>%. Effect lasts as long as the Viper remains locked onto the target.
+Button/Tooltip/TargetingComputer=Weapon Range is increased by 2.
+Button/Tooltip/TechLab2=Enables additional unit construction options.
+Button/Tooltip/TerrazineInjections=Vizards gain +100 Max Energy, +50 Starting Energy, +25 HP.
+Button/Tooltip/TrainGround=Show list of available ground units.
+Button/Tooltip/TrainHarvester=Raider. Can jump up and down cliffs, and use afterburners to fly. Uses Fusion Bomb.</n><n/>- Limit 6 <n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/TrainInferno=Specialized anti-infantry attacker. <n/> <n/> - Limit 4 <n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/TrainMercHeros=Purchase powerful mercenary Heros to help fight alonside your army.
+Button/Tooltip/TrainRaider=General-purpose infantry.<n/><n/> - Limit 12 <n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/TrainRescueMedic=Support trooper. Heals nearby biological units and has support abilities. <n/><n/> - Limit 4
+Button/Tooltip/TrainStriker=Heavy assault infantry equipped with delay-fuse sticky bombs.<n/> <n/> - Limit 4<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/TrainViper=Infiltration Unit. Can use Cloak, Stasis Missile, and Railgun Snipe.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/><n/>- Limit 2
+Button/Tooltip/TrainVizard=Powerful spellcaster unit. Can use Psionic Storm, Psionic Lash, and Emergency Shields.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/><n/>- Limit 2
+Button/Tooltip/TransportAttack=Units loaded in the Hades can fire on enemy units.
+Button/Tooltip/TwilightCharge=Intercepts enemy ground units and increases movement speed. Twilight Zealot is immune to damage and collision while charging.
+Button/Tooltip/TwilightZealot=Powerful melee warrior. Can use Charge.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/U438Shells=Increases Harvester range by 2. Adds an additional +5 damage to Light Armor.
+Button/Tooltip/UEDGoliath=Heavy-fire support unit. Part of Mengsk's elite guard.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/UnloadAll=Unloads all units.
+Button/Tooltip/UnstableCloak=Cloaks the Predator for <d ref="Behavior,PredatorCloak,Duration"/> seconds, preventing enemy units from seeing or attacking it. Cannot be detected while cloaked.
+Button/Tooltip/UpgradeHyperionAirArmorLevel1=Upgrades the armor of Protoss air units.
+Button/Tooltip/UpgradeHyperionAirArmorLevel12=Further upgrades the armor of Protoss air units.
+Button/Tooltip/UpgradeHyperionAirArmorLevel13=Maximizes the armor of Protoss air units.
+Button/Tooltip/UpgradeHyperionAirWeaponsLevel1=Upgrades the damage dealt by Protoss air units.
+Button/Tooltip/UpgradeHyperionAirWeaponsLevel12=Further upgrades the damage dealt by Protoss air units.
+Button/Tooltip/UpgradeHyperionAirWeaponsLevel13=Maximizes the damage dealt by Protoss air units.
+Button/Tooltip/UpgradeHyperionGroundArmorLevel1=Upgrades the armor of Protoss ground units.
+Button/Tooltip/UpgradeHyperionGroundArmorLevel12=Further upgrades the armor of Protoss ground units.
+Button/Tooltip/UpgradeHyperionGroundArmorLevel13=Maximizes the armor of Protoss ground units.
+Button/Tooltip/UpgradeHyperionGroundWeaponsLevel1=Upgrades the damage dealt by Protoss ground units.
+Button/Tooltip/UpgradeHyperionGroundWeaponsLevel12=Further upgrades the damage dealt by Protoss ground units.
+Button/Tooltip/UpgradeHyperionGroundWeaponsLevel13=Maximizes the damage dealt by Protoss ground units.
+Button/Tooltip/UpgradeHyperionInfantryArmorLevel1=Upgrades the armor of infantry units.
+Button/Tooltip/UpgradeHyperionInfantryArmorLevel12=Upgrades the armor of infantry units.
+Button/Tooltip/UpgradeHyperionInfantryArmorLevel13=Upgrades the armor of infantry units.
+Button/Tooltip/UpgradeHyperionInfantryWeaponsLevel1=Upgrades the damage dealt by infantry units.
+Button/Tooltip/UpgradeHyperionInfantryWeaponsLevel12=Upgrades the damage dealt by infantry units.
+Button/Tooltip/UpgradeHyperionInfantryWeaponsLevel13=Upgrades the damage dealt by infantry units.
+Button/Tooltip/UpgradeHyperionShieldsLevel1=Upgrades the shields of all Protoss units and structures.
+Button/Tooltip/UpgradeHyperionShieldsLevel12=Further upgrades the shields of all Protoss units and structures.
+Button/Tooltip/UpgradeHyperionShieldsLevel13=Maximizes the shields of all Protoss units and structures.
+Button/Tooltip/UpgradeHyperionShipPlatingLevel1=Upgrades the armor of units built at a Starport.
+Button/Tooltip/UpgradeHyperionShipPlatingLevel12=Upgrades the armor of units built at a Starport.
+Button/Tooltip/UpgradeHyperionShipPlatingLevel13=Upgrades the armor of units built at a Starport.
+Button/Tooltip/UpgradeHyperionShipWeaponsLevel1=Upgrades the damage dealt by units built at a Starport.
+Button/Tooltip/UpgradeHyperionShipWeaponsLevel12=Upgrades the damage dealt by units built at a Starport.
+Button/Tooltip/UpgradeHyperionShipWeaponsLevel13=Upgrades the damage dealt by units built at a Starport.
+Button/Tooltip/UpgradeHyperionVehiclePlatingLevel1=Upgrades the armor of ground vehicles.
+Button/Tooltip/UpgradeHyperionVehiclePlatingLevel12=Further upgrades the armor of ground vehicles.
+Button/Tooltip/UpgradeHyperionVehiclePlatingLevel13=Maximizes the armor of ground vehicles.
+Button/Tooltip/UpgradeHyperionVehicleWeaponsLevel1=Upgrades the damage dealt by ground vehicles.
+Button/Tooltip/UpgradeHyperionVehicleWeaponsLevel12=Further upgrades the damage dealt by ground vehicles.
+Button/Tooltip/UpgradeHyperionVehicleWeaponsLevel13=Maximizes the damage dealt by ground vehicles.
+Button/Tooltip/Vengeance=Request Battlecruiser Mercenary Hero.<n/><n/>Battlecruiser with a commander that sounds strangely familiar.
+Button/Tooltip/VengeanceFighter=Highly mobile flying unit. Excellent at surgical strikes.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/ViperConsume=Latches onto the target structure, dealing <d ref="-1 * (Effect,ViperConsumeStructureModifyTarget,VitalArray[0].Change * Effect,ViperConsumeStructureCreatePersistent,PeriodCount)"/> damage and restoring <d ref="(Effect,ViperConsumeStructureModifyCaster,VitalArray[2].Change / Behavior,TimeScaleConversionBehavior,Duration)" precision="1"/> energy to the Viper every second.<n/><n/><c val="#ColorAttackInfo">Cannot target allied or enemy structures.</c>
+Button/Tooltip/Vizard=Infiltration unit. Can use Ultrasonic Pulse and Cloak. Can also call down Tactical Nukes built at the Ghost Academy.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/VoidBlink=Teleports the Stalker to a nearby target location. Ability can only be used once every <d ref="Abil,Blink,Cost[0].Cooldown.TimeUse"/> seconds.
+Button/Tooltip/VoidHunter=Tal'darim Faction<n/>Deadly warrior-assassin. Permanently cloaked. Can use Void Stasis.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/VoidStalker=Nerazim Faction<n/>Ranged attack strider. Shields are restored after using Blink.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/WarColossus=Purifier Faction<n/>Battle strider with a powerful area attack. Can walk up and down cliffs. Attacks set fire to the ground, dealing extra damage to enemies over time.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/WarpDash=Teleports the Predator to a nearby target location. Ability can only be used once every <d ref="Abil,WarpDash,Cost[0].Cooldown[0].TimeUse"/> seconds.
+Button/Tooltip/WarpGateHyperion=Enables warp in of Protoss ground units.
+Button/Tooltip/WarpInChaosTemplar=Deadly warrior-assassin. Permanently cloaked. <n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/WarpInCyberneticsCore=Contains weapon and armor upgrades for Protoss air units.
+Button/Tooltip/WarpInDisplacer=Ranged attack strider. Can use Blink.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/WarpInForge=Contains weapon and armor upgrades for Protoss ground units and shield upgrades for all Protoss units and structures.<n/><n/><c val="ffff8a">Enables:</c><n/>- Photon Cannons from Probes
+Button/Tooltip/WarpInFractalMonolith=Extremely powerful defensive structure. Has superior range and damage, but is very expensive and attacks slowly.<n/><n/><c val="ffff8a">Can attack ground and air units.
+Button/Tooltip/WarpInGateway=Warps in Protoss ground units.
+Button/Tooltip/WarpInHighTemplar=Potent psionic master. Can use Feedback and Psionic Storm. Can merge into an Archon.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/WarpInPhalanxImmortal=Assault strider. Has the Overcharged Cannons ability and Phalanx Shield.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/WarpInPhoenix=Air superiority starfighter. Can use Graviton Beam. Can revive upon death.<n/><n/><c val="ffff8a">Can attack air units.</c>
+Button/Tooltip/WarpInProbe=Basic worker unit. Can gather resources and warp in Protoss structures.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/WarpInRoboticsFacility=Warps in Protoss robotic units.
+Button/Tooltip/WarpInStargate=Warps in Protoss air units.
+Button/Tooltip/WarpInTwilightZealot=Powerful melee warrior. Can use Charge.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/WarpInVoidStalker=Ranged attack strider. Can use Blink.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/WarpInWarColossus=Powerful battle strider. Can walk up and down cliffs. Attacks incinerate multiple enemies at once.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/WarpJump=After <d time="6"/>, warps to the target location. Battlecruiser is invulnerable while warping.<n/><n/><c val="#ColorAttackInfo">Does not require vision.</c>
+Button/Tooltip/WaveMotionGun=Fires a powerful beam at the target unit, dealing over <d ref="Effect,MotionWaveGunDamage,Amount * Effect,MotionWaveGunBlastCP,PeriodCount"/> damage over <d ref="Effect,MotionWaveGunBlastCP,PeriodicPeriodArray[0] * Effect,MotionWaveGunBlastCP,PeriodCount"/> seconds, and massive splash damage around the target unit.
+Button/Tooltip/WaxThemCritters=Fires a slow moving ball of plasma that deals <d ref="Effect,NovaWeaponPlasmaBlastNewImpactDamage,Amount"/> damage to enemies in its path and leaves behind a trail of plasma that damages enemies within it.
+Button/Tooltip/WeaponsOnline=Refits the Vengeance's weapon systems with various new weapon types in order to improve its combat capabilities. </n>Level 1: Air To Ground Cannons are replaced with Plasma Torpedoes, which can attack multiple ground units in an area.</n>Level 2: Air To Air Cannons are replaced with Flak Cannons, which area damage to air units. </n>Level 3: Both weapons are futher enhanced with 25% attack speed and damage.
+Button/Tooltip/WhitePhosperousFlamers=Increase Inferno's weapon AoE by 50%, and enemie's armor is reduced by 2 while on fire.
+Button/Tooltip/YamatoCannonImprovements=Energy cost of the Yamato Cannon is reduced by 50%.
+ConversationState/ABChoice/ABChoiceTosh03A/Info/Description=Help Tosh break into New Folsom Prison and free the spectres held inside. Tosh will remain with you for the rest of the campaign, training vizards for your use.
+ConversationState/ABChoice/ABChoiceTosh03A/Info/Rewards=<s val="ABChoiceRewards">Vizard</s>
+ConversationState/ABChoice/ABChoiceTosh03A/Info/Tooltip=<s val="TooltipTitle_Tech">Vizard</s><n/><s val="TooltipDescription_Tech">Powerful spellcaster unit. Can use Psionic Storm, Psionic Lash, and Emergency Shields.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/><n/>- Limit 2</s>
+ConversationState/ABChoice/ABChoiceTosh03B/Info/Rewards=<s val="ABChoiceRewards">Viper</s>
+ConversationState/ABChoice/ABChoiceTosh03B/Info/Tooltip=<s val="TooltipTitle_Tech">Viper</s><n/><s val="TooltipDescription_Tech">Infiltration Unit. Can use Cloak, Stasis Missile, and Railgun Snipe.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c><n/><n/>- Limit 2</s>
+ConversationState/LabResearch/ResearchP1_1=Plasma Capacitors
+ConversationState/LabResearch/ResearchP1_1/Info/Confirmation=<s val="WarningText"><n/>Researching </s><s val="WarningHighlight">Plasma Capacitors</s><s val="WarningText"> will prevent you from researching </s><s val="WarningHighlight">Shield Generators.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchP1_1/Info/Description=<s val="ResearchDescSummary_Protoss">- Weapon attack speed increased by 5%.<n/>-Each Zeratul mission completed will increase attack speed further by 5% for a total of 25%.</s><n/><n/><s val="ResearchDescription_Protoss">Using some of the materials and power sources that the Protoss use will reduce the reload time of all of our weapons and weapons systems. <n/><n/></s>
+ConversationState/LabResearch/ResearchP1_1/Info/Tooltip=<s val="TooltipTitle_Protoss">Plasma Capacitors</s><n/><s val="TooltipDescription_Protoss">Attack speed for all units is increased by 5%.</s>
+ConversationState/LabResearch/ResearchP1_2=Shield Generators
+ConversationState/LabResearch/ResearchP1_2/Info/Confirmation=<s val="WarningText"><n/>Researching </s><s val="WarningHighlight">Shield Generators</s><s val="WarningText"> will prevent you from researching </s><s val="WarningHighlight">Plasma Capacitors.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchP1_2/Info/Description=<s val="ResearchDescSummary_Protoss">- All units (Except the Hyperion) gain shields equal to 15% of their HP.<n/>-Completing Zeratul Missions with this research will further improve this research. Each Mission completed will increase shield armor by 1, and shields by 5%.</s><n/><n/><s val="ResearchDescription_Protoss">We have managed to work out a method of installing shield generators in our men's armor and vehicles. While they're not as powerful as the Protoss shields, further improvements can be made over time.</s>
+ConversationState/LabResearch/ResearchP1_2/Info/Tooltip=<s val="TooltipTitle_Protoss">Shield Generators</s><n/><s val="TooltipDescription_Protoss">All units gain shields equal to 15% of their HP.</s>
+ConversationState/LabResearch/ResearchP2_1=Mineral Reductions
+ConversationState/LabResearch/ResearchP2_1/Info/Confirmation=<s val="WarningText"><n/>Researching the </s><s val="WarningHighlight">Mineral Reductions</s><s val="WarningText"> will prevent you from researching </s><s val="WarningHighlight">Micro-Filtering.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchP2_1/Info/Description=<s val="ResearchDescSummary_Protoss">- Mineral Costs for all ground units is reduced by 25 minerals.<n/><n/></s><s val="ResearchDescription_Protoss">We can utilize our research with Protoss warping technology and materials to allow for quicker outfitting of our ground troops, reducing costs needed overall.</s>
+ConversationState/LabResearch/ResearchP2_1/Info/Tooltip=<s val="TooltipTitle_Protoss">Mineral Reductions</s><n/><s val="TooltipDescription_Protoss">Mineral Costs for all ground units is reduced by 25 minerals..</s>
+ConversationState/LabResearch/ResearchP2_2/Info/Confirmation=<s val="WarningText"><n/>Researching </s><s val="WarningHighlight">Micro-Filtering</s><s val="WarningText"> will prevent you from researching the </s><s val="WarningHighlight">Mineral Reductions.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchP2_2/Info/Description=<s val="ResearchDescSummary_Protoss">- Automated Refineries produce vespene gas 50% faster.</s><n/><n/><s val="ResearchDescription_Protoss">Combining Terran and Protoss filtering techniques allows our Automated Refineries to reclaim a higher amount of vespene gas in its purest form.</s>
+ConversationState/LabResearch/ResearchP2_2/Info/Tooltip=<s val="TooltipTitle_Protoss">Micro-Filtering</s><n/><s val="TooltipDescription_Protoss">Refineries and Automated Refineries produce vespene gas 50% faster.</s>
+ConversationState/LabResearch/ResearchP3_1=Startup Field Base Kits
+ConversationState/LabResearch/ResearchP3_1/Info/Confirmation=<s val="WarningText"><n/>Researching the </s><s val="WarningHighlight">Startup Field Base Kits</s><s val="WarningText"> will prevent you from researching the </s><s val="WarningHighlight">Rapid Construction.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchP3_1/Info/Description=<s val="ResearchDescSummary_Protoss">- Construction done by the Forward Operating Base and Manufacturing Facility is reduced by 50%.</s><n/><n/><s val="ResearchDescription_Protoss">Warp technology is integrated into the construction modules of our mobile facilities, drastically reducing the time it takes to set up defenses anywhere on the field.</s>
+ConversationState/LabResearch/ResearchP3_1/Info/Tooltip=<s val="TooltipTitle_Protoss">Startup Field Base Kits</s><n/><s val="TooltipDescription_Protoss">Construction done by the Forward Operating Base and Manufacturing Facility is reduced by 50%.</s>
+ConversationState/LabResearch/ResearchP3_2=Rapid Construction
+ConversationState/LabResearch/ResearchP3_2/Info/Confirmation=<s val="WarningText"><n/>Researching the </s><s val="WarningHighlight">Rapid Construction</s><s val="WarningText"> will prevent you from researching the </s><s val="WarningHighlight">Startup Field Base Kits.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchP3_2/Info/Description=<s val="ResearchDescSummary_Protoss">- Reduces construction time done by the Hyperion by 50%.</s><n/><n/><s val="ResearchDescription_Protoss">Given how important it is to get our initial base and resource collection set up, we've focused our efforts into improving the Hyperion's construction designs combined with warp technology to place down the outer frames so the inner workings can be placed by the actual construction bots.</s>
+ConversationState/LabResearch/ResearchP3_2/Info/Tooltip=<s val="TooltipTitle_Protoss">Rapid Construction</s><n/><s val="TooltipDescription_Protoss">Reduces construction time done by the Hyperion by 50%.</s>
+ConversationState/LabResearch/ResearchP4_1=Shadow Raven
+ConversationState/LabResearch/ResearchP4_1/Info/Confirmation=<s val="WarningText"><n/>Researching the </s><s val="WarningHighlight">Shadow Raven</s><s val="WarningText"> will prevent you from researching the </s><s val="WarningHighlight">Nuclear Vessel.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchP4_1/Info/Description=<s val="ResearchDescSummary_Protoss">- Detects cloaked and burrowed enemies.<n/>- Can produce flying Sentry Bots to attack units.<n/>- Can place Point Defense Drones.<n/>- Can deploy Seeker Missiles.<n/>- Built at the Hyperion.</s><n/><n/><s val="ResearchDescription_Protoss">The Shadow Raven is an unmanned surveillance drone that can detect cloaked and burrowed enemy units. Utilizing the same technology that Protoss Carriers use, the Raven can also create sentry bots that assist it in combat.</s>
+ConversationState/LabResearch/ResearchP4_1/Info/Tooltip=<s val="TooltipTitle_Protoss">Shadow Raven</s><n/><s val="TooltipDescription_Protoss">Support unit. Can detect cloaked and burrowed enemy units.</s>
+ConversationState/LabResearch/ResearchP4_2=Nuclear Vessel
+ConversationState/LabResearch/ResearchP4_2/Info/Confirmation=<s val="WarningText"><n/>Researching the </s><s val="WarningHighlight">Nuclear Vessel</s><s val="WarningText"> will prevent you from researching the </s><s val="WarningHighlight">Shadow Raven.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchP4_2/Info/Description=<s val="ResearchDescSummary_Protoss">- Detects cloaked and burrowed enemies.<n/>- Can Irradiate enemy units.<n/>- Repairs nearby mechanical units.<n/>- Can use Lockdown to stun units for a period of time, including Ultralisks. <n/>- Built at the Hyperion.</s><n/><n/><s val="ResearchDescription_Protoss">We have created a unique version of the Science Vessel that can perform hull repairs on friendly mechanical units. This version of the Science Vessel can also Irradiate individual targets and detect cloaked and burrowed enemy units, along with modified version of the defunct Lockdown Missiles that is no longer limited to just mechanical units.<n/></s>
+ConversationState/LabResearch/ResearchP4_2/Info/Tooltip=<s val="TooltipTitle_Protoss">Nuclear Vessel</s><n/><s val="TooltipDescription_Protoss">Support unit. Can detect cloaked and burrowed enemy units.</s>
+ConversationState/LabResearch/ResearchP5_1=Mass Accelerator Cannon
+ConversationState/LabResearch/ResearchP5_1/Info/Confirmation=<s val="WarningText"><n/>Researching the </s><s val="WarningHighlight">Mass Accelerator Cannon</s><s val="WarningText"> will prevent you from researching </s><s val="WarningHighlight">Mercenary Warp In.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchP5_1/Info/Description=<s val="ResearchDescSummary_Protoss">- Grants the Hyperion the MAC Strike ability.<n/><n/><s val="ResearchDescription_Protoss">With all of our research into autonomous machinery and warp technology, we've managed to develop an orbital weapons platform that can be deployed and support the Hyperion while it is on a mission. When given the command, it will fire a massive metal projectile using a system of magnetic coils to drastically increase its velocity and destructive power until it hits its target with the same power as one of our nukes.<n/>It does take some time between shots however due to the difficulty it is to calculate each shot. </s>
+ConversationState/LabResearch/ResearchP5_1/Info/Tooltip=<s val="TooltipTitle_Protoss">Mass Accelerator Cannon</s><n/><s val="TooltipDescription_Protoss">Grants the Hyperion the MAC Strike Ability.</s>
+ConversationState/LabResearch/ResearchP5_2=Mercenary Warp In
+ConversationState/LabResearch/ResearchP5_2/Info/Confirmation=<s val="WarningText"><n/>Researching </s><s val="WarningHighlight">Mercenary Warp In</s><s val="WarningText"> will prevent you from researching the </s><s val="WarningHighlight">Mass Accelerator Cannon.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchP5_2/Info/Description=<s val="ResearchDescSummary_Protoss">- Wait time to call in Mercenaries is reduced to 30 seconds.</s><n/><n/><s val="ResearchDescription_Protoss">Any Mercenaries that we have hired are given a teleport beacon, allowing them to be quickly called into the fight instead of needing to take the time position themselves nearby.</s>
+ConversationState/LabResearch/ResearchP5_2/Info/Tooltip=<s val="TooltipTitle_Protoss">Mercenary Warp In</s><n/><s val="TooltipDescription_Protoss">Wait time to call in Mercenaries is reduced to 30 seconds.</s>
+ConversationState/LabResearch/ResearchZ1_1=Scaled Carapace
+ConversationState/LabResearch/ResearchZ1_1/Info/Confirmation=<s val="WarningText"><n/>Researching the </s><s val="WarningHighlight">Scaled Carapace</s><s val="WarningText"> will prevent you from researching the </s><s val="WarningHighlight">Building Regeneration.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchZ1_1/Info/Description=<s val="ResearchDescSummary_Zerg">- All base and defensive structures gain +2 armor.<n/>- This Research can be further improved by completing Zeratul missions, granting an additional +1 armor per mission completed<n/></s><s val="ResearchDescription_Zerg">Taking inspiration from how Zerg improve their own armor, we've implemented an armor method for our own structures, applying it in a series of layers rather than the single on it had been before. Currently it's only a couple of layers at the moment, but we believe that further research into this will allow for additional protection to be applied later on.</s>
+ConversationState/LabResearch/ResearchZ1_1/Info/Tooltip=<s val="TooltipTitle_Zerg">Scaled Carapace</s><n/><s val="TooltipDescription_Zerg"> All base and defensive structures gain +2 armor.</s>
+ConversationState/LabResearch/ResearchZ1_2=Regenerative Structures
+ConversationState/LabResearch/ResearchZ1_2/Info/Confirmation=<s val="WarningText"><n/>Researching the </s><s val="WarningHighlight">Regenerative Structures</s><s val="WarningText"> will prevent you from researching the </s><s val="WarningHighlight">Scaled Carapace.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchZ1_2/Info/Description=<s val="ResearchDescSummary_Zerg">- All buildings and defensive structures gain +1 HP/s regen. <n/>-This research can be further improved by completing Zeratul Missions, granting an additional +1 HP/s regen per mission completed. </s><n/><n/><s val="ResearchDescription_Zerg">We've developed an early prototype of a regenerative bio-steel, which despite our successes, is unable to be integrated with complex machinery such as our vehicles or ships. However, the outer armor of our buildings have proven to be compatible.<n/> While we believe we can later expand this to other parts of our army, we need more materials to improve on what we have.</s>
+ConversationState/LabResearch/ResearchZ1_2/Info/Tooltip=<s val="TooltipTitle_Zerg">Regenerative</s><n/><s val="TooltipDescription_Zerg">All buildings and defensive structures gain +1 HP/s regen.</s>
+ConversationState/LabResearch/ResearchZ2_1=Inside of A Worm
+ConversationState/LabResearch/ResearchZ2_1/Info/Confirmation=<s val="WarningText"><n/>Researching the </s><s val="WarningHighlight">Inside of A Worm</s><s val="WarningText"> will prevent you from researching the </s><s val="WarningHighlight">Science Donation.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchZ2_1/Info/Description=<s val="ResearchDescSummary_Zerg">- Capacity for Transports is increased by 8, and can carry larger units.</s><n/><n/><s val="ResearchDescription_Zerg">Somebody said at once that you could fit the entire human race into a worm. Well, someone on the research team took that seriously, and we've developed a method to increase the capacity that any transport that we might use.</s>
+ConversationState/LabResearch/ResearchZ2_1/Info/Tooltip=<s val="TooltipTitle_Zerg">Inside of A Worm</s><n/><s val="TooltipDescription_Zerg">Capacity for Transports is increased by 8, and can carry larger units.</s>
+ConversationState/LabResearch/ResearchZ2_2=Full of Spiders
+ConversationState/LabResearch/ResearchZ2_2/Info/Confirmation=<s val="WarningText"><n/>Researching the </s><s val="WarningHighlight">Full of Spiders</s><s val="WarningText"> will prevent you from researching the </s><s val="WarningHighlight">Inside of A Worm.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchZ2_2/Info/Description=<s val="ResearchDescSummary_Zerg">- All buildings except for the Shotgun Turret, Automated Refinery, and Repair Bay drop Spider Mines on death. Does not apply to flying structures.<n/><n/><s val="ResearchDescription_Zerg">We've taken some inspiration from how Zerg structures have broodlings stored inside of them that will burst out to attack when the structure is destroyed. As part of the construction process, spider mines are placed in a special compartment inside. When the building is destroyed, the mines will be released and rapidly burrow to give whatever destroyed it a nasty surprise.</s>
+ConversationState/LabResearch/ResearchZ2_2/Info/Tooltip=<s val="TooltipTitle_Zerg">Full of Spiders</s><n/><s val="TooltipDescription_Zerg"> All buildings will drop Spider Mines on death.</s>
+ConversationState/LabResearch/ResearchZ3_1=RX-100 Predator
+ConversationState/LabResearch/ResearchZ3_1/Info/Confirmation=<s val="WarningText"><n/>Researching the </s><s val="WarningHighlight">RX-100 Predator</s><s val="WarningText"> will prevent you from researching the </s><s val="WarningHighlight">AX-95 Predator.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchZ3_1/Info/Description=<s val="ResearchDescSummary_Zerg">- Highly Mobile skirmisher.<n/>- Periodically emits a powerful area shock attack.<n/>- Has the Grapple ability and Charged Dash ability.<n/>- Built at the Hyperion.</s><n/><n/><s val="ResearchDescription_Zerg">A modified variant of the Predator design. The original Predator was noted to not work very well with a large fighting force, and so changes were made to the design, increasing the size and armor to make it better fit a frontline role.</s>
+ConversationState/LabResearch/ResearchZ3_1/Info/Tooltip=<s val="TooltipTitle_Zerg">RX-100 Predator</s><n/><s val="TooltipDescription_Zerg">Highly Mobile skirmisher. Has a powerful area attack, Charged Dash, and Grapple Hook.</s>
+ConversationState/LabResearch/ResearchZ3_2=AX-95 Predator
+ConversationState/LabResearch/ResearchZ3_2/Info/Confirmation=<s val="WarningText"><n/>Researching the </s><s val="WarningHighlight">AX-95</s><s val="WarningText"> will prevent you from researching the </s><s val="WarningHighlight">RX-100 Predator.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchZ3_2/Info/Description=<s val="ResearchDescSummary_Zerg">- Anti-Armor assassination unit.<n/>-Has the Warp Dash ability, makes the Predator undetectable for several seconds after use.<n/>- Built at the Hyperion.</s><n/><n/><s val="ResearchDescription_Zerg">The other Predator variant currently in development.<n/><n/>The AX-95 Predator follows a similar design philosophy of the RX-100, but is meant to slip past enemy defenses and take down high priority targets. With the research done with Zerg biology, the AX's weaponry is specifically designed to counter hardened carapace armor to better fit it's design.</s>
+ConversationState/LabResearch/ResearchZ3_2/Info/Tooltip=<s val="TooltipTitle_Zerg">AX-95</s><n/><s val="TooltipDescription_Zerg">Anti-Armor assassination unit.</s>
+ConversationState/LabResearch/ResearchZ4_1/Info/Description=<s val="ResearchDescSummary_Zerg">- Specialist units start with +100 energy.<n/>- Specialist units energy regen is doubled.</s><n/><n/><s val="ResearchDescription_Zerg">This reactor has a larger energy reserve on startup and can hold a much larger charge. Now our specialist units can use their abilities the moment they hit the battlefield, and they can store more energy when idle for long periods of time.<n/><n/>Specialist units are units that use energy, such as the Medic, Ghost, and Wraith.</s>
+ConversationState/LabResearch/ResearchZ4_1/Info/Tooltip=<s val="TooltipTitle_Zerg">Cellular Reactor</s><n/><s val="TooltipDescription_Zerg">Specialist units gain +100 starting energy and double energy regen.</s>
+ConversationState/LabResearch/ResearchZ4_2/Info/Description=<s val="ResearchDescSummary_Zerg">- Ships and vehicles gain life regen at a rate of 5 HP/s.</s><n/><n/><s val="ResearchDescription_Zerg">The Bio-Steel protoype has been perfected and is now ready for use with our ships and vehicles. This material uses internal Nanobots to repair any damage the hull sustains.</s>
+ConversationState/LabResearch/ResearchZ4_2/Info/Tooltip=<s val="TooltipTitle_Zerg">Regenerative Bio-Steel</s><n/><s val="TooltipDescription_Zerg">Ships and vehicles gain life regen at a rate of 5 HP/s.</s>
+ConversationState/LabResearch/ResearchZ5_1=Psi Emitter
+ConversationState/LabResearch/ResearchZ5_1/Info/Confirmation=<s val="WarningText"><n/>Researching the </s><s val="WarningHighlight">Psi Emitter</s><s val="WarningText"> will prevent you from researching the </s><s val="WarningHighlight">Psi Disrupter.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchZ5_1/Info/Description=<s val="ResearchDescSummary_Zerg">- Defensive structure.<n/>- Can lure zerg units to attack it first, reducing the attack range of any zerg nearby.<n/><n/></s><s val="ResearchDescription_Zerg">After several hours of arguing with Commander Raynor with constructing a new version of the Psi Emitter, this has been the accepted design. While its range has been drastically reduced, the effects remain the same, driving nearby zerg into a frenzy and forcing them to attack the emitter instead of our forces.<n/><n/>While the effects do cause the Zerg to have enhanced speeds, it also gives them significant tunnel vision on destroying the emitter that they no longer attack from range, diving directly into melee. A bit of a risk, but it seems well worth it.</s>
+ConversationState/LabResearch/ResearchZ5_1/Info/Tooltip=<s val="TooltipTitle_Zerg">Psi Emitter</s><n/><s val="TooltipDescription_Zerg">Defensive structure. Can lure zerg units to attack it first, reducing the attack range of any zerg nearby..</s>
+ConversationState/LabResearch/ResearchZ5_2/Info/Confirmation=<s val="WarningText"><n/>Researching the </s><s val="WarningHighlight">Psi Disrupter</s><s val="WarningText"> will prevent you from researching the </s><s val="WarningHighlight">Psi Emitter.</s> <s val="WarningText">Once made, the choice will be irreversible.<n/><n/>Would you like to confirm this research decision?<n/><n/></s>
+ConversationState/LabResearch/ResearchZ5_2/Info/Description=<s val="ResearchDescSummary_Zerg">- Defensive structure.<n/>-Has the Confusion Ability that it will cast on nearby zerg units.</s><n/><n/><s val="ResearchDescription_Zerg">Studies conducted by the United Earth Directorate of the Psi Disruptor from Tarsonis has shown that if a group of Zerg are bombarded with concentrated energies, it will temporarily sever their connection to the Zerg hivemind and turn them feral, causing them to attack each other instead of their original target.</s>
+ConversationState/LabResearch/ResearchZ5_2/Info/Tooltip=<s val="TooltipTitle_Zerg">Psi Disrupter</s><n/><s val="TooltipDescription_Zerg">Defensive structure. Has the Confusion Ability that it will cast on nearby zerg units.</s>
+ConversationState/Tech/Tech_Banshee_1=Stealth Armor Plating
+ConversationState/Tech/Tech_Banshee_1/Info/Description=<s val="TechSummary">- Grants the EMP Ability.</s><n/><n/><s val="TechDescription">With the Dullahan's focus on being a long range bomber, a set of EMP missiles have been added to its loadout so it can disrupt efforts to defend against its attacks.</s>
+ConversationState/Tech/Tech_Banshee_1/Info/Tooltip=<s val="TooltipTitle_Tech">EMP Missile Battery</s><n/><s val="TooltipDescription_Tech">Grants the EMP Ability.</s>
+ConversationState/Tech/Tech_Banshee_2=EMP Missile Battery
+ConversationState/Tech/Tech_Banshee_2/Info/Description=<s val="TechSummary">- Cloaking does not cost energy to activate, and can stay cloaked for about 66% longer.</s><n/><n/><s val="TechDescription">Wolfe Industries offers a new model of Banshee that embeds light-dampening materials into the hull. This new hull material requires far less energy to conceal and makes it much easier for the Banshee to maintain cloak once initiated.</s>
+ConversationState/Tech/Tech_Banshee_2/Info/Tooltip=<s val="TooltipTitle_Tech">Stealth Armor Plating</s><n/><s val="TooltipDescription_Tech">Cloaking does not cost energy to activate, and can stay cloaked for about 66% longer.</s>
+ConversationState/Tech/Tech_Battlecruiser_1=Nuke Optimization
+ConversationState/Tech/Tech_Battlecruiser_1/Info/Description=<s val="TechSummary">- Nuke build time is reduced by 90 seconds.</s><n/><n/><s val="TechDescription">More space in the Gryphon Battlecruiser is dedicated to the production of nuclear missiles, allowing it to produce them in a timely fashion.</s>
+ConversationState/Tech/Tech_Battlecruiser_1/Info/Tooltip=<s val="TooltipTitle_Tech">Nuclear Optimization</s><n/><s val="TooltipDescription_Tech">Nuke build time is reduced by 90 seconds..</s>
+ConversationState/Tech/Tech_Battlecruiser_2=Warp Jump
+ConversationState/Tech/Tech_Battlecruiser_2/Info/Description=<s val="TechSummary">- Grants the Warp Jump Ability</s><n/><n/><s val="TechDescription">Adjustments are made to the Gryphon's navigational computer to allow for short range jumps while in atmosphere. </s>
+ConversationState/Tech/Tech_Battlecruiser_2/Info/Tooltip=<s val="TooltipTitle_Tech">Warp Jump</s><n/><s val="TooltipDescription_Tech">Grants the Warp Jump Ability</s>
+ConversationState/Tech/Tech_Bunker_1=Reinforced Structure
+ConversationState/Tech/Tech_Bunker_1/Info/Description=<s val="TechSummary">- Bunkers gain 25% damage reduction from incoming attacks.</s><n/><n/><s val="TechDescription">Most of the internals of this Bunker have been replaced with NeoSteel, and the armor on the outside has been adjusted to better mitigate incoming damage.</s>
+ConversationState/Tech/Tech_Bunker_1/Info/Tooltip=<s val="TooltipTitle_Tech">Reinforced Structure</s><n/><s val="TooltipDescription_Tech">Bunkers gain 25% damage reduction from incoming attacks.</s>
+ConversationState/Tech/Tech_Bunker_2=Necrodermis Armor
+ConversationState/Tech/Tech_Bunker_2/Info/Description=<s val="TechSummary">- Increased Bunker Slots by 2, and gain 2 HP/s regen.</s><n/><n/><s val="TechDescription"> The bunker is coated in an experimental metal which is capable of self-repair as well as generating a localized warp effect to allow for more soldiers to fit inside of it.</s>
+ConversationState/Tech/Tech_Bunker_2/Info/Tooltip=<s val="TooltipTitle_Tech">Necrodermis Armor</s><n/><s val="TooltipDescription_Tech">Increased Bunker Slots by 2, and gain 2 HP/s regen.</s>
+ConversationState/Tech/Tech_CommandCenter_1=Yamato Cannon Improvements
+ConversationState/Tech/Tech_CommandCenter_1/Info/Description=<s val="TechSummary">-Energy cost of Hyperion Yamato Cannon is reduced by 50%.</s><n/><n/><s val="TechDescription">Swann discovered that there was a fault in the Hyperion's weapon systems that was causing excess power to be drawn to the Yamato Cannon. It took some work, but now we can use the thing more reliably without the lights flickering.</s>
+ConversationState/Tech/Tech_CommandCenter_1/Info/Tooltip=<s val="TooltipTitle_Tech">Yamato Cannon Improvements</s><n/><s val="TooltipDescription_Tech">Energy cost of Hyperion Yamato Cannon is reduced by 50%.</s>
+ConversationState/Tech/Tech_CommandCenter_2=Tactical Jump
+ConversationState/Tech/Tech_CommandCenter_2/Info/Description=<s val="TechSummary">- Grants the Tactical Jump Ability to the Hyperion.</s><n/><n/><s val="TechDescription">The navigation computer has been re-calibrated to allow for short range jumps while in atmosphere, allowing us to escape dangerous situations, or quickly jump back to base to help defend against attack.</s>
+ConversationState/Tech/Tech_CommandCenter_2/Info/Tooltip=<s val="TooltipTitle_Tech">Tactical Jump</s><n/><s val="TooltipDescription_Tech">Grants the Tactical Jump Ability to the Hyperion.</s>
+ConversationState/Tech/Tech_Diamondback_1=Multi-Thread Treads
+ConversationState/Tech/Tech_Diamondback_1/Info/Description=<s val="TechSummary">- Leon Tanks gain 25% movement speed increase.</s><n/><n/><s val="TechDescription">Significant reworking of the Leon's engine and treads, along with installation of a optimized computer system will allow drivers to let the Leon traverse environments at increased speeds.</s>
+ConversationState/Tech/Tech_Diamondback_1/Info/Tooltip=<s val="TooltipTitle_Tech">Multi-Thread Treads</s><n/><s val="TooltipDescription_Tech">Leon Tanks gain 25% movement speed increase.</s>
+ConversationState/Tech/Tech_Diamondback_2=Impact Gel
+ConversationState/Tech/Tech_Diamondback_2/Info/Description=<s val="TechSummary">- Leon Tanks gain an additonal 10% damage reduction.</s><n/><n/><s val="TechDescription">Bennet Industries has recently developed a new type of material designed to protect their cargo by coating it with a gel-like material. While that may not be useful by itself, used in conjunction with the Leon's compartmentalized  armor will further increase it's combat durability.</s>
+ConversationState/Tech/Tech_Diamondback_2/Info/Tooltip=<s val="TooltipTitle_Tech">Impact Gell</s><n/><s val="TooltipDescription_Tech">Leon Tanks gain an additonal 10% damage reduction.</s>
+ConversationState/Tech/Tech_Firebat_1=White Phosphorus Flamers
+ConversationState/Tech/Tech_Firebat_1/Info/Description=<s val="TechSummary">- Infernos gain a 50% larger area attack, and reduce the armor of enemies while on fire.</s><n/><n/><s val="TechDescription"> Add a dash of white phosphorus to the fuel tanks of and watch those Zerg fry! This stuff is pretty neat actually, even effective against armored targets. Wonder why this stuff isn't used anymore. </s>
+ConversationState/Tech/Tech_Firebat_1/Info/Tooltip=<s val="TooltipTitle_Tech">White Phosphorus Flamers</s><n/><s val="TooltipDescription_Tech">Infernos gain a 50% larger area attack, and reduce the armor of enemies while on fire.</s>
+ConversationState/Tech/Tech_Firebat_2=Hardened Armor
+ConversationState/Tech/Tech_Firebat_2/Info/Description=<s val="TechSummary">- Infernos gain +75 Hp and +1 Armor.</s><n/><n/><s val="TechDescription"> Honestly, this is just slapping a bunch of armor plates on the suit. Not like these guys could get any bulkier.</s>
+ConversationState/Tech/Tech_Firebat_2/Info/Tooltip=<s val="TooltipTitle_Tech">Hardened Armor</s><n/><s val="TooltipDescription_Tech">Infernos gain +75 HP and +1 armor.</s>
+ConversationState/Tech/Tech_Ghost_1=Multi-Spectrum Scanner
+ConversationState/Tech/Tech_Ghost_1/Info/Description=<s val="TechSummary">- Vipers gain the Target Lock Ability.</s><n/><n/><s val="TechDescription">Improvements are made to the Viper's headgear, allowing it to determine vulnerabilities in enemy combatants, and then share that information to nearby allies.<n/><n/>.
+ConversationState/Tech/Tech_Ghost_1/Info/Tooltip=<s val="TooltipTitle_Tech">Multi-Spectrum Scanner</s><n/><s val="TooltipDescription_Tech">Vipers gain the Target Lock Ability.</s>
+ConversationState/Tech/Tech_Ghost_2=Crisis Suit
+ConversationState/Tech/Tech_Ghost_2/Info/Description=<s val="TechSummary">- Vipers gain +50 HP, +2 Armor, and 50% increased Energy Regen.</s><n/><n/><s val="TechDescription">A repurposed combat suit to increase the survivability of Vipers while in the field, along with a new reactor in order to account for the new equipment, allowing them to be recharged more quickly.</s>
+ConversationState/Tech/Tech_Ghost_2/Info/Tooltip=<s val="TooltipTitle_Tech">Crisis Suit</s><n/><s val="TooltipDescription_Tech">Vipers gain +50 HP, +2 Armor, and 50% increased Energy Regen.</s>
+ConversationState/Tech/Tech_Goliath_1=Ferro-Fibrous Armor
+ConversationState/Tech/Tech_Goliath_1/Info/Description=<s val="TechSummary">- UED Goliaths gain +2 armor and Mineral cost reduced by 50.</s><n/><n/><s val="TechDescription"> Utilizing a weave of various metals and mineral fibers, the strength of the Goliath's armor is increased, and provides more protection for less material used. This also has the added benefit of making this unit much cheaper to produce.</s>
+ConversationState/Tech/Tech_Goliath_1/Info/Tooltip=<s val="TooltipTitle_Tech">Ferro-Fibrous Armor</s><n/><s val="TooltipDescription_Tech">UED Goliaths gain +2 armor and Mineral cost reduced by 50.</s>
+ConversationState/Tech/Tech_Goliath_2=Targeting Computer
+ConversationState/Tech/Tech_Goliath_2/Info/Description=<s val="TechSummary">- UED Goliath weapons gain +2 range.</s><n/><n/><s val="TechDescription">The computer system these Goliaths were using are pretty outdated, to the point the pilots usually use their Mark I eyeballs instead to aim. It'd be a bit costly to refit them, but the benefits would be well worth it.</s>
+ConversationState/Tech/Tech_Goliath_2/Info/Tooltip=<s val="TooltipTitle_Tech">Tergeting Computer</s><n/><s val="TooltipDescription_Tech">UED Goliaths gain +2 weapons range.</s>
+ConversationState/Tech/Tech_Hellion_1=Enhanced Greek Fire
+ConversationState/Tech/Tech_Hellion_1/Info/Description=<s val="TechSummary">- Grants the Flame On ability to the Chimera</s><n/><n/><s val="TechDescription"> Additional tanks of fuel for the Chimera's flamethrower are attached to the weapon system. When activated, the tanks pump additional fuel to the turret to increase its offensive capabilities for a short period. While this is highly dangerous, there is no denying the effectiveness of it in combat  </s>
+ConversationState/Tech/Tech_Hellion_1/Info/Tooltip=<s val="TooltipTitle_Tech">Overcharged Flamer</s><n/><s val="TooltipDescription_Tech">Unlock the Flame On ability for the Chimera.</s>
+ConversationState/Tech/Tech_Hellion_2=Overcharged Flamers
+ConversationState/Tech/Tech_Hellion_2/Info/Description=<s val="TechSummary">- Increases area of attack by 10% and +10 vs. Biological.</s><n/><n/><s val="TechDescription">The chemical composition of the Chimera's fuel tanks are altered, increasing the range it can cover with flames, as well as the intensity of them. It also turns them a nice shade of green.</s>
+ConversationState/Tech/Tech_Hellion_2/Info/Tooltip=<s val="TooltipTitle_Tech">Enhanced Greek Fire</s><n/><s val="TooltipDescription_Tech">Increases area of attack by 10% and +10 vs. Biological.</s>
+ConversationState/Tech/Tech_Marauder_1=Shortened Fuses
+ConversationState/Tech/Tech_Marauder_1/Info/Description=<s val="TechSummary">- Strikers gain +1 weapons range.</s><n/><n/><s val="TechDescription">Magnetic rails are placed within the barrel of the Stickler, making it launch bombs a further distance.</s>
+ConversationState/Tech/Tech_Marauder_1/Info/Tooltip=<s val="TooltipTitle_Tech">Mag-Rail Projectiles</s><n/><s val="TooltipDescription_Tech">Striker gain +1 Weapon Range.</s>
+ConversationState/Tech/Tech_Marauder_2=Mag-Rail Projectiles
+ConversationState/Tech/Tech_Marauder_2/Info/Description=<s val="TechSummary">- Striker bomb fuse time is reduced by .5 seconds.</s><n/><n/><s val="TechDescription">With some careful calibrations and cutting off some specific parts, the Striker bombs will go off much faster now. Makes waiting for it to go off on a charging ultra much less nerve-wracking now.</s>
+ConversationState/Tech/Tech_Marauder_2/Info/Tooltip=<s val="TooltipTitle_Tech">Shortened Fuses</s><n/><s val="TooltipDescription_Tech">Striker bomb fuse time is reduced by .5 seconds.</s>
+ConversationState/Tech/Tech_Marine_1=Dual Magnetic Chamber
+ConversationState/Tech/Tech_Marine_1/Info/Description=<s val="TechSummary">-Raiders attack speed increased by 10% and range by 1.</s><n/><n/><n/><s val="TechDescription"> The Raider's C-15 Guass Rifle is upgraded with a new firing mechanism, increasing the firing rate, as well as stabilizing the trajectory of the bullets being fired, increasing their effective range. Of course, more dakka is always a good thing. </s>
+ConversationState/Tech/Tech_Marine_1/Info/Tooltip=<s val="TooltipTitle_Tech">Dual Magnetic Chamber</s><n/><s val="TooltipDescription_Tech">Raiders attack speed increased by 10% and range by 1..</s>
+ConversationState/Tech/Tech_Marine_2=Body Armor Optimization
+ConversationState/Tech/Tech_Marine_2/Info/Description=<s val="TechSummary">- Raiders gain +<d ref="Upgrade,BodyArmorOptimization,EffectArray[0].Value"/> life.</s><n/><n/><s val="TechDescription">M98 Various flaws and weaknesses with the Raider's combat suit are fixed or reinforced, drastically improving their survivability in combat. Just ignore the complaints about how tight the suit is now.</s>
+ConversationState/Tech/Tech_Marine_2/Info/Tooltip=<s val="TooltipTitle_Tech">Body Armor Optimization</s><n/><s val="TooltipDescription_Tech">Increases Marine life by 35.</s>
+ConversationState/Tech/Tech_Medic_1=Dual Dispensers
+ConversationState/Tech/Tech_Medic_1/Info/Description=<s val="TechSummary">- Medic gain 2 HP/s regen.</s><n/><n/><s val="TechDescription">Keeping medics alive can be hard, not to mention when you need to waste energy healing them.  One of Stetmann's old contacts might have a solution for that though. They've got some sort of experimental serum combined with Zerg DNA that grants minor regeneration to whoever takes it. They've promised that there's no risk of infestation and only minor mutations.</s>
+ConversationState/Tech/Tech_Medic_1/Info/Tooltip=<s val="TooltipTitle_Tech">Medic Regeneration Seurm</s><n/><s val="TooltipDescription_Tech">Medics gain health regen.</s>
+ConversationState/Tech/Tech_Medic_2=Medic Regeneration Serum
+ConversationState/Tech/Tech_Medic_2/Info/Description=<s val="TechSummary">- Medics heal two targets at once.</s><n/><s val="TechSummary">- Medics use 35% less energy per heal.</s><n/><n/><s val="TechDescription">With the limited number of medics that can be put out on the field, the engineers have scrapped some of the spare parts from other projects and cobbled a better version of the Medic's healing dispenser. It's one hell of an improvement that's for sure, even if the Medics claim that their hands tingle after using it. </s>
+ConversationState/Tech/Tech_Medic_2/Info/Tooltip=<s val="TooltipTitle_Tech">Dual Dispensers</s><n/><s val="TooltipDescription_Tech">Rescue Medics heal two targets at at time and more efficently.</s>
+ConversationState/Tech/Tech_Medivac_1=Fuel Injectors
+ConversationState/Tech/Tech_Medivac_1/Info/Description=<s val="TechSummary">- The Pegasus gains a weapon that can attack air and ground units, and +1 armor.</s><n/><n/><s val="TechDescription">The pegasus is given the weapon systems of the pile of disassembled Wraith parts in the Armory, along with adding on some more armor to help it better defend itself. <n/><n/>Our pilots would be very happy to get this upgrade, especially if they have to keep dropping troops in the middle of an enemy base.</s>
+ConversationState/Tech/Tech_Medivac_1/Info/Tooltip=<s val="TooltipTitle_Tech">Advanced Healing AI</s><n/><s val="TooltipDescription_Tech">The Pegasus gains a weapon that can attack air and ground units, and +1 armor.</s>
+ConversationState/Tech/Tech_Medivac_2=Self Defense Protocols
+ConversationState/Tech/Tech_Medivac_2/Info/Description=<s val="TechSummary">- Pegasus movement speed increased by 25%.</s><n/><n/><s val="TechDescription">Using fuel mixtures usually reserved for high speed races, the Pegasus will be able to quickly move troops around the battlefield. Thankfully our dropship pilots are brave enough to be willing to fly something that fast, but they'll be wanting free drinks at the cantina in exchange.</s>
+ConversationState/Tech/Tech_Medivac_2/Info/Tooltip=<s val="TooltipTitle_Tech">Fuel Injectors</s><n/><s val="TooltipDescription_Tech">Pegasus movement speed increased by 25%.</s>
+ConversationState/Tech/Tech_MissileTurret_1=Seismic Sensors
+ConversationState/Tech/Tech_MissileTurret_1/Info/Description=<s val="TechSummary">- Missile Turrets gain +2 weapon range and +10 damage vs. Armored.</s><n/><n/><s val="TechDescription">Given our opposition tends to use long range weaponry to take out our turret defenses, we've decided to get ahead of the curve and replace the Arrow IV missiles with improved version that have superior range and can punch through most armor.</s>
+ConversationState/Tech/Tech_MissileTurret_1/Info/Tooltip=<s val="TooltipTitle_Tech">Advanced Tactical Missiles</s><n/><s val="TooltipDescription_Tech">Missile Turrets gain +2 weapon range and +10 damage vs. Armored.</s>
+ConversationState/Tech/Tech_MissileTurret_2=Advanced Tactical Missiles
+ConversationState/Tech/Tech_MissileTurret_2/Info/Description=<s val="TechSummary">- Missile Turrets gain +5 vision and detection range.</s><n/><n/><s val="TechDescription">A set of sensors purchased from the Kel-Morian Combine. Originally meant to search for underground caverns and possible earthquake locations, this has been redesigned to further improve the Turrets detection capabilities to sense enemy units from further away..</s>
+ConversationState/Tech/Tech_MissileTurret_2/Info/Tooltip=<s val="TooltipTitle_Tech">Seismic Sensors</s><n/><s val="TooltipDescription_Tech">Missile Turrets gain +5 vision and detection range.</s>
+ConversationState/Tech/Tech_Reaper_1=U-438 Rounds
+ConversationState/Tech/Tech_Reaper_1/Info/Description=<s val="TechSummary">- Harvesters gain rapid healing while out of combat.</s><n/><n/><s val="TechDescription">An enhanced version of the regeneration serum that was meant for our medics.<n/><n/>Why aren't they getting this one? Cause these cause enhanced aggression while under the effects of this serum. Hardly fitting for a support troop, let alone one in charge of keeping everyone else alive.<n/>
+ConversationState/Tech/Tech_Reaper_1/Info/Tooltip=<s val="TooltipTitle_Tech">Combat Serum</s><n/><s val="TooltipDescription_Tech">Harvesters gain rapid healing out of combat.</s>
+ConversationState/Tech/Tech_Reaper_2=Combat Serum
+ConversationState/Tech/Tech_Reaper_2/Info/Description=<s val="TechSummary">- Harvesters gain +2 range.</s><n/><s val="TechSummary">- Harvesters do an additional +5 damage to light armor.</s><n/><n/><s val="TechDescription">U-238 Experimental gyrojet rounds, packed with additional explosives and a hardened neosteel tip. This design allows for further range and cause devastating damage against organic matter and lightly armored targets.</s>
+ConversationState/Tech/Tech_Reaper_2/Info/Tooltip=<s val="TooltipTitle_Tech">U-438 Rounds</s><n/><s val="TooltipDescription_Tech">Harvesters gain +2 range and do an additional +5 damage to light armor.</s>
+ConversationState/Tech/Tech_SCV_1=Mining Efficiency
+ConversationState/Tech/Tech_SCV_1/Info/Description=<s val="TechSummary">- SCVs mine 33% faster.</s><n/><n/><s val="TechDescription">Given that our SCVs are only capable of gathering resources for the most part, we've purchased some specialized mining equipment from the Kel-Morian Combine to equip them with so they can gather those minerals even faster now.</s> 
+ConversationState/Tech/Tech_SCV_1/Info/Tooltip=<s val="TooltipTitle_Tech">Mining Efficiency</s><n/><s val="TooltipDescription_Tech">SCVs mine 33% faster.</s>
+ConversationState/Tech/Tech_SCV_2=Combat Frames
+ConversationState/Tech/Tech_SCV_2/Info/Description=<s val="TechSummary">-SCVs gain +100 Health, +2 armor, and +10 weapon damage.</s><n/><n/><s val="TechDescription">Our SCV workers got tired of always being harassed by battlecruisers warping into the mineral line, banelings making a beeline for them, and just everything generally trying to kill them in particular. So they decided to pool their fund and purchased a combat frame design meant to fit on the SCVs, giving them a fighting chance against all of this worker harassment.</s>
+ConversationState/Tech/Tech_SCV_2/Info/Tooltip=<s val="TooltipTitle_Tech">Combat Frames</s><n/><s val="TooltipDescription_Tech">SCVs gain +100 Health, +2 armor, and +10 weapon damage.</s>
+ConversationState/Tech/Tech_SiegeTank_1=AMS Recalibrations
+ConversationState/Tech/Tech_SiegeTank_1/Info/Description=<s val="TechSummary">- AMS active duration is increased to 10 seconds.</s><n/><n/><s val="TechDescription">The Gunwalker gets a set of improved heatsinks and a much needed coolant system, doubling the time the Anti Missile System can stay active, and allow it to be used more consistently.</s>
+ConversationState/Tech/Tech_SiegeTank_1/Info/Tooltip=<s val="TooltipTitle_Tech">AMS Recalibrations</s><n/><s val="TooltipDescription_Tech">AMS active duration is increased to 10 seconds.</s>
+ConversationState/Tech/Tech_SiegeTank_2/Info/Description=<s val="TechSummary">- The Gunwalker is now a detector.</s><n/><n/><s val="TechDescription">A rather easy if expensive upgrade to the Gunwalker, combining its radar system with the sensors that our Missile Turrets use to give it the benefit of both.</s>
+ConversationState/Tech/Tech_SiegeTank_2/Info/Tooltip=<s val="TooltipTitle_Tech">Mobile Detection</s><n/><s val="TooltipDescription_Tech">The Gunwalker is now a detector.</s>
+ConversationState/Tech/Tech_Spectre_1=Neural Surgery
+ConversationState/Tech/Tech_Spectre_1/Info/Description=<s val="TechSummary">- Vizards now gain 10 Energy per enemy hit.</s><n/><n/><s val="TechDescription">Medical examinations reveal that the Spectres freed from New Folsom had additional neural inhibitors in order to prevent them from fully accessing their psionic abilities. Without buying the needed equipment and specialists, attempts at removing these inhibitors is strongly discouraged.<n/><n/>.</s>
+ConversationState/Tech/Tech_Spectre_1/Info/Tooltip=<s val="TooltipTitle_Tech">Neural Surgery</s><n/><s val="TooltipDescription_Tech">Vizards now gain 10 Energy per enemy hit.</s>
+ConversationState/Tech/Tech_Spectre_2=Terrazine Injections
+ConversationState/Tech/Tech_Spectre_2/Info/Description=<s val="TechSummary">- Vizards gain +100 Energy, +50 Starting Energy, and +25 HP.</s><n/><n/><s val="TechDescription">Vizards are given a series of additional injections of Terrazine in order to boost their already potent psionic abilities, with some added physical benefits. While there are concerns related to mental stability, our scientists are confident that they can curb the worst of them mandated therapy sessions.</s>
+ConversationState/Tech/Tech_Spectre_2/Info/Tooltip=<s val="TooltipTitle_Tech">Terrazine Injections</s><n/><s val="TooltipDescription_Tech">Vizards gain +100 Energy, +50 Starting Energy, and +25 HP.</s>
+ConversationState/Tech/Tech_Thor_1=Siege Cannon Anti-Air
+ConversationState/Tech/Tech_Thor_1/Info/Description=<s val="TechSummary">- Gives the Mjolnir an anti-air weapon that attacks Massive units while in Siege mode.</s><n/><n/><s val="TechDescription">Improvements are made to the siege weaponry on the Mjolnir to allow it to have enough elevation to shoot at air targets. However, due to slow moving nature of the siege cannons, this is only really viable against significantly large enough targets.</s>
+ConversationState/Tech/Tech_Thor_1/Info/Tooltip=<s val="TooltipTitle_Tech">Siege Cannon Anti-Air</s><n/><s val="TooltipDescription_Tech">Gives the Mjolnir an anti-air weapon that attacks Massive units while in Siege mode</s>
+ConversationState/Tech/Tech_Thor_2=Quick Siege
+ConversationState/Tech/Tech_Thor_2/Info/Description=<s val="TechSummary">- The Moljnir now transforms 50% faster between both modes.</s><n/><n/><s val="TechDescription">Combat data from the fight on Korhal revealed that there was an error in the construction method that was used to build the Mjolnir, which was causing the slow transformation times.It would take some work recalibrating the construction program and testing for any faults, but it would resolve the issue.</s>
+ConversationState/Tech/Tech_Thor_2/Info/Tooltip=<s val="TooltipTitle_Tech">Quick Siege</s><n/><s val="TooltipDescription_Tech">The Moljnir now transforms 50% faster between both modes.</s>
+ConversationState/Tech/Tech_Viking_1=Artemis Systems
+ConversationState/Tech/Tech_Viking_1/Info/Description=<s val="TechSummary">- Brigands gain +3 missile range.</s><n/><s val="TechSummary">- Brigands gain +1 cannon range.</s><n/><n/><s val="TechDescription">Bellerephon offers an improved loadout for the Viking that adds a longer-range anti-air missile. Improved barrels for the Gatling Cannon has also been added for increased range in ground assaults.</s>
+ConversationState/Tech/Tech_Viking_1/Info/Tooltip=<s val="TooltipTitle_Tech">Artemis Systems</s><n/><s val="TooltipDescription_Tech">Brigand gain +3 missile range and +1 cannon range.</s>
+ConversationState/Tech/Tech_Viking_2=Armored Core
+ConversationState/Tech/Tech_Viking_2/Info/Description=<s val="TechSummary">- Brigands gain +2 armor, and transform 50% faster.</s><n/><n/><s val="TechDescription">The design of the Brigand is refitted with a centralized core, and the external aspects replaced with more durable materials. This will allow pilots to stay in prolong conflicts, as well as improve on the transformation capabilities now that there are less moving parts to worry about.</s>
+ConversationState/Tech/Tech_Viking_2/Info/Tooltip=<s val="TooltipTitle_Tech">Armored Core</s><n/><s val="TooltipDescription_Tech">Brigands gain +2 armor, and transform 50% faster..</s>
+ConversationState/Tech/Tech_Vulture_1=3D Bomb Printing
+ConversationState/Tech/Tech_Vulture_1/Info/Description=<s val="TechSummary">- Spider Mines are now replenished every 30 seconds.</s><n/><n/><s val="TechDescription">A repurposed ammo printing unit is installed on the Hades, allowing it to slowly rebuild its stock of Spider Mines over time.</s>
+ConversationState/Tech/Tech_Vulture_1/Info/Tooltip=<s val="TooltipTitle_Tech">3D Bomb Printing</s><n/><s val="TooltipDescription_Tech">Spider Mines are now replenished every 30 seconds.</s>
+ConversationState/Tech/Tech_Vulture_2=Endo-Steel Structure
+ConversationState/Tech/Tech_Vulture_2/Info/Description=<s val="TechSummary">- Increases Hades HP by 50 and armor by 1.</s><n/><n/><s val="TechDescription">The internal frame of the Hades is replaced with a more optimized version of it. This along with using more modern materials allows better protection and survivability for the Hades and those riding inside of it.</s>
+ConversationState/Tech/Tech_Wraith_1=Ammo Refit
+ConversationState/Tech/Tech_Wraith_1/Info/Description=<s val="TechSummary">- The Brynhildr fires an additional 2 missiles per volley.</s><n/><n/><s val="TechDescription">The previous missile pod mounts are replaced with a smaller, more streamlined version, allowing for more missiles to be loaded onto the Brynhildr, and to fire more missile at a time.</s>
+ConversationState/Tech/Tech_Wraith_1/Info/Tooltip=<s val="TooltipTitle_Tech">Ammo Refit</s><n/><s val="TooltipDescription_Tech">The Brynhildr fires an additional 2 missiles per volley.</s>
+ConversationState/Tech/Tech_Wraith_2=Accelerator Circuitry
+ConversationState/Tech/Tech_Wraith_2/Info/Description=<s val="TechSummary">- Movement speed of the Brynhildr is increased by 25%.</s><n/><n/><s val="TechDescription">Originally Accelerator Circuitry equipment  was meant for improving the speed of mechs and vehicles, but was dropped as overuse of it would often cause severe damage that was hard to fix. However, the engines on the Brynhildr seems to be compatible, and test have proven that there is minimal risk of damage. </s>
+ConversationState/Tech/Tech_Wraith_2/Info/Tooltip=<s val="TooltipTitle_Tech">Accelerator Circuitry</s><n/><s val="TooltipDescription_Tech">Movement speed of the Brynhildr is increased by 25%.</s>
+Damage Reduction increased to 20%, and deals more damage.=Damage Reduction increased to 20%, and deals more damage.
+DocInfo/DescLong=Completely devoid of any description whatsoever.
+DocInfo/DescShort=Any
+DocInfo/Name=Just Another StarCraft II Map
+Effect/Name/AMSActiveAB=AMS Active AB
+Effect/Name/AMSDisabledAB=AMS Disabled AB
+Effect/Name/AMSDisabledRB=AMS Disabled RB
+Effect/Name/AMSSet=AMS Set
+Effect/Name/AmmoPrintingApplyBehavior=Ammo Printing Apply Behavior
+Effect/Name/AmmoPrintingSearchArea=Ammo Printing Search Area
+Effect/Name/AntiArmorRifleDamage=Anti-Armor Rifle Damage
+Effect/Name/AntiMaterialRifleDamage=Anti-Material Rifle Damage
+Effect/Name/AntiPersonnelPodApplyControllerBehavior=Anti-Personnel Pod (Apply Controller Behavior Level 1)
+Effect/Name/AntiPersonnelPodApplyForce=Anti-Personnel Pod (Apply Force)
+Effect/Name/AntiPersonnelPodCreatePersistentLevel1=Anti-Personnel Pod (Create Persistent Level 1)
+Effect/Name/AntiPersonnelPodImpactSet=Anti-Personnel Pod (Impact Set Level 1)
+Effect/Name/AntiPersonnelPodSearchLevel1=Anti-Personnel Pod (Search Level 1)
+Effect/Name/AntiPersonnelPodsApplyContollerLevel3=Anti-Personnel Pods (Apply Controller Level 3)
+Effect/Name/AntiPersonnelPodsApplyControllerLevel2=Anti-Personnel Pods (Apply Controller Level 2)
+Effect/Name/AntiPersonnelPodsApplyHeightStunBehaviorLevel1=Anti-Personnel Pods (Apply Height/Stun Behavior Level 1)
+Effect/Name/AntiPersonnelPodsApplyHeightStunLevel2=Anti-Personnel Pods (Apply Height/Stun Level 2)
+Effect/Name/AntiPersonnelPodsApplyHeightStunLevel3=Anti-Personnel Pods (Apply Height/Stun Level 3)
+Effect/Name/AntiPersonnelPodsCreatePersistentLevel2=Anti-Personnel Pods (Create Persistent Level 2)
+Effect/Name/AntiPersonnelPodsCreatePersistentLevel3=Anti-Personnel Pods (Create Persistent Level 3)
+Effect/Name/AntiPersonnelPodsDamage=Anti-Personnel Pods (Damage Level 1)
+Effect/Name/AntiPersonnelPodsDamageLevel2=Anti-Personnel Pods (Damage Level 2)
+Effect/Name/AntiPersonnelPodsDamageLevel3=Anti-Personnel Pods (Damage Level 3)
+Effect/Name/AntiPersonnelPodsImpactSetLevel2=Anti-Personnel Pods (Impact Set Level 2)
+Effect/Name/AntiPersonnelPodsImpactSetLevel3=Anti-Personnel Pods (Impact Set Level 3)
+Effect/Name/AntiPersonnelPodsModifyUnitLower=Anti-Personnel Pods (Modify Unit Lower)
+Effect/Name/AntiPersonnelPodsModifyUnitRaise=Anti-Personnel Pods (Modify Unit Raise)
+Effect/Name/AntiPersonnelPodsSearchAreaLevel2=Anti-Personnel Pods (Search Area Level 2)
+Effect/Name/AntiPersonnelPodsSearchAreaLevel3=Ant-iPersonnel Pods Search Area Level 3
+Effect/Name/ApplyAMS=Apply AMS
+Effect/Name/ApplyAMS2=Apply AMS
+Effect/Name/ApplyAMS3=Apply AMS
+Effect/Name/ApplyAlphaStrike=Apply Alpha Strike
+Effect/Name/ApplyDebilitateLevel1=Apply Debilitate Level 1
+Effect/Name/ApplyDebilitateLevel2=Apply Debilitate Level 2
+Effect/Name/ApplyDebilitateLevel3=Apply Debilitate Level 3
+Effect/Name/ApplyGjallarhorn=Apply Gjallarhorn
+Effect/Name/ApplyGjallarhorn2=Apply Gjallarhorn
+Effect/Name/ApplyGrphyonWarpindelay=Apply Grphyon Warp in delay
+Effect/Name/ApplySlow=Apply EMP Slow
+Effect/Name/ArmorLockAB=Armor Lock AB
+Effect/Name/ArmoredCoreAirRemove=Armored Core Air Remove
+Effect/Name/ArmoredCoreAirRemove2=Armored Core Air Remove
+Effect/Name/ArmoredCoreApplyAir=Armored Core Apply Air
+Effect/Name/ArmoredCoreApplyAir2=Armored Core Apply Air
+Effect/Name/ArmoredCoreApplyAir3=Armored Core Apply Air
+Effect/Name/ArmoredCoreApplyGround=Armored Core Apply Ground
+Effect/Name/ArmoredCoreApplyGround2=Armored Core Apply Ground
+Effect/Name/ArmoredCoreApplyGround3=Armored Core Apply Ground
+Effect/Name/ArmoredCoreAutoApply=Armored Core Auto-Apply
+Effect/Name/ArmoredCoreGroundRemove=Armored Core Ground Remove
+Effect/Name/ArmoredCoreGroundRemove2=Armored Core Ground Remove
+Effect/Name/ArmoredCoreSwitch=Armored Core Switch
+Effect/Name/ArmoredCoreSwitch2=Armored Core Switch
+Effect/Name/ArmoredCoreSwitch3=Armored Core Switch
+Effect/Name/ArrowIVMissileCreatePersistent=Arrow IV Missile Create Persistent
+Effect/Name/ArrowIVMissileDamage=Arrow IV Missile Damage
+Effect/Name/ArrowIVMissileLaunchMissile=Arrow IV Missile Launch Missile
+Effect/Name/ArtilleryBarrageAttackOrder=Artillery Barrage Attack Order
+Effect/Name/ArtilleryBarrageCreatePersistent=Artillery Barrage Create Persistent
+Effect/Name/ArtilleryBarrageLevel2=Artillery Barrage Level 2
+Effect/Name/ArtilleryBarrageSpawnUnit=Artillery Barrage Spawn Unit
+Effect/Name/BCAAMultiTarget=BC AA MultiTarget
+Effect/Name/BCGroundMultitarget=BC Ground Multitarget
+Effect/Name/BifrostApplyFrozen=Bifrost Apply Frozen
+Effect/Name/BifrostApplyFrozen2=Bifrost Apply Frozen
+Effect/Name/BifrostDummySearch=Bifrost Dummy Search
+Effect/Name/BifrostPersistent=Bifrost Persistent
+Effect/Name/BifrostPersistent2=Bifrost Persistent
+Effect/Name/BifrostPersistentInital=Bifrost Persistent Inital
+Effect/Name/BifrostPersistentInitial=Bifrost Persistent Initial
+Effect/Name/BifrostSearch=Bifrost Search
+Effect/Name/BifrostSearch2=Bifrost Search
+Effect/Name/BifrostStunDamage=Bifrost Stun Damage
+Effect/Name/BrigandGatlingDamage=Brigand Gatling Damage
+Effect/Name/BrigandGatlingSearchArea=Brigand Gatling Search Area
+Effect/Name/BrigandPiercingGatlingPersistant=Brigand Piercing Gatling Persistant
+Effect/Name/BuildingSpiderMineSpawnCP=Building Spider Mine Spawn CP
+Effect/Name/BuildingSpiderMineSpawnCU=Building Spider Mine Spawn CU
+Effect/Name/ChainLightingSearchForNewTarget1=Chain Lighting Search For New Target 1
+Effect/Name/ChainLightingSearchForNewTarget12=Chain Lighting Search For New Target 2
+Effect/Name/ChainLightingSearchForNewTarget13=Chain Lighting Search For New Target 3
+Effect/Name/ChainLightingSearchForNewTarget14=Chain Lighting Search For New Target 4
+Effect/Name/ChainLightning1=Chain Lightning 1
+Effect/Name/ChainLightning2=Chain Lightning 2
+Effect/Name/ChainLightning3=Chain Lightning 3
+Effect/Name/ChainLightning4=Chain Lightning 4
+Effect/Name/ChainLightning5=Chain Lightning 5
+Effect/Name/ChainLightningDamage1=Chain Lightning Damage 1
+Effect/Name/ChainLightningDamage2=Chain Lightning Damage 2
+Effect/Name/ChainLightningDamage3=Chain Lightning Damage 3
+Effect/Name/ChainLightningDamage4=Chain Lightning Damage 4
+Effect/Name/ChainLightningDamage5=Chain Lightning Damage 5
+Effect/Name/ChainLightningDelay1=Chain Lightning Delay 1
+Effect/Name/ChainLightningDelay2=Chain Lightning Delay 2
+Effect/Name/ChainLightningDelay3=Chain Lightning Delay 3
+Effect/Name/ChainLightningDelay4=Chain Lightning Delay 4
+Effect/Name/ChainLightningMarker=Chain Lightning Marker
+Effect/Name/ChaosAura=Chaos Aura
+Effect/Name/ChaosAuraSearchArea=Chaos Aura Search Area
+Effect/Name/ChaosBlastDamage=Chaos Blast Damage
+Effect/Name/ConcussiveShellApplyForce=Concussive Shell Apply Force
+Effect/Name/ConcussiveShellCreatePersistent=Concussive Shell Create Persistent
+Effect/Name/ConcussiveShellDamage=Concussive Shell Damage
+Effect/Name/ConcussiveShellDamageLevel2=Concussive Shell Damage Level 2
+Effect/Name/ConcussiveShellKnockback=Concussive Shell Knockback
+Effect/Name/ConcussiveShellKnockbackSet=Concussive Shell Knockback Set
+Effect/Name/ConcussiveShellLaunchMissile=Concussive Shell Launch Missile
+Effect/Name/ConcussiveShellLaunchMissileLevel2=Concussive Shell Launch Missile Level 2
+Effect/Name/ConcussiveShellSearchArea=Concussive Shell Search Area
+Effect/Name/ConcussiveShellSearchAreaForce=Concussive Shell Search Area Force
+Effect/Name/ConcussiveShellSet=Concussive Shell Set
+Effect/Name/ConcussiveShellSetLevel2=Concussive Shell Set Level 2
+Effect/Name/CreateGryphon=Create Gryphon
+Effect/Name/CrusaderDummySearchArea=Crusader Dummy Search Area
+Effect/Name/DebilitateAoELevel1=Debilitate AoE Level 1
+Effect/Name/DebilitateAoELevel2=Debilitate AoE Level 2
+Effect/Name/DebilitateAoELevel3=Debilitate AoE Level 3
+Effect/Name/DebilitateGrenadesSetLevel1=Debilitate Grenades Set Level 1
+Effect/Name/DebilitateGrenadesSetLevel2=Debilitate Grenades Set Level 2
+Effect/Name/DebilitateGrenadesSetLevel3=Debilitate Grenades Set Level 3
+Effect/Name/DebilitatingAutoApply=Debilitating Auto-Apply
+Effect/Name/DebilitatingDummyLevel1=Debilitating Dummy Level 1
+Effect/Name/DebilitatingDummyLevel2=Debilitating Dummy Level 2
+Effect/Name/DebilitatingDummyLevel3=Debilitating Dummy Level 3
+Effect/Name/DebilitatingGrenadesSwitch=Debilitating Grenades Switch
+Effect/Name/DefenseMatrix=Defense Matrix
+Effect/Name/DireWolfAMSInitialSet=Dire Wolf AMS Initial Set
+Effect/Name/DireWolfAMSSearch=Dire Wolf AMS Search
+Effect/Name/DireWolfCloakFieldApplyCasterBehavior=Dire Wolf Cloak Field Apply Caster Behavior
+Effect/Name/DireWolfCloakFieldApplyCasterBehavior2=Dire Wolf Cloak Field Apply Caster Behavior
+Effect/Name/DireWolfCloakFieldApplyCasterBehavior3=Dire Wolf Cloak Field Apply Caster Behavior
+Effect/Name/DireWolfCloakFieldSearch=Dire Wolf Cloak Field Search
+Effect/Name/DireWolfCloakFieldSearch2=Dire Wolf Cloak Field Search
+Effect/Name/DireWolfCloakFieldSearch3=Dire Wolf Cloak Field Search
+Effect/Name/DireWolfCloakFieldSearchNew=Dire Wolf Cloak Field Search New
+Effect/Name/DireWolfCloakFieldSearchNew2=Dire Wolf Cloak Field Search New
+Effect/Name/DireWolfCloakFieldSearchNew3=Dire Wolf Cloak Field Search New
+Effect/Name/DireWolfCloakFieldSearchSet=Dire Wolf Cloak Field Search Set
+Effect/Name/DireWolfCloakFieldSearchSet2=Dire Wolf Cloak Field Search Set
+Effect/Name/DireWolfCloakFieldSearchSet3=Dire Wolf Cloak Field Search Set
+Effect/Name/DireWolfCloakingField=Dire Wolf Cloaking Field
+Effect/Name/DireWolfCloakingField2=Dire Wolf Cloaking Field
+Effect/Name/DireWolfCloakingField3=Dire Wolf Cloaking Field
+Effect/Name/DireWolfCloakingFieldNew=Dire Wolf Cloaking Field New
+Effect/Name/DireWolfCloakingFieldNew2=Dire Wolf Cloaking Field New
+Effect/Name/DireWolfCloakingFieldNew3=Dire Wolf Cloaking Field New
+Effect/Name/DireWolfSet=Dire Wolf AMS Set
+Effect/Name/DisableTransportAttack=Disable Transport Attack
+Effect/Name/DisplacementBlink=Displacement Blink
+Effect/Name/DisplacementCloak=Displacement Cloak
+Effect/Name/DisplacerShieldRestore=Displacer Shield Restore
+Effect/Name/DragonGrenadeApplySlow=Dragon Grenade Apply Slow
+Effect/Name/DragonGrenadeDamage=Dragon Grenade Damage
+Effect/Name/DragonGrenadeLaunchMissile=Dragon Grenade Launch Missile
+Effect/Name/DragonGrenadeSet=Dragon Grenade Set
+Effect/Name/DragonGrenadeSlowAOE=Dragon Grenade Slow AOE
+Effect/Name/DullahanAttackSet=Dullahan Attack Set
+Effect/Name/DullahanCP=Dullahan CP
+Effect/Name/DullahanCarpetBombDamage=Dullahan Carpet Bomb Damage
+Effect/Name/DullahanCounterCheck1=Dullahan Counter Check 1
+Effect/Name/DullahanCreateCarpetBombPersistent=Dullahan Create Carpet Bomb Persistent
+Effect/Name/DullahanDamage=Dullahan Damage
+Effect/Name/DullahanInitalSet=Dullahan Inital Set
+Effect/Name/DullahanLM=Dullahan LM
+Effect/Name/DullahanMissileSet=Dullahan Missile Set
+Effect/Name/DullahanRange2AB=Dullahan Range 2 AB
+Effect/Name/DullahanRange2RB=Dullahan Range 2 RB
+Effect/Name/DullahanRange3AB=Dullahan Range 3 AB
+Effect/Name/DullahanRangeCaster=Dullahan Range Caster
+Effect/Name/DullahanRangeCounterCheck=Dullahan Range Counter Check
+Effect/Name/DullahanRangeCounterCheck2=Dullahan Range Counter Check 2
+Effect/Name/DullahanRangeCounterCheck3=Dullahan Range Counter Check 3
+Effect/Name/DullahanSearchArea=Dullahan Search Area
+Effect/Name/DummyDamage=Dummy Damage
+Effect/Name/DummySuicideSet=Dummy Suicide Set
+Effect/Name/EMPMissileDamage=EMP Missile Damage
+Effect/Name/EMPMissileLaunchLeft=EMP Missile Launch Left
+Effect/Name/EMPMissileLaunchRight=EMP Missile Launch Right
+Effect/Name/EMPMissilePersistent=EMP Missile Persistent
+Effect/Name/EMPMissileSearchArea=EMP Missile Search Area
+Effect/Name/EMPMissileSet=EMP Missile Set
+Effect/Name/EnableTransportAttack=Enable Transport Attack
+Effect/Name/EngienBoostSearchArea=Engine Boost Search Area
+Effect/Name/EngineBoost=Engine Boost
+Effect/Name/EngineBoostCreateUnit=Engine Boost Create Unit
+Effect/Name/EngineBoostCreateUnitClosest=Engine Boost Create Unit Closest
+Effect/Name/EngineBoostCreateUnitPoint=Engine Boost Create Unit Point
+Effect/Name/EngineBoostDamage=Engine Boost Damage
+Effect/Name/EngineBoostImpactSet=Engine Boost Impact Set
+Effect/Name/EngineBoostLaunchMissile=Engine Boost Launch Missile
+Effect/Name/EngineBoostSearchStun=Engine Boost Search Stun
+Effect/Name/EngineBoostStun=Engine Boost Stun
+Effect/Name/EngineBoostSwitch=Engine Boost Switch
+Effect/Name/FighterApplyTimedLife=Fighter Apply Timed Life
+Effect/Name/FighterLeashOrder=Fighter Leash Order
+Effect/Name/FighterReleaseSet=Fighter Release Set
+Effect/Name/FighterSpawnCreatePersistent=Fighter Spawn Create Persistent
+Effect/Name/FighterSpawnCreatePersistent2=Fighter Spawn Create Persistent
+Effect/Name/FighterSpawnCreatePersistent3=Fighter Spawn Create Persistent
+Effect/Name/FighterSpawnCreateUnit=Fighter Spawn Create Unit
+Effect/Name/FighterSpawnCreateUnit2=Fighter Spawn Create Unit
+Effect/Name/FighterSpawnCreateUnit3=Fighter Spawn Create Unit
+Effect/Name/FighterTimedLifeFate=Fighter Timed Life Fate
+Effect/Name/FireWaveCPLevel2=Fire Wave CP Level 2
+Effect/Name/FireWaveCPLevel3=Fire Wave CP Level 3
+Effect/Name/FireWaveDamage=Fire Wave (Damage)
+Effect/Name/FireWaveDamageLevel2=Fire Wave Damage Level 2
+Effect/Name/FireWaveDamageLevel3=Fire Wave Damage Level 3
+Effect/Name/FireWaveInitalCPLevel2=Fire Wave Inital CP Level 2
+Effect/Name/FireWaveInitalCPLevel3=Fire Wave Inital CP Level 3
+Effect/Name/FireWavePersistent=Fire Wave (Persistent)
+Effect/Name/FireWavePersistentinitial=Fire Wave (Persistent initial)
+Effect/Name/FireballDamageLevel1=Fireball Damage Level 1
+Effect/Name/FireballDamageLevel2=Fireball Damage Level 2
+Effect/Name/FireballDamageLevel3=Fireball Damage Level 3
+Effect/Name/FireballLevel1LM=Fireball Level 1 LM
+Effect/Name/FireballLevel2LM=Fireball Level 2 LM
+Effect/Name/FireballLevel3LM=Fireball Level 3 LM
+Effect/Name/FlakCannonDamage2=Flak Cannon Damage
+Effect/Name/FlameOnApplyBehavior=Flame On Apply Behavior
+Effect/Name/FlameWaveBlastPersistent=Flame Wave (Blast - Persistent)
+Effect/Name/FlameWaveBlastSet=Flame Wave (Blast Set)
+Effect/Name/FlameWaveDamage=Flame Wave (Damage)
+Effect/Name/FlameWavePersistent=Flame Wave (Persistent)
+Effect/Name/FlameWaveSearch=Flame Wave (Search)
+Effect/Name/FlamingThornsAutoApply=Flaming Thorns Auto-Apply
+Effect/Name/FlamingThornsLevel1AB=Flaming Thorns Level 1 AB
+Effect/Name/FlamingThornsLevel1Damage=Flaming Thorns Level 1 Damage
+Effect/Name/FlamingThornsLevel1RB=Flaming Thorns Level 1 RB
+Effect/Name/FlamingThornsLevel2AB=Flaming Thorns Level 2 AB
+Effect/Name/FlamingThornsLevel2Damage=Flaming Thorns Level 2 Damage
+Effect/Name/FlamingThornsLevel2RB=Flaming Thorns Level 2 RB
+Effect/Name/FlamingThornsLevel3AB=Flaming Thorns Level 3 AB
+Effect/Name/FlamingThornsLevel3Damage=Flaming Thorns Level 3 Damage
+Effect/Name/FracturedBeamDamage=Fractured Beam Damage
+Effect/Name/FracturedBeamImpactSet=Fractured Beam Impact Set
+Effect/Name/FracturedBeamLM=Fractured Beam LM
+Effect/Name/FracturedBeamSearch=Fractured Beam Search
+Effect/Name/FracturedBeamSecondaryDamage=Fractured Beam Secondary Damage
+Effect/Name/FracturedBeamSecondaryImpactSet=Fractured Beam Secondary Impact Set
+Effect/Name/FracturedBeamSecondaryLM=Fractured Beam Secondary LM
+Effect/Name/FracturedBeamSecondarySearch=Fractured Beam Secondary Search
+Effect/Name/FracturedBeamTertiaryDamage=Fractured Beam Tertiary Damage
+Effect/Name/FracturedBeamTertiaryLM=Fractured Beam Tertiary LM
+Effect/Name/FragGrenadeDamage=Frag Grenade Damage
+Effect/Name/FragGrenadeDamage2=Frag Grenade Damage
+Effect/Name/FragGrenadeDamage3=Frag Grenade Damage
+Effect/Name/FragGrenadeLM=Frag Grenade LM
+Effect/Name/FragGrenadeLM2=Frag Grenade LM
+Effect/Name/FragGrenadeLM3=Frag Grenade LM
+Effect/Name/FromTheAshesApplyBehavior=From The Ashes Apply Behavior
+Effect/Name/FromtheAshesRemoveBehavior=From the Ashes Remove Behavior
+Effect/Name/FusionBombDamage=Fusion Bomb Damage
+Effect/Name/FusionBombLM=Fusion Bomb LM
+Effect/Name/GjallarhornBackwardPersistent=Gjallarhorn Backward Persistent
+Effect/Name/GjallarhornBackwardsPersistent=Gjallarhorn Backwards Persistent
+Effect/Name/GjallarhornDamage=Gjallarhorn Damage
+Effect/Name/GjallarhornDamage2=Gjallarhorn Damage
+Effect/Name/GjallarhornDelayPersistent=Gjallarhorn Delay Persistent
+Effect/Name/GjallarhornDelayPersistent2=Gjallarhorn Delay Persistent
+Effect/Name/GjallarhornForwardPersistent=Gjallarhorn Forward Persistent
+Effect/Name/GjallarhornForwardsPersistent=Gjallarhorn Forwards Persistent
+Effect/Name/GjallarhornFriendly=Gjallarhorn Friendly
+Effect/Name/GjallarhornFriendly2=Gjallarhorn Friendly
+Effect/Name/GjallarhornFriendlyDamage=Gjallarhorn Friendly Damage
+Effect/Name/GjallarhornFriendlyDamage2=Gjallarhorn Friendly Damage
+Effect/Name/GjallarhornSearchBackward=Gjallarhorn Search Backward
+Effect/Name/GjallarhornSearchBackward2=Gjallarhorn Search Backward
+Effect/Name/GjallarhornSearchForward=Gjallarhorn Search Forward
+Effect/Name/GjallarhornSearchForward2=Gjallarhorn Search Forward
+Effect/Name/GjallarhornSet=Gjallarhorn Set
+Effect/Name/GjallarhornSet2=Gjallarhorn Set
+Effect/Name/GreekfireAB=Greekfire AB
+Effect/Name/GreekfireCP=Greekfire CP
+Effect/Name/GreekfireCPOvercharge=Greekfire CP Overcharge
+Effect/Name/GreekfireDOT=Greekfire DOT
+Effect/Name/GreekfireDamage=Greekfire Damage
+Effect/Name/GreekfireDamageOvercharge=Greekfire Damage Overcharge
+Effect/Name/GreekfireSearchArea=Greekfire Search Area
+Effect/Name/GreekfireSearchAreaOvercharge=Greekfire Search Area Overcharge
+Effect/Name/GryphonAA=Gryphon AA
+Effect/Name/GryphonAASwitch=Gryphon AA Switch
+Effect/Name/GryphonGround=Gryphon Multitarget
+Effect/Name/GryphonSwitch=Gryphon Switch
+Effect/Name/GunwalkerAMSInitalSet=Gunwalker AMS Inital Set
+Effect/Name/GunwalkerAMSSearch=Gunwalker AMS Search
+Effect/Name/GunwalkerAMSSet=Gunwalker AMS Set
+Effect/Name/HarvesterLand=Harvester Land
+Effect/Name/HybridMaelstromApply=Hybrid Maelstrom Apply
+Effect/Name/HybridMaelstromSearch=Hybrid Maelstrom Search
+Effect/Name/HyperionBattlecruiserWarpIn=Hyperion Battlecruiser WarpIn
+Effect/Name/ImpactMIssileLaunch=Impact Missile Launch
+Effect/Name/ImpactMissileApply=Impact Missile Blind Apply
+Effect/Name/ImpactMissileBlindCP=Impact Missile Blind CP
+Effect/Name/ImpactMissileDamage=Impact Missile Damage
+Effect/Name/ImpactMissileDamageSet=Impact Missile Damage Set
+Effect/Name/ImpactMissileLaunch=Impact Missile Launch
+Effect/Name/ImpactMissileSearch=Impact Missile Search
+Effect/Name/IrradiationApplyBehavior=Irradiation Apply Behavior 
+Effect/Name/IrradiationInitialDamage=Irradiation Initial Damage
+Effect/Name/IrradiationInitialDamageApply=Irradiation Initial Damage Apply
+Effect/Name/IrradiationPeriodicDamage=Irradiation Periodic Damage 
+Effect/Name/IrradiationSearchArea=Irradiation Search Area 
+Effect/Name/IrradiationSet=Irradiation Set 
+Effect/Name/JarngreiprCP=Jarngreipr CP
+Effect/Name/JarngreiprSplashTarget=Jarngreipr Splash Target
+Effect/Name/JumpJetsApplyLevel1=Jump Jets Apply Level 1
+Effect/Name/JumpJetsApplyLevel2=Jump Jets Apply Level 2
+Effect/Name/JumpJetsApplyLevel3=Jump Jets Apply Level 3
+Effect/Name/JumpJetsAutoApply=Jump Jets Auto-Apply
+Effect/Name/LashingStorm=Lashing Storm
+Effect/Name/LockdownMissileApplyBehavior=Lockdown Missile Apply Behavior
+Effect/Name/LockdownMissileApplyBehavior2=Lockdown Missile Apply Behavior 2
+Effect/Name/LockdownMissileSet=Lockdown Missile Set
+Effect/Name/LogisticsApplyBehavior=Logistics Apply Behavior
+Effect/Name/LogisticsSearchArea=Logistics Search Area
+Effect/Name/MACStrike=MAC Strike
+Effect/Name/MACStrikeDamage=MAC Strike Damage
+Effect/Name/MACStrikeImpactDummy=MAC Strike Impact Dummy
+Effect/Name/MACStrikeImpactSearch=MAC Strike Impact Search
+Effect/Name/MWKnockbackApplyBehavior=MW Knockback Apply Behavior
+Effect/Name/MWRepel=MW Repel
+Effect/Name/MWRepelDamage=MW Repel Damage
+Effect/Name/MWRepelForce=MW Repel Force
+Effect/Name/MWRepelSearchArea=MW Repel Search Area
+Effect/Name/MWSearchAreaForce=MW Search Area Force
+Effect/Name/MWSearchAreaStun=MW Search Area Stun
+Effect/Name/MineRelease=Mine Release
+Effect/Name/MineReleaseLaunch=Mine Release Launch
+Effect/Name/MineReleaseMissile=Mine Release (Missile)
+Effect/Name/MineSet=Mine (Set)
+Effect/Name/MineTimeLife=Mine Time Life
+Effect/Name/MiniNuke=Mini Nuke
+Effect/Name/MiniNukeCalldown=Mini Nuke Calldown
+Effect/Name/MiniNukeDamage=Mini Nuke Damage
+Effect/Name/MiniNukeDetonate=Mini Nuke Detonate
+Effect/Name/MiniNukeP=Mini Nuke P
+Effect/Name/MiniNukeSuicide=Mini Nuke Suicide
+Effect/Name/MissilePodsDamageLevel2=Missile Pods Damage Level 2
+Effect/Name/MissilePodsDamageLevel3=Missile Pods Damage Level 3
+Effect/Name/MissilePodsDamagePersistentLevel2=Missile Pods Damage Persistent Level 2
+Effect/Name/MissilePodsDamagePersistentLevel3=Missile Pods Damage Persistent Level 3
+Effect/Name/MissilePodsDelayPersistentLevel2=Missile Pods Delay Persistent Level 2
+Effect/Name/MissilePodsDelayPersistentLevel3=Missile Pods Delay Persistent Level 3
+Effect/Name/MissilePodsLevel2=Missile Pods Level 2
+Effect/Name/MissilePodsLevel3=Missile Pods Level 3
+Effect/Name/MotionWaveGunBlastCP=Motion-Wave Gun Blast CP
+Effect/Name/MotionWaveGunDamage=Motion-Wave Gun Damage
+Effect/Name/MotionWaveGunDummySearch=MotionWaveGunDummySearch
+Effect/Name/MotionWaveGunSearch=Motion-Wave Gun Search
+Effect/Name/MultiShotApply=Multi-Shot Apply
+Effect/Name/MultiShotLevel2Apply=Multi-Shot Level 2 Apply
+Effect/Name/MultiShotLevel3Apply=Multi-Shot Level 3 Apply
+Effect/Name/MultiShotRemove=Multi-Shot Remove
+Effect/Name/MultiShotSearch=Multi-Shot Search
+Effect/Name/MultiShotSearchLevel2=Multi-Shot Search Level 2
+Effect/Name/MultiShotSearchLevel3=Multi-Shot Search Level 3
+Effect/Name/MultishotRemoveLevel2=Multishot Remove Level 2
+Effect/Name/MultishotRemoveLevel3=Multishot Remove Level 3
+Effect/Name/NanoMachineRepair=Nano Machine Repair
+Effect/Name/NapalmBarrelLM=Napalm Barrel LM
+Effect/Name/NapalmGroundAB=Napalm Ground AB
+Effect/Name/NapalmGroundFireCP=Napalm Ground Fire CP
+Effect/Name/NapalmGroundFireDamage=Napalm Ground Fire Damage
+Effect/Name/NapalmGroundFireInitalDamage=Napalm Ground Fire Inital Damage
+Effect/Name/NapalmGroundFireSet=Napalm Ground Fire Set
+Effect/Name/NapalmGroundSearch=Napalm Ground Search
+Effect/Name/NeosteelArmorApplyLevel1=Neosteel Armor Apply Level 1
+Effect/Name/NeosteelArmorApplyLevel1Sieged=Neosteel Armor Apply Level 1 (Sieged)
+Effect/Name/NeosteelArmorApplyLevel2=Neosteel Armor Apply Level 2
+Effect/Name/NeosteelArmorApplyLevel2Sieged=Neosteel Armor Apply Level 2 (Sieged)
+Effect/Name/NeosteelArmorApplyLevel3=Neosteel Armor Apply Level 3
+Effect/Name/NeosteelArmorApplyLevel3Sieged=Neosteel Armor Apply Level 3 (Sieged)
+Effect/Name/NeosteelArmorAutoApply=Neosteel Armor Auto Apply
+Effect/Name/NeosteelArmorLevel1ApplySwitch=Neosteel Armor Level 1 Apply Switch
+Effect/Name/NeosteelArmorLevel2ApplySwitch=Neosteel Armor Level 2 Apply Switch
+Effect/Name/NeosteelArmorLevel3ApplySwitch=Neosteel Armor Level 3 Apply Switch
+Effect/Name/NeosteelArmorRemoveLevel1=Neosteel Armor Remove Level 1
+Effect/Name/NeosteelArmorRemoveLevel1Sieged=Neosteel Armor Remove Level 1 (Sieged)
+Effect/Name/NeosteelArmorRemoveLevel2=Neosteel Armor Remove Level 2
+Effect/Name/NeosteelArmorRemoveLevel2Sieged=Neosteel Armor Remove Level 2 (Sieged)
+Effect/Name/NeosteelSiegedAutoApply=Neosteel Sieged Auto Apply
+Effect/Name/NightHowlApplyDecloakandStun=Night Howl Apply Decloak and Stun
+Effect/Name/NightHowlDamage=Night Howl Damage
+Effect/Name/NightHowlLaunchMissile=Night Howl Launch Missile
+Effect/Name/NightHowlModifyUnit=Night Howl Modify Unit
+Effect/Name/NightHowlSearch=Night Howl Search
+Effect/Name/NightHowlSet=Night Howl Set
+Effect/Name/OilDropApplyBehavior=Oil Drop Apply Behavior
+Effect/Name/OilDropCreateUnit=Oil Drop Create Unit
+Effect/Name/OilDropSearchArea=Oil Drop Search Area
+Effect/Name/OilDropTimedLifeApply=Oil Drop Timed Life Apply
+Effect/Name/OverchargedCannonsApply=Overcharged Cannons Apply
+Effect/Name/OverchargedDamage=Overcharged Damage
+Effect/Name/OverchargedSearch=Overcharged Search
+Effect/Name/OverchargedSearchArea=Overcharged Search Area
+Effect/Name/OverchargedSplashDamage=Overcharged Splash Damage
+Effect/Name/PPG7ApplyStun=PPG-7 Apply Stun
+Effect/Name/PPG7Damage=PPG-7 Damage
+Effect/Name/PPG7Search=PPG-7 Search
+Effect/Name/PPG7Set=PPG-7 Set
+Effect/Name/PackLeaderApplyLevel1=Pack Leader Apply Level 1
+Effect/Name/PackLeaderApplyLevel2=Pack Leader Apply Level 2
+Effect/Name/PackLeaderApplyLevel3=Pack Leader Apply Level 3
+Effect/Name/PackLeaderAutoApply=Pack Leader Auto Apply
+Effect/Name/PackLeaderRemoveLevel1=Pack Leader Remove Level 1
+Effect/Name/PackLeaderRemoveLevel2=Pack Leader Remove Level 2
+Effect/Name/PackLeaderSearchAreaLevel1=Pack Leader Search Area Level 1
+Effect/Name/PackLeaderSearchAreaLevel2=Pack Leader Search Area Level 2
+Effect/Name/PackLeaderSearchAreaLevel3=Pack Leader Search Area Level 3
+Effect/Name/PegasusSpeedBoost=Pegasus Speed Boost
+Effect/Name/PhalanxImmortalOverchargedCannonsDamage=Phalanx Immortal Overcharged Cannons Damage
+Effect/Name/PhalanxImmortalSplashSet=Phalanx Immortal Splash Set
+Effect/Name/PhalanxShieldApplyBehavior=Phalanx Shield Apply Behavior
+Effect/Name/PhalanxShieldPersistent=Phalanx Shield Persistent
+Effect/Name/PhalanxShieldSearchArea=Phalanx Shield Search Area
+Effect/Name/PhasingDamage=Phasing Damage
+Effect/Name/PhasingImpactSet=Phasing Impact Set
+Effect/Name/PhasingLM=Phasing LM
+Effect/Name/PhasingSearch=Phasing Search
+Effect/Name/PhasingSecondaryDamage=Phasing Secondary Damage
+Effect/Name/PhasingSecondaryLM=Phasing Secondary LM
+Effect/Name/PhoenixRespawn=Phoenix Respawn
+Effect/Name/PhoenixRespawnApplyRecentlyRevived=Phoenix Respawn Apply Recently Revived
+Effect/Name/PhoenixRespawnApplyRevive=Phoenix Respawn Apply Revive
+Effect/Name/PhoenixRespawnDeathIssueOrder=Phoenix Respawn Death Issue Order
+Effect/Name/PhoenixRespawnSet=Phoenix Respawn Set
+Effect/Name/PhoenixRevivePostMorphHeal=Phoenix Revive Post Morph Heal
+Effect/Name/PlasmaTorpedoCreatePersistent=Plasma Torpedo Create Persistent
+Effect/Name/PlasmaTorpedoDamage=Plasma Torpedo Damage
+Effect/Name/PlasmaTorpedoDamageDirect=Plasma Torpedo Damage Direct
+Effect/Name/PlasmaTorpedoLMDirect=Plasma Torpedo LM Direct
+Effect/Name/PlasmaTorpedoLMSearch=Plasma Torpedo LM Search
+Effect/Name/PlasmaTorpedoLMSwitch=Plasma Torpedo LM Switch
+Effect/Name/PlasmaTorpedoLaunchMissile=Plasma Torpedo Launch Missile
+Effect/Name/PredatorCloakAB=Predator Cloak AB
+Effect/Name/PredatorDashCloak=Predator Dash Cloak
+Effect/Name/PsiEmitterDebuffApply=Psi Emitter Debuff Apply
+Effect/Name/PsiEmitterDebuffSearchArea=Psi Emitter Debuff Search Area
+Effect/Name/RadarSupportApplyBehavior=Radar Support Apply Behavior
+Effect/Name/RadarSupportSearchArea=Radar Support Search Area
+Effect/Name/RagnarokDamage=Ragnarok Damage
+Effect/Name/RaiderGuassRifle=Raider Guass Rifle
+Effect/Name/RaiderStimpackApplyBuff=Raider Stimpack Apply Buff
+Effect/Name/RailgunLaunchMissile=Railgun Launch Missile
+Effect/Name/RaiseShields=Raise Shields
+Effect/Name/RaiseShields2=Raise Shields
+Effect/Name/RaiseShields3=Raise Shields
+Effect/Name/RemoveAntiPersonnelDefault=Remove Anti-Personnel Default
+Effect/Name/RemoveJumpJetsLevel1=Remove Jump Jets Level 1
+Effect/Name/RemoveJumpJetsLevel2=Remove Jump Jets Level 2
+Effect/Name/RemoveShieldsUpLevel1=Remove Shields Up Level 1
+Effect/Name/RemoveShieldsUpLevel2=Remove Shields Up Level 2
+Effect/Name/RescueFoamApplyBehavior=Rescue Foam Apply Behavior
+Effect/Name/RescueFoamCreatePersistent=Rescue Foam Create Persistent
+Effect/Name/RescueFoamHeal=Rescue Foam Heal
+Effect/Name/RescueFoamHealApplyBehavior=Rescue Foam Heal Apply Behavior
+Effect/Name/RescueFoamSearchArea=Rescue Foam Search Area
+Effect/Name/SalvageSupplyDepot=Salvage
+Effect/Name/ShadowRavenLaunchBots=Shadow Raven - Launch Bots
+Effect/Name/ShadowRavenLaunchBots2=Shadow Raven - Launch Bots 
+Effect/Name/ShieldWallLevel1=Shield Wall Level 1
+Effect/Name/ShieldWallLevel2=Shield Wall Level 2
+Effect/Name/ShieldWallLevel3=Shield Wall Level 3
+Effect/Name/ShieldsUpAutoApplyBehavior=Shields Up Auto-Apply Behavior
+Effect/Name/ShieldsUpLevel1=Shields Up Level 1
+Effect/Name/ShieldsUpLevel2=Shields Up Level 2
+Effect/Name/ShieldsUpLevel3=Shields Up Level 3
+Effect/Name/ShieldsUpSearch1=Shields Up Search 1
+Effect/Name/ShieldsUpSearch2=Shields Up Search 2
+Effect/Name/ShieldsUpSearch3=Shields Up Search 3
+Effect/Name/SpawnSpiderMines=Spawn Spider Mines
+Effect/Name/SpawnSpiderMinesCreatePersistent=Spawn Spider Mines Create Persistent
+Effect/Name/StrikerBomb=Striker Bomb
+Effect/Name/StrikerBomb2=Striker Bomb Set
+Effect/Name/SwapoutAntiArmor=Swap out Anti-Armor
+Effect/Name/SwaptoAntiArmor=Swap out Anti-Personnel
+Effect/Name/SwaptoAntiArmor2=Swap to Anti-Armor
+Effect/Name/SwaptoAntiPersonnel=Swap to Anti-Personnel
+Effect/Name/ThermalLancesFriendlyCPAir2=Thermal Lances Freindly CP (Air)
+Effect/Name/TimeWarpSlowSet=Time Warp Slow Set
+Effect/Name/TriPulseLaserCreatePersistent=Tri-Pulse Laser (Create Persistent)
+Effect/Name/TriPulseLaserDamage=Tri-Pulse Laser (Damage)
+Effect/Name/TriPulseLaserLaunchMissile=Tri-Pulse Laser (Launch Missile)
+Effect/Name/TsarCannonBlast=Tsar Cannon Blast
+Effect/Name/TsarCannonEnemyDamage=Tsar Cannon Enemy Damage
+Effect/Name/TsarCannonFriendlyDamage=Tsar Cannon Friendly Damage
+Effect/Name/TsarCannonSet=Tsar Cannon Set
+Effect/Name/TwilightBlades=Twilight Blades
+Effect/Name/TwilightBladesCleaveSet=Twilight Blades Cleave Set
+Effect/Name/TwilightBladesDamage=Twilight Blades Damage
+Effect/Name/TwilightChargeApplyBuff=Twilight Charge Apply Buff
+Effect/Name/UEDGoliathMissileSwitch=UED Goliath Missile Switch
+Effect/Name/UEDGoliathMultitarget=UED Goliath Multitarget
+Effect/Name/UnknownEffect=Swap to Anti-Armor set
+Effect/Name/UnknownEffect2=Swap to Anti-Personnel set
+Effect/Name/UnknownEffect3=Radar Support Search Area
+Effect/Name/UnknownEffect4=Anti-Personnel Pods (Search Area Level 3)
+Effect/Name/VoidStalkerBlink=Void Stalker Blink
+Effect/Name/VoidStalkerGhost=Void Stalker Ghost
+Effect/Name/WarHound=Railgun Damage
+Effect/Name/WarpClawDamage=Warp Claw Damage
+Effect/Name/WarpClawPersistent=Warp Claw Persistent
+Effect/Name/WarpDashBlink=Warp Dash Blink
+Effect/Name/WeaponsOnline=Weapons Online
+Effect/Name/WeaponsOnline2=Weapons Online
+Effect/Name/WeaponsOnline3=Weapons Online
+Effect/Name/WeaponsOnlineAutoApply=Weapons Online Auto-Apply
+Effect/Name/Windup1AB=Windup 1 AB
+Effect/Name/Windup1RB=Windup 1 RB
+Effect/Name/Windup2AB=Windup 2 AB
+Effect/Name/Windup2RB=Windup 2 RB
+Effect/Name/Windup3AB=Windup 3 AB
+Effect/Name/Windup3RB=Windup 3 RB
+Effect/Name/Windup4AB=Windup 4 AB
+Effect/Name/Windup4RB=Windup 4 RB
+Effect/Name/Windup5AB=Windup 5 AB
+Effect/Name/Windup5RB=Windup 5 RB
+Effect/Name/WindupAttackSet=Windup Attack Set
+Effect/Name/WindupDamage=Windup Damage
+Effect/Name/WindupSwitch=Windup Switch
+Effect/Name/WindupSwitch0=Windup Switch0
+Effect/Name/WindupSwitch1=Windup Switch1
+Effect/Name/WindupSwitch2=Windup Switch2
+Effect/Name/WindupSwitch3=Windup Switch3
+Effect/Name/WindupSwitch4=Windup Switch4
+Effect/Name/WindupSwitch5=Windup Switch5
+Flaming Thorns now grants a 10% damage reduction, and deals more damage to enemies.=Flaming Thorns now grants a 10% damage reduction, and deals 5 more damage to enemies.
+Flaming Thorns now grants a 10% damage reduction, and deals more damage to enemies.=Flaming Thorns now grants a 10% damage reduction, and deals more damage to enemies in melee.
+Flaming Thorns now grants a 10% damage reduction, and deals more damage.=Flaming Thorns now grants a 10% damage reduction, and deals more damage.
+Further increase damage dealt by 10, and applys burning to units.=Further increase damage dealt by 10, and applys burning to units.
+Further increase damage dealt by 10.=Further increase damage dealt by 10.
+Increase damage each line of flame does by 10.=Increase damage each line of flame does by 10.
+Increases damage by 25, and now deals splash damage in a small area around the main target.=Increases damage by 25, and now deals splash damage in a small area around the main target.
+Increases damage by 25, and radius of splash damage is increased by 50%.=Increases damage by 25, and radius of splash damage is increased by 50%.
+Inferno Armor=Inferno Armor
+Learn SuperStim [Level 2]=Learn SuperStim [Level 2]
+Learn SuperStim [Level 3]=Learn SuperStim [Level 3]
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Player 1
+MapInfo/Player02/Name=Hostile
+Mobile Construction Vehicle=Mobile Construction Vehicle
+Param/Value/00D9214A=Give Mechwarrior XP
+Param/Value/1846F762=Elite Protoss
+Param/Value/292D877D=Spawn Zerg
+Param/Value/33006ABF=Elite Zerg
+Param/Value/39882DF2=Give Crusader XP
+Param/Value/8074AC18=Upgrade Lvl 1
+Param/Value/86749FAC=Upgrade Lvl 3
+Param/Value/940510DD=Give Jack Frost XP
+Param/Value/A00FF49F=Give Vengeance XP
+Param/Value/A1492131=Spawn Terran
+Param/Value/A35C56FD=Spawn Protoss
+Param/Value/A903A306=Give Dire Wolf XP
+Param/Value/A94A4BC3=Elite Terran
+Param/Value/AC1DE41D=Give Fat Man XP
+Param/Value/B6D9D353=Hero Leveling
+Param/Value/C6915C84=Upgrade Lvl 2
+Param/Value/C7710F05=Give Heimdall XP
+Param/Value/D924F562=Give Sergeant XP
+Param/Value/lib_Camp_058D22C6=Heimdall
+Param/Value/lib_Camp_28873B56=<s val="MercCategory">Squad Size:</s>  <s val="MercSummary">1 Goliath Hero</s>
+Param/Value/lib_Camp_43297AFD=<s val="MercDescription">Named after Heimdall, the watchman of the gods in Norse mythology, this pirate is well known for his role in making sure that raids he takes part in go off without a hitch through a combination of his plans and powerful ship. He often takes any rare or experimental tech from those raids to further upgrade his already enhanced loadout.</s>
+Param/Value/lib_Camp_5709963B=Sergeant
+Param/Value/lib_Camp_6254E3B0=<s val="MercCategory">Vitals:</s>  <s val="MercSummary">500 Health</s></n><s val="MercCategory">Abilities:</s> <s val="MercSummary"> Concussive Shot, Deploy Spider Mines, Neosteel Armor, Artillery Barrage<n/><s val="MercCategory">Trained From:</s>  <s val="MercSummary">Hyperion</s><n/><s val="MercCategory">Limit per Mission:</s>  <s val="MercSummary">1 Siege Tank Hero</s>
+Param/Value/lib_Camp_641BF2D2=Jack Frost
+Param/Value/lib_Camp_6C11495B=<s val="MercCategory">Squad Size:</s>  <s val="MercSummary">1 Firebat Hero</s>
+Param/Value/lib_Camp_6C8DF40F=<s val="MercCategory">Squad Size:</s>  <s val="MercSummary">1 Siege Tank Hero</s>
+Param/Value/lib_Camp_6EF98CCD=<s val="MercCategory">Vitals:</s>  <s val="MercSummary">400 Health</s></n><s val="MercCategory">Abilities:</s> <s val="MercSummary">Anti-Personnel Pod, Jump Jets, Missile Pods, Alpha Strike<n/><s val="MercCategory">Trained From:</s>  <s val="MercSummary">Hyperion</s><n/><s val="MercCategory">Limit per Mission:</s>  <s val="MercSummary">1 Goliath Hero</s>
+Param/Value/lib_Camp_71DB1873=<s val="MercDescription">An ex-Confederate firebat that happen to like setting things of fire a little bit too much, even by normal firebat standards. Just point him in the direction of what you want burned and he'll do the rest, as long as you're fine with ashes afterwards. Only reason why Jack isn't doing this for free is cause he needs the credits for flamer fuel.</s>
+Param/Value/lib_Camp_75C95FB1=<s val="MercCategory">Fleet Size:</s>  <s val="MercSummary">1 Battlecruiser Hero</s>
+Param/Value/lib_Camp_79400908=<s val="MercCategory">Squad Size:</s>  <s val="MercSummary">1 Marauder Hero</s>
+Param/Value/lib_Camp_7FEAD837=Dire Wolf
+Param/Value/lib_Camp_82484E1D=<s val="MercDescription">Equipped with a powerful shotgun and equipment, this mercenary is well known for his fighting capabilities on the ground, as well as his eagerness to take on any Zerg that he comes across. Sergeant has also proven to be rather adept at keeping other marines around him alive when placed in charge of a squad. Rather straightforward and blunt, there's very little mystery about this man save one. Is Sergeant his name or his rank? </s>
+Param/Value/lib_Camp_84A6C943=<s val="MercCategory">Vitals:</s>  <s val="MercSummary"> 150 Health</s></n><s val="MercCategory">Abilities:</s> <s val="MercSummary"> Healing Stimpack, Frag Grenade, Improve Marine Armor, Plasma Blast<n/><s val="MercCategory">Trained From:</s>  <s val="MercSummary">Hyperion</s><n/><s val="MercCategory">Limit per Mission:</s>  <s val="MercSummary">1 Marine Hero</s>
+Param/Value/lib_Camp_85BC4731=<s val="MercDescription">Whether it be busting the defenses of a base, or dealing with a particularly stubborn obstacle, the Fat Man is the solution to your problems. Well versed in the use of explosives, from mines to tactical nukes, he's sure to have something for the situation at had. After all, there's no problem that can't be solved with explosions!</s>
+Param/Value/lib_Camp_8F80A835=<s val="MercCategory">Vitals:</s>  <s val="MercSummary"> 300 Health</s></n><s val="MercCategory">Abilities:</s> <s val="MercSummary"> Place Mines, Debilitating Grenades, Multishot Launcher, Mini Nuke<n/><s val="MercCategory">Trained From:</s>  <s val="MercSummary">Hyperion</s><n/><s val="MercCategory">Limit per Mission:</s>  <s val="MercSummary">1 Maruader Hero</s>
+Param/Value/lib_Camp_975FA3A7=MechWarrior
+Param/Value/lib_Camp_AA55AF0B=<s val="MercCategory">Vitals:</s>  <s val="MercSummary">1400 Health</s><n/><s val="MercCategory">Abilities:</s> <s val="MercSummary">Call in The Fleet, Shields Up, Weapons Online, Wave Motion Gun<n/><s val="MercCategory"><s val="MercCategory">Trained From:</s>  <s val="MercSummary">Hyperion</s><n/><s val="MercCategory">Limit per Mission:</s>  <s val="MercSummary">1 Battlecruiser Hero</s>
+Param/Value/lib_Camp_B11498BE=<s val="MercDescription">A Goliath pilot that uses a heavily modified mech to take on any contacts he's hired for. While not having as much destructive power as other mercs, his mech allows him to be much more versatile and accommodate for all terrain and situations.</s>
+Param/Value/lib_Camp_B3664797=Crusader
+Param/Value/lib_Camp_BBF535E6=<s val="MercCategory">Squadron Size:</s>  <s val="MercSummary">1 Viking Hero</s>
+Param/Value/lib_Camp_C85BB3E4=Fat Man
+Param/Value/lib_Camp_CB897CEB=<s val="MercCategory">Vitals:</s>  <s val="MercSummary"> 250 Health</n><s val="MercCategory">Abilities:</s> <s val="MercSummary"> Fireball, Fire Wave, Damage Reflection, Napalm Barrel<n/><s val="MercCategory">Trained From:</s>  <s val="MercSummary">Hyperion</s><n/><s val="MercCategory">Limit per Mission:</s>  <s val="MercSummary">1 Firebat Hero</s>
+Param/Value/lib_Camp_D68DB969=<s val="MercCategory">Squadron Size:</s>  <s val="MercSummary">1 Banshee Hero</s>
+Param/Value/lib_Camp_E31332D4=<s val="MercCategory">Vitals:</s>  <s val="MercSummary">320 Health</s><n/><s val="MercCategory">Abilities:</s> <s val="MercSummary">AMS Systems, Cloaking Field, Pack Leader, Night Howl<n/><s val="MercCategory"><s val="MercCategory">Trained From:</s>  <s val="MercSummary">Hyperion</s><n/><s val="MercCategory">Limit per Mission:</s>  <s val="MercSummary">1 Banshee Hero</s>
+Param/Value/lib_Camp_E6C595F8=<s val="MercCategory">Squad Size:</s><s val="MercSummary">  1 Marine Hero</s>
+Param/Value/lib_Camp_EA7988FC=<s val="MercDescription">This battlecruiser dates back to the earliest days of the Confederacy. The original name of this ship has been long worn out over the course of countless battles. The captain of this ship sounds strangely familiar...</s>
+Param/Value/lib_Camp_EF94B48A=<s val="MercCategory">Vitals:</s>  <s val="MercSummary">300 Health</s><n/><s val="MercCategory">Abilities:</s> <s val="MercSummary">Armored Core, Engine Boost, Bifrost, Gjallarhorn<n/><s val="MercCategory"><s val="MercCategory">Trained From:</s>  <s val="MercSummary">Hyperion</s><n/><s val="MercCategory">Limit per Mission:</s>  <s val="MercSummary">1 Viking Hero</s>
+Param/Value/lib_Camp_F2AE798E=<s val="MercDescription">An ex-pilot of the Elite Banshee group Night Wolves, this mercenary uses a Banshee with prototype technology that he 'liberated' from the Dominion after he left the Night Wolves.</s>
+Param/Value/lib_Camp_F8E5AF99=Vengeance
+Param/Value/lib_Camp_FDD5463C=<s val="MercDescription">A mercenary with a really big siege tank that holds enough firepower that it's been rumored to have held off a Zerg attack by itself for three days.</s>
+Reduces Cooldown by 5 Seconds=Reduces Cooldown by 5 seconds.
+Reduces Cooldown by an additional 5 seconds.=Reduces cooldown by an additional 5 seconds.
+RequirementNode/Tooltip/And1475695354LTCountUnitStrikerQueuedOrBetter4= Limit 4 Strikers
+RequirementNode/Tooltip/And1876341243LTCountUnitInfernoQueuedOrBetter4=Limit 4 Infernos
+RequirementNode/Tooltip/And362855857EqCountUnitBrigandQueuedOrBetter0LTCountUnitBrigand2QueuedOrBetter2=Max 2
+RequirementNode/Tooltip/And362855857EqCountUnitForwardOperatingBase2QueuedOrBetter0LTCountUnitForwardOperatingBaseQueuedOrBetter2=Max 2
+RequirementNode/Tooltip/And362855857EqCountUnitJumpBeacon2QueuedOrBetter0LTCountUnitJumpBeaconQueuedOrBetter2=Max 2
+RequirementNode/Tooltip/And362855857EqCountUnitManufacturingFacility2QueuedOrBetter0LTCountUnitManufacturingFacilityQueuedOrBetter2=Max 2
+RequirementNode/Tooltip/And362855857LTCountUnitChimeraQueuedOrBetter2NECountUnitChimeraQueuedOrBetter1=Max 2
+RequirementNode/Tooltip/And3872491591EqCountUnitForwardOperatingBaseFlyingQueuedOrBetter0LTCountUnitForwardOperatingBaseQueuedOrBetter2=Limit 2
+RequirementNode/Tooltip/And463010870LTCountUnitRaiderQueuedOrBetter12=Limit 12 Raiders
+RequirementNode/Tooltip/And875115879EqCountUnitHarvesterFlightModeQueuedOrBetter0LTCountUnitHarvesterQueuedOrBetter4NECountUnitHarvesterQueuedOrBetter3NECountUnitHarvesterQueuedOnlyAtUnit1=Max 2 Squads
+RequirementNode/Tooltip/And875115879LTCountUnitInfernoQueuedOrBetter4NECountUnitInfernoQueuedOrBetter3NECountUnitInfernoQueuedOrBetter1=Max 2 Squads
+RequirementNode/Tooltip/And875115879LTCountUnitRaiderQueuedOnly4LTCountUnitRaiderQueuedOrBetter8NECountUnitRaiderQueuedOrBetter7NECountUnitRaiderQueuedOrBetter6NECountUnitRaiderQueuedOrBetter5=Max 2 Squads
+RequirementNode/Tooltip/And875115879LTCountUnitRescueMedicQueuedOrBetter4NECountUnitRescueMedicQueuedOrBetter3NECountUnitRescueMedicQueuedOrBetter1=Max 2 Squads
+RequirementNode/Tooltip/And875115879LTCountUnitStrikerQueuedOrBetter4NECountUnitStrikerQueuedOrBetter3NECountUnitStrikerQueuedOrBetter1=Max 2 Squads
+RequirementNode/Tooltip/CountUnitAlias_GatewayCompleteOnly4260347518TechTreeCheat=Gateway
+RequirementNode/Tooltip/CountUnitRoboticsFacilityHyperionCompleteOnly790878647TechTreeCheat=Robotics Facility
+RequirementNode/Tooltip/Eq1491800815CountUpgradeHyperionProtossAirWeaponsLevel1CompleteOnly1=Protoss Air Weapons Level 1
+RequirementNode/Tooltip/Eq1740904084CountUpgradeHyperionProtossGroundWeaponsLevel1CompleteOnly1=Protoss Ground Weapons Level 1
+RequirementNode/Tooltip/Eq2244917532CountUnitBrigandQueuedOrBetter0=No Brigands on the Ground
+RequirementNode/Tooltip/Eq2731442398CountUpgradeHyperionProtossAirArmorLevel12CompleteOnly1=Protoss Air Armor Level 2
+RequirementNode/Tooltip/Eq3354561256CountUpgradeHyperionProtossShieldsLevel1CompleteOnly1=Protoss Shields Level 1
+RequirementNode/Tooltip/Eq3446134918CountUpgradeHyperionInfantryArmorLevel1CompleteOnly1=Terran Infantry Armor Level 1
+RequirementNode/Tooltip/Eq3569156689CountUpgradeHyperionProtossGroundArmorLevel1CompleteOnly1=Protoss Ground Armor Level 1
+RequirementNode/Tooltip/Eq3668446595CountUnitHarvesterFlightModeQueuedOrBetter0=No Flying Harvesters
+RequirementNode/Tooltip/Eq3722837715CountUpgradeHyperionInfantryArmorLevel12CompleteOnly1=Terran Infantry Armor Level 2
+RequirementNode/Tooltip/Eq3751249461CountUpgradeHyperionProtossShieldsLevel12CompleteOnly1=Protoss Shields Level 2
+RequirementNode/Tooltip/Eq419273267CountUpgradeHyperionProtossGroundArmorLevel12CompleteOnly1=Protoss Ground Armor Level 2
+RequirementNode/Tooltip/Eq4240903723CountUnitCrusaderSiegeModeQueuedOrBetter0=No Sieged Crusader
+RequirementNode/Tooltip/Eq4283478838CountUpgradeHyperionProtossAirArmorLevel1CompleteOnly1=Protoss Air Armor Level 1
+RequirementNode/Tooltip/Eq524089035CountUpgradeHyperionProtossAirWeaponsLevel12CompleteOnly1=Protoss Air Weapons Level 2
+RequirementNode/Tooltip/Eq629999927CountUpgradeHyperionProtossGroundWeaponsLevel12CompleteOnly1=Protoss Ground Weapons Level 2
+RequirementNode/Tooltip/LT1498717124CountUnitBunkerBotQueuedOrBetter24=Limit 24
+RequirementNode/Tooltip/LT1696861618CountUnitSiegeTowerQueuedOrBetter6=Max 6
+RequirementNode/Tooltip/LT1877824067CountUnitRescueMedicQueuedOrBetter4=Limit 4 Rescue Medics
+RequirementNode/Tooltip/LT2165397319CountUnitShotgunTurretQueuedOrBetter8=Max 8
+RequirementNode/Tooltip/LT263461205CountUnitHarvesterQueuedOrBetter6=Limit 6
+RequirementNode/Tooltip/LT263461205CountUnitShotgunTurretQueuedOrBetter6=Limit 6
+RequirementNode/Tooltip/LT2783830117CountUnitSCV2QueuedOrBetter12=Max 12
+RequirementNode/Tooltip/LT3158651032CountUnitBunker2CompleteOnly4=Max 4
+RequirementNode/Tooltip/LT362855857CountUnitBrynhildrCompleteOnly2=Max 2
+RequirementNode/Tooltip/LT362855857CountUnitDullahanCompleteOnly2=Max 2
+RequirementNode/Tooltip/LT362855857CountUnitGryphonBattlecruiserCompleteOnly2=Max 2
+RequirementNode/Tooltip/LT362855857CountUnitHadesCompleteOnly2=Max 2
+RequirementNode/Tooltip/LT362855857CountUnitLeon998xT8AssaultTankCompleteOnly2=Max 2
+RequirementNode/Tooltip/LT362855857CountUnitMjolnirCompleteOnly2=Max 2
+RequirementNode/Tooltip/LT362855857CountUnitSensorTowerQueuedOrBetter2=Max 2
+RequirementNode/Tooltip/LT362855857CountUnitSupplyDepot2QueuedOrBetter2=Max 2
+RequirementNode/Tooltip/LT362855857CountUnitUEDGoliathCompleteOnly2=Max 2
+RequirementNode/Tooltip/LT362855857CountUnitViperGhostCompleteOnly2=Max 2
+RequirementNode/Tooltip/LT362855857CountUnitVizardCompleteOnly2=Max 2
+RequirementNode/Tooltip/LT3730171456CountUnitChimeraQueuedOrBetter4=Limit 4
+RequirementNode/Tooltip/LT3730171456CountUnitLeon998xT8AssaultTankQueuedOrBetter4=Limit 4
+RequirementNode/Tooltip/LT3730171456CountUnitRepairBayQueuedOrBetter4=Limit 4
+RequirementNode/Tooltip/LT3872491591CountUnitBrynhildrQueuedOrBetter2=Limit 2
+RequirementNode/Tooltip/LT3872491591CountUnitPegasusDropshipQueuedOrBetter2=Limit 2
+RequirementNode/Tooltip/LT578349118CountUnitAX95PredatorQueuedOrBetter1=Max 1
+RequirementNode/Tooltip/LT578349118CountUnitMX08GunwalkerCompleteOnly1=Max 1
+RequirementNode/Tooltip/LT578349118CountUnitPegasusDropshipCompleteOnly1=Max 1
+RequirementNode/Tooltip/LT578349118CountUnitRX100PredatorQueuedOrBetter1=Max 1
+RequirementNode/Tooltip/LT578349118CountUnitShadowRavenCompleteOnly1=Max 1
+RequirementNode/Tooltip/Or1832158000EqCountUnitHeimdallQueuedOrBetter0=No landed Heimdall
+RequirementNode/Tooltip/Or2473417167EqCountUnitMjolnirSiegeQueuedOrBetter0=No Mjolnirs Sieged
+RequirementNode/Tooltip/Or2902612229CountUnitForwardOperatingBaseCompleteOnlyOrCountUnitForwardOperatingBaseFlyingCompleteOnly=Forward Operating Base Constructed
+RequirementNode/Tooltip/Or4260347518CountUnitGatewayHyperionCompleteOnlyTechTreeCheatCountUnitWarpGateHyperionQueuedOnlyTechTreeCheat=Gateway
+Unit/Name/AX95Predator=AX-95 Predator
+Unit/Name/ArmoryHyperion=Armory
+Unit/Name/BeguilerQueen=Beguiler Queen
+Unit/Name/Brigand=Brigand
+Unit/Name/Brigand2=Brigand
+Unit/Name/BrigandFighter=Sky Fury
+Unit/Name/BrigandFighterMode=Brigand
+Unit/Name/Brynhildr=Brynhildr
+Unit/Name/Bunker2=Bunker
+Unit/Name/BunkerBot=Bunker Bot
+Unit/Name/BunkerHyperion=Bunker
+Unit/Name/ChaosArchon=Chaos Archon
+Unit/Name/ChaosTemplar=Chaos Templar
+Unit/Name/Chimera=Chimera
+Unit/Name/CombatMedicSierra=Combat Medic Sierra
+Unit/Name/Crusader=Crusader
+Unit/Name/CrusaderDummy=Crusader Dummy
+Unit/Name/CrusaderSiegeMode=Crusader
+Unit/Name/CyberneticsCoreHyperion=Cybernetics Core
+Unit/Name/DireWolf=Dire Wolf
+Unit/Name/Displacer=Displacer
+Unit/Name/Dullahan=Dullahan
+Unit/Name/Earthbreaker=Earthbreaker
+Unit/Name/Earthbreaker2=Earthbreaker
+Unit/Name/EarthbreakerSiegeMode=Earthbreaker
+Unit/Name/EngineeringBayHyperion=Engineering Bay
+Unit/Name/FatMan=Fat Man
+Unit/Name/FatManMine=Fat Man Mine
+Unit/Name/Fenris=Fenris
+Unit/Name/FenrisHydralisk=Fenris
+Unit/Name/ForgeHyperion=Forge
+Unit/Name/Forward Operating Base=Forward Operating Base
+Unit/Name/ForwardOperatingBase=Forward Operating Base
+Unit/Name/FractalMonolith=Fractal Monolith
+Unit/Name/FracturedBeamWeapon=Fractured Beam Weapon
+Unit/Name/GatewayHyperion=Gateway
+Unit/Name/GryphonBattlecruiser=Gryphon Battlecruiser
+Unit/Name/Hades=Hades
+Unit/Name/Harvester=Harvester
+Unit/Name/HarvesterFlightMode=Harvester 
+Unit/Name/Heimdall=Heimdall
+Unit/Name/Heimdall2=Heimdall
+Unit/Name/HeimdallFighter=Heimdall
+Unit/Name/HighTemplar2=High Templar
+Unit/Name/HighTemplarHyperion=High Templar 
+Unit/Name/HunterRoach=Hunter Roach
+Unit/Name/HunterRoach2=Hunter Roach 
+Unit/Name/HunterRoachBurrow=Hunter Roach 
+Unit/Name/HybridBlaster=Hybrid 
+Unit/Name/HybridBlasterestroyer=Hybrid Destroyer
+Unit/Name/HybridReaverV2=Hybrid Reaver
+Unit/Name/Hyperion2-1=Hyperion
+Unit/Name/Hyperion3-1=Hyperion
+Unit/Name/HyperionBarracks=Barracks
+Unit/Name/HyperionFactory=Factory
+Unit/Name/HyperionFlyingBase-1=Hyperion
+Unit/Name/HyperionLanded-1=Hyperion
+Unit/Name/HyperionRepairBay=Engineering Bay
+Unit/Name/HyperionRepairBayDrone=Repair Drone
+Unit/Name/HyperionStarport=Starport
+Unit/Name/HyperionSupplyDepot=Supply Depot
+Unit/Name/HyperionSupplyDepot2=Supply Depot
+Unit/Name/Inferno=Inferno
+Unit/Name/JackFrost=Jack Frost
+Unit/Name/Jump Beacon=Jump Beacon
+Unit/Name/JumpBeacon=Jump Beacon
+Unit/Name/Legionnaire=Legionnaire
+Unit/Name/Leon988xT8AssaultTank=Leon-998x-T8 Assault Tank
+Unit/Name/Leon998xT8AssaultTank=Leon-998x-T8 Assault Tank
+Unit/Name/MCV=MCV
+Unit/Name/MX08Gunwalker=MX-08 Gunwalker
+Unit/Name/Manufacturing Facility=Manufacturing Facility
+Unit/Name/ManufacturingFacility=Manufacturing Facility
+Unit/Name/MechWarrior=MechWarrior
+Unit/Name/MiniNuke=Mini Nuke
+Unit/Name/Missile Turret=
+Unit/Name/MissileTurretHyperion=Missile Turret
+Unit/Name/Mjolnir=Mjolnir
+Unit/Name/NapalmBarrel=Napalm Barrel
+Unit/Name/NuclearVessel=Nuclear Vessel
+Unit/Name/OilPuddle=Oil Puddle
+Unit/Name/PegasusDropship=Pegasus Dropship
+Unit/Name/PhalanxImmortal=Phalanx Immortal
+Unit/Name/PhoenixResurrect=Phoenix
+Unit/Name/ProbeHyperion=Probe
+Unit/Name/PsiConfusion=Psi Disrupter
+Unit/Name/PsiEmitter=Psi Emitter
+Unit/Name/RX100Predator=RX-100 Predator
+Unit/Name/Raider=Raider
+Unit/Name/RepairBay=Repair Bay
+Unit/Name/RepairBayDrone=Repair Bay Drone
+Unit/Name/RescueMedic=Rescue Medic
+Unit/Name/RoboticsFacilityHyperion=Robotics Facility
+Unit/Name/SCV2=SCV
+Unit/Name/SCVHyperion=SCV
+Unit/Name/Sergeant=Sergeant
+Unit/Name/ShadowRaven=Shadow Raven
+Unit/Name/ShadowRavenRepairDrone=Repair Drone
+Unit/Name/ShadowRavenSentryBot=Shadow Raven - Sentry Bot
+Unit/Name/ShotgunTurret=Shotgun Turret
+Unit/Name/SiegeTower=Siege Tower
+Unit/Name/StalkerShade=Stalker Shade
+Unit/Name/StargateHyperion=Stargate
+Unit/Name/Striker=Striker
+Unit/Name/SupplyDepot2=Supply Depot
+Unit/Name/SupplyDepot3=Supply Depot
+Unit/Name/SupplyDepotHyperion=Supply Depot 
+Unit/Name/SupplyDepotHyperionLowered=Supply Depot 
+Unit/Name/TechLab2=Tech Lab
+Unit/Name/TwilightZealot=Twilight Zealot
+Unit/Name/UEDGoliath=UED Goliath
+Unit/Name/Vengeance=Vengeance
+Unit/Name/VengeanceFighter=Vengeance Fighter
+Unit/Name/Viper2=Ghost
+Unit/Name/ViperGhost=Viper
+Unit/Name/Vizard=Vizard
+Unit/Name/VoidHunter=Void Hunter
+Unit/Name/VoidStalker=Void Stalker
+Unit/Name/WarColossus=War Colossus
+Unit/Name/WarpGateHyperion=Warp Gate
+UnitKillRank/Hyperion2=Raynor's Raiders Flagship
+UnitKillRank/Hyperion3=Raynor's Raiders Flagship
+UnitSubtitle/Hyperion2=Raynor's Raiders Flagship
+UnitSubtitle/Hyperion3=Raynor's Raiders Flagship
+Upgrade/Name/3DBombPrinter=3D Bomb Printer
+Upgrade/Name/AMSRecalibrations=AMS Recalibrations
+Upgrade/Name/AcceleratorCircuitry=Accelerator Circuitry
+Upgrade/Name/AdvancedTacticalMissiles=Advanced Tactical Missiles
+Upgrade/Name/AmmoRefit=Ammo Refit
+Upgrade/Name/ArmoredCore=Armored Core
+Upgrade/Name/ArtemisSystems=Artemis Systems
+Upgrade/Name/BigShotCannon=Big Shot Cannon
+Upgrade/Name/BodyArmorOptimization=Body Armor Optimization
+Upgrade/Name/BuildAX95Predator=Build AX-95 Predator
+Upgrade/Name/BuildNuclearVessel=Build Nuclear Vessel
+Upgrade/Name/BuildRX100Predator=Build RX-100 Predator
+Upgrade/Name/BuildShadowRaven=Build Shadow Raven
+Upgrade/Name/CellularReactorsHyperion=Cellular Reactors (Hyperion)
+Upgrade/Name/CombatFrame=Combat Frame
+Upgrade/Name/CombatSerums=Combat Serums
+Upgrade/Name/CrisisSuit=Crisis Suit
+Upgrade/Name/DualDispensers=Dual Dispensers
+Upgrade/Name/DualMagneticChamber=Dual Magnetic Chamber
+Upgrade/Name/EMPGranted=EMP Granted
+Upgrade/Name/EndoSteelStructure=Endo-Steel Structure
+Upgrade/Name/FasterNukeTime=Faster Nuke Time
+Upgrade/Name/FerroFibrousArmor=Ferro-Fibrous Armor
+Upgrade/Name/FlameOnActive=Flame On Active
+Upgrade/Name/FlamerOvercharge=Flamer Overcharge
+Upgrade/Name/FuelInjectors=Fuel Injectors
+Upgrade/Name/FullofSpiders=Full of Spiders
+Upgrade/Name/GreenFlames=Green Flames
+Upgrade/Name/HardenedArmor=Hardened Armor
+Upgrade/Name/HireSergeantPH=Hire Sergeant PH
+Upgrade/Name/HyperionInfantryArmorLevel1=Hyperion Infantry Armor Level 1
+Upgrade/Name/HyperionInfantryArmorLevel12=Hyperion Infantry Armor Level 2
+Upgrade/Name/HyperionInfantryArmorLevel13=Hyperion Infantry Armor Level 3
+Upgrade/Name/HyperionInfantryArmorLevel2=Hyperion Infantry Armor Level 2
+Upgrade/Name/HyperionInfantryArmorLevel3=Hyperion Infantry Armor Level 3
+Upgrade/Name/HyperionInfantryWeaponsLevel1=Hyperion Infantry Weapons Level 1
+Upgrade/Name/HyperionInfantryWeaponsLevel2=Hyperion Infantry Weapons Level 2
+Upgrade/Name/HyperionInfantryWeaponsLevel3=Hyperion Infantry Weapons Level 3
+Upgrade/Name/HyperionProtossAirArmorLevel1=Hyperion Protoss Air Armor Level 1
+Upgrade/Name/HyperionProtossAirArmorLevel12=Hyperion Protoss Air Armor Level 2
+Upgrade/Name/HyperionProtossAirArmorLevel13=Hyperion Protoss Air Armor Level 3
+Upgrade/Name/HyperionProtossAirWeaponsLevel1=Hyperion Protoss Air Weapons Level 1
+Upgrade/Name/HyperionProtossAirWeaponsLevel12=Hyperion Protoss Air Weapons Level 2
+Upgrade/Name/HyperionProtossAirWeaponsLevel13=Hyperion Protoss Air Weapons Level 3
+Upgrade/Name/HyperionProtossGroundArmorLevel1=Hyperion Protoss Ground Armor Level 1
+Upgrade/Name/HyperionProtossGroundArmorLevel12=Hyperion Protoss Ground Armor Level 2
+Upgrade/Name/HyperionProtossGroundArmorLevel13=Hyperion Protoss Ground Armor Level 3
+Upgrade/Name/HyperionProtossGroundWeaponsLevel1=Hyperion Protoss Ground Weapons Level 1
+Upgrade/Name/HyperionProtossGroundWeaponsLevel12=Hyperion Protoss Ground Weapons Level 2
+Upgrade/Name/HyperionProtossGroundWeaponsLevel13=Hyperion Protoss Ground Weapons Level 3
+Upgrade/Name/HyperionProtossShieldsLevel1=Hyperion Protoss Shields Level 1
+Upgrade/Name/HyperionProtossShieldsLevel12=Hyperion Protoss Shields Level 2
+Upgrade/Name/HyperionProtossShieldsLevel13=Hyperion Protoss Shields Level 3
+Upgrade/Name/HyperionShipPlatingLevel1=Hyperion Ship Plating Level 1
+Upgrade/Name/HyperionShipPlatingLevel2=Hyperion Ship Plating Level 2
+Upgrade/Name/HyperionShipPlatingLevel3=Hyperion Ship Plating Level 3
+Upgrade/Name/HyperionShipWeaponsLevel1=Hyperion Ship Weapons Level 1
+Upgrade/Name/HyperionShipWeaponsLevel2=Hyperion Ship Weapons Level 2
+Upgrade/Name/HyperionShipWeaponsLevel3=Hyperion Ship Weapons Level 3
+Upgrade/Name/HyperionVehiclePlatingLevel1=Hyperion Vehicle Plating Level 1
+Upgrade/Name/HyperionVehiclePlatingLevel2=Hyperion Vehicle Plating Level 2
+Upgrade/Name/HyperionVehiclePlatingLevel3=Hyperion Vehicle Plating Level 3
+Upgrade/Name/HyperionVehicleWeaponsLevel1=Hyperion Vehicle Weapons Level 1
+Upgrade/Name/HyperionVehicleWeaponsLevel2=Hyperion Vehicle Weapons Level 2
+Upgrade/Name/HyperionVehicleWeaponsLevel3=Hyperion Vehicle Weapons Level 3
+Upgrade/Name/ImpactGel=Impact Gel
+Upgrade/Name/InsideofAWorm=Inside of A Worm
+Upgrade/Name/MagRailProjectiles=Mag-Rail Projectiles
+Upgrade/Name/MagneticAcceleratorCannon=Magnetic Accelerator Cannon
+Upgrade/Name/MedicRegen=Medic Regen
+Upgrade/Name/MercenaryWarpIn=Mercenary Warp In
+Upgrade/Name/MineralReductions=Mineral Reductions
+Upgrade/Name/MiningEfficency=Mining Efficency
+Upgrade/Name/MobileDetector=Mobile Detector
+Upgrade/Name/MultiSpectrumScanner=Multi-Spectrum Scanner
+Upgrade/Name/MultiThreadTreads=Multi-Thread Treads
+Upgrade/Name/NecrodermisArmor=Necrodermis Armor
+Upgrade/Name/NeuralSurgery=Neural Surgery
+Upgrade/Name/PermaCloak=Perma Cloak
+Upgrade/Name/PlasmaCapacitors=Plasma Capacitors
+Upgrade/Name/PlasmaCapacitorsLevel1=Plasma Capacitors Level 1
+Upgrade/Name/PlasmaCapacitorsLevel2=Plasma Capacitors Level 2
+Upgrade/Name/PlasmaCapacitorsLevel3=Plasma Capacitors Level 3
+Upgrade/Name/PlasmaCapacitorsLevel4=Plasma Capacitors Level 4
+Upgrade/Name/PlasmaCapacitorsLevel5=Plasma Capacitors Level 5
+Upgrade/Name/PsiConfusionHyperion=Psi Disrupter 
+Upgrade/Name/PsiEmitter=Psi Emitter
+Upgrade/Name/QuickSiege=Quick Siege
+Upgrade/Name/RapidConstruction=Rapid Construction
+Upgrade/Name/RegenativeStructures=Regenative Structures
+Upgrade/Name/RegenativeStructuresLevel1=Regenative Structures Level 1
+Upgrade/Name/RegenativeStructuresLevel2=Regenative Structures Level 2
+Upgrade/Name/RegenativeStructuresLevel3=Regenative Structures Level 3
+Upgrade/Name/RegenativeStructuresLevel4=Regenative Structures Level 4
+Upgrade/Name/RegenativeStructuresLevel5=Regenative Structures Level 5
+Upgrade/Name/RegenerativeBioSteelHyperion=Regenerative Bio-Steel (Hyperion)
+Upgrade/Name/ReinforcedStructure=Reinforced Structure
+Upgrade/Name/ScaledCarapace=Scaled Carapace
+Upgrade/Name/ScaledCarapaceLevel1=Scaled Carapace Level 1
+Upgrade/Name/ScaledCarapaceLevel2=Scaled Carapace Level 2
+Upgrade/Name/ScaledCarapaceLevel3=Scaled Carapace Level 3
+Upgrade/Name/ScaledCarapaceLevel4=Scaled Carapace Level 4
+Upgrade/Name/ScaledCarapaceLevel5=Scaled Carapace Level 5
+Upgrade/Name/SeismicSensors=Seismic Sensors
+Upgrade/Name/SelfDefenseWeaponry=Self Defense Weaponry
+Upgrade/Name/ShieldGenerators=Shield Generators
+Upgrade/Name/ShieldGeneratorsLevel1=Shield Generators Level 1
+Upgrade/Name/ShieldGeneratorsLevel2=Shield Generators Level 2
+Upgrade/Name/ShieldGeneratorsLevel3=Shield Generators Level 3
+Upgrade/Name/ShieldGeneratorsLevel4=Shield Generators Level 4
+Upgrade/Name/ShieldGeneratorsLevel5=Shield Generators Level 5
+Upgrade/Name/ShortenedFuses=Shortened Fuses
+Upgrade/Name/StartupFieldBaseKits=Startup Field Base Kits
+Upgrade/Name/TacticalJump=Tactical Jump
+Upgrade/Name/TargetingComputer=Targeting Computer
+Upgrade/Name/TerranShipWeaponsLevel12=Terran Ship Weapons Level 4
+Upgrade/Name/TerrazineInjections=Terrazine Injections
+Upgrade/Name/U438Shells=U-438 Shells
+Upgrade/Name/WarpJump=Warp Jump
+Upgrade/Name/WhitePhosperousFlamers=White Phosperous Flamers
+Upgrade/Name/Windup=Windup
+Upgrade/Name/YamatoCannonImprovements=Yamato Cannon Improvements
+Weapon/Name/ATALaserBatteries=ATA Laser Batteries
+Weapon/Name/ATXLaserBatteries=ATX Laser Batteries
+Weapon/Name/AntiArmorRifle2=Anti-Armor Rifle
+Weapon/Name/AntiMaterialRifle=Anti-Material Rifle
+Weapon/Name/AntiMissileSystem=Anti Missile System
+Weapon/Name/ArrowIVMissile=Arrow IV Missile
+Weapon/Name/BrigandPiercingGatling=Brigand- Piercing Gatling
+Weapon/Name/C15GuassRifle=C-15 Guass Rifle
+Weapon/Name/C25Railgun=C-25 Railgun
+Weapon/Name/ChainLightning=Chain Lightning
+Weapon/Name/ChaosBlast=Chaos Blast
+Weapon/Name/DireWolfAMS=Dire Wolf AMS
+Weapon/Name/DragonGrenade=Dragon Grenade
+Weapon/Name/DullahanScreecherMissiles=Dullahan -Screecher Missiles
+Weapon/Name/EMPMissiles=EMP Missiles
+Weapon/Name/FlakCannons=Flak Cannons
+Weapon/Name/Flamer=Flamer
+Weapon/Name/Flamer2=Flamer
+Weapon/Name/Flamer3=Flamer
+Weapon/Name/FracturedBeam=Fractured Beam
+Weapon/Name/Gjallarhorn=Gjallarhorn
+Weapon/Name/Gjallarhorn2=Gjallarhorn
+Weapon/Name/GreekFireFlamethrower=Greekfire Flamethrower
+Weapon/Name/GreekfireFlamethrowerOvercharged=Greekfire Flamethrower Overcharged
+Weapon/Name/HALOClusterRockets=H.A.L.O Cluster Rockets
+Weapon/Name/ImpactMissiles=Impact Missiles
+Weapon/Name/JarngreiprCannon=Jarngreipr Cannons
+Weapon/Name/MediumLaser=Medium Laser
+Weapon/Name/MercReaperP38ScytheGuassPistol2=P-55 "Scythe" Gauss Pistol
+Weapon/Name/MultiShotGrenadeLauncher=Multi-Shot Grenade Launcher
+Weapon/Name/MultiShotGrenadeLauncher2=Multi-Shot Grenade Launcher
+Weapon/Name/MultiShotGrenadeLauncher3=Multi-Shot Grenade Launcher
+Weapon/Name/OverchargedCannons=Overcharged Cannons
+Weapon/Name/P38ScytheGuassPistol=P-55 "Scythe" Gauss Pistol
+Weapon/Name/PPG7PlasmaCannon=PPG-7 Plasma Cannon
+Weapon/Name/PhasingLance=Phasing Lance
+Weapon/Name/PlasmaTorpedoes=Plasma Torpedoes
+Weapon/Name/PunisherGrenadeLauncher=Punisher Grenade Launcher
+Weapon/Name/RagnarokAntiAir=Ragnarok Anti-Air
+Weapon/Name/RagnarokSiegeCannon=Ragnarok Siege Cannon
+Weapon/Name/ShadowRavenSentryBotLaunch=Shadow Raven - Sentry Bot Launch
+Weapon/Name/Stickler=Stickler
+Weapon/Name/TriPulseLaser=Tri-Pulse Laser
+Weapon/Name/TsarCannon=Tsar Cannon
+Weapon/Name/TwilightBlades=Twilight Blades
+Weapon/Name/UnknownWeapon=Gunwalker AMS
+Weapon/Name/VengeanceCannons=Vengeance Cannons
+Weapon/Name/VengeanceCannons2=Vengeance Cannons
+Weapon/Name/VulcanAutocannon=Vulcan Autocannon
+Weapon/Name/WarpClaws=Warp Claws
